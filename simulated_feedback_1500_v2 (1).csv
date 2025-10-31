@@ -1,0 +1,1501 @@
+Text,Sentiment,Source,Date/Time,User ID,Location,Confidence Score,Product/Service,Category,Rating,Response Time (mins),Resolution Status
+"It was okay, nothing special.",Neutral,Website Testimonial,2023-08-29 06:04:00,user10000,Toronto,0.78,Website,Customer Support,4,152,Resolved
+Received wrong item.,Negative,Amazon Reviews,2023-06-01 09:31:00,user10001,Toronto,0.88,Mobile App,Delivery,5,133,Resolved
+Product quality is acceptable.,Neutral,Website Testimonial,2023-09-16 21:12:00,user10002,London,0.76,Gift Card,Usability,5,103,Resolved
+Slow response from team.,Negative,Yelp,2023-08-26 02:44:00,user10003,Berlin,0.74,Website,Billing,3,134,Escalated
+Great quality and quick delivery.,Positive,TripAdvisor,2023-06-23 16:11:00,user10004,Paris,0.71,Delivery Service,Billing,3,165,Resolved
+Chatbot was useless and unhelpful.,Negative,Amazon Reviews,2023-06-22 18:19:00,user10005,Los Angeles,0.73,Premium Plan,Product Quality,4,39,Resolved
+"It was okay, nothing special.",Neutral,Spotify,2023-07-03 03:50:00,user10006,Mumbai,0.74,Subscription,Technical,2,170,Pending
+Received wrong item.,Negative,TripAdvisor,2023-08-05 07:05:00,user10007,London,0.9,Product A,Website Experience,1,173,Resolved
+Delivery took too long.,Negative,TripAdvisor,2023-06-01 14:25:00,user10008,Dubai,0.7,Gift Card,Refund,2,33,Resolved
+Neither good nor bad.,Neutral,Website Testimonial,2023-08-17 13:23:00,user10009,Berlin,0.91,Product A,Website Experience,4,23,Resolved
+Amazing service!,Positive,Email,2023-08-19 07:34:00,user10010,New York,0.79,Mobile App,Customer Support,4,146,Pending
+Response time could be better.,Neutral,IMDb,2023-06-03 19:27:00,user10011,Sydney,0.78,Subscription,Billing,1,43,Escalated
+Neither good nor bad.,Neutral,Email,2023-08-28 17:51:00,user10012,Paris,0.94,Delivery Service,Delivery,3,131,Resolved
+Customer care was top-notch.,Positive,Twitter,2023-08-29 06:19:00,user10013,Berlin,0.77,Mobile App,Product Quality,5,72,Pending
+Great quality and quick delivery.,Positive,IMDb,2023-06-04 13:02:00,user10014,Paris,0.73,Gift Card,Customer Support,1,83,Pending
+Neither good nor bad.,Neutral,Website Testimonial,2023-07-27 12:43:00,user10015,Toronto,0.79,Premium Plan,Refund,2,173,Escalated
+Received wrong item.,Negative,Twitter,2023-08-05 08:31:00,user10016,Paris,0.9,Website,Refund,1,13,Resolved
+Delivery took too long.,Negative,Twitter,2023-06-27 22:35:00,user10017,Berlin,0.8,Website,Billing,4,151,Pending
+"It was okay, nothing special.",Neutral,IMDb,2023-09-01 04:52:00,user10018,Toronto,0.9,Delivery Service,Delivery,5,169,Resolved
+Neither good nor bad.,Neutral,IMDb,2023-09-14 11:51:00,user10019,Dubai,0.87,Customer Portal,Delivery,3,83,Resolved
+I will definitely recommend this to friends.,Positive,TripAdvisor,2023-07-14 12:50:00,user10020,Paris,0.72,Product A,Technical,2,74,Resolved
+Website kept crashing.,Negative,ChatSupport,2023-06-19 13:27:00,user10021,New York,0.84,Customer Portal,Customer Support,5,150,Resolved
+I will definitely recommend this to friends.,Positive,Email,2023-06-26 06:12:00,user10022,Paris,0.72,Product B,Refund,4,110,Resolved
+Amazing service!,Positive,Email,2023-06-19 08:20:00,user10023,Singapore,0.93,Customer Portal,Delivery,1,151,Pending
+Product quality is acceptable.,Neutral,Amazon Reviews,2023-06-19 14:13:00,user10024,Dubai,0.79,Gift Card,Delivery,2,145,Escalated
+Great quality and quick delivery.,Positive,Website Testimonial,2023-06-12 03:18:00,user10025,Sydney,0.7,Delivery Service,Website Experience,3,111,Escalated
+Product arrived damaged.,Negative,Website Testimonial,2023-06-18 12:12:00,user10026,New York,0.88,Gift Card,Customer Support,4,98,Resolved
+Amazing service!,Positive,TripAdvisor,2023-07-09 19:32:00,user10027,Paris,0.9,Customer Portal,Billing,5,141,Resolved
+Delivery took too long.,Negative,Amazon Reviews,2023-08-17 10:49:00,user10028,Sydney,0.93,Product B,Refund,3,102,Resolved
+Very satisfied with the response.,Positive,Yelp,2023-06-05 23:57:00,user10029,New York,0.91,Premium Plan,Refund,2,163,Resolved
+"It was okay, nothing special.",Neutral,Twitter,2023-09-27 12:31:00,user10030,Mumbai,0.73,Mobile App,Technical,3,22,Resolved
+Customer care was top-notch.,Positive,Amazon Reviews,2023-08-25 05:10:00,user10031,Sydney,0.89,Subscription,Product Quality,4,63,Pending
+Not worth the money.,Negative,IMDb,2023-07-11 19:46:00,user10032,Paris,0.7,Delivery Service,Refund,2,88,Pending
+"Terrible experience, very disappointed.",Negative,Spotify,2023-09-06 09:12:00,user10033,New York,0.77,Website,Billing,4,85,Resolved
+Loved the product!,Positive,Website Testimonial,2023-06-19 03:57:00,user10034,London,0.9,Product A,Delivery,2,90,Resolved
+Product quality is acceptable.,Neutral,Spotify,2023-09-12 10:23:00,user10035,New York,0.84,Website,Usability,2,173,Resolved
+Instructions were confusing.,Negative,Yelp,2023-06-20 15:38:00,user10036,Los Angeles,0.85,Delivery Service,Billing,2,108,Resolved
+User experience is fantastic.,Positive,ChatSupport,2023-08-08 09:53:00,user10037,Paris,0.82,Premium Plan,Customer Support,5,6,Pending
+Neutral feeling about the experience.,Neutral,Yelp,2023-09-20 13:58:00,user10038,Dubai,0.83,Product A,Website Experience,5,128,Resolved
+Average performance.,Neutral,TripAdvisor,2023-07-11 03:13:00,user10039,Mumbai,0.82,Subscription,Billing,3,60,Resolved
+Service quality was consistent.,Neutral,Email,2023-09-18 17:33:00,user10040,Mumbai,0.72,Subscription,Delivery,4,118,Resolved
+Response time could be better.,Neutral,Email,2023-06-22 14:51:00,user10041,Sydney,0.72,Delivery Service,Customer Support,2,106,Escalated
+Experience was fair.,Neutral,Email,2023-06-10 03:30:00,user10042,Los Angeles,0.94,Subscription,Usability,3,156,Resolved
+Service quality was consistent.,Neutral,Twitter,2023-09-13 03:22:00,user10043,Toronto,0.79,Premium Plan,Billing,4,127,Pending
+Product arrived damaged.,Negative,ChatSupport,2023-08-26 15:14:00,user10044,Los Angeles,0.83,Premium Plan,Billing,5,58,Resolved
+Product quality is acceptable.,Neutral,IMDb,2023-08-17 07:46:00,user10045,New York,0.93,Customer Portal,Delivery,4,63,Resolved
+Loved the product!,Positive,ChatSupport,2023-07-23 10:05:00,user10046,Toronto,0.75,Delivery Service,Refund,5,166,Pending
+Very satisfied with the response.,Positive,Yelp,2023-06-22 01:48:00,user10047,Berlin,0.78,Mobile App,Billing,3,158,Resolved
+Website kept crashing.,Negative,Yelp,2023-08-10 12:10:00,user10048,Berlin,0.81,Customer Portal,Billing,4,75,Resolved
+"It was okay, nothing special.",Neutral,Spotify,2023-09-21 20:48:00,user10049,New York,0.81,Product B,Billing,1,20,Pending
+Fast and friendly communication.,Positive,Spotify,2023-09-14 05:24:00,user10050,Toronto,0.85,Website,Refund,1,128,Resolved
+Received wrong item.,Negative,Yelp,2023-07-29 16:43:00,user10051,Berlin,0.81,Mobile App,Technical,4,152,Pending
+"Terrible experience, very disappointed.",Negative,TripAdvisor,2023-09-17 18:39:00,user10052,London,0.71,Website,Billing,4,57,Pending
+Experience was fair.,Neutral,Twitter,2023-07-25 23:56:00,user10053,Berlin,0.71,Subscription,Website Experience,4,91,Pending
+Fast and friendly communication.,Positive,Email,2023-09-13 20:06:00,user10054,Paris,0.71,Product B,Delivery,4,117,Resolved
+Service quality was consistent.,Neutral,Yelp,2023-06-02 10:55:00,user10055,Mumbai,0.81,Subscription,Billing,2,34,Pending
+"Met expectations, no issues.",Neutral,Website Testimonial,2023-07-08 18:51:00,user10056,Dubai,0.87,Product A,Website Experience,1,38,Resolved
+Fast and friendly communication.,Positive,Yelp,2023-07-16 13:14:00,user10057,New York,0.86,Delivery Service,Billing,2,10,Pending
+Chat was fine but not great.,Neutral,ChatSupport,2023-06-08 22:01:00,user10058,London,0.7,Customer Portal,Website Experience,3,42,Resolved
+Website kept crashing.,Negative,TripAdvisor,2023-06-25 10:48:00,user10059,Paris,0.89,Product A,Customer Support,5,101,Resolved
+Response time could be better.,Neutral,Yelp,2023-08-10 16:19:00,user10060,Singapore,0.91,Website,Website Experience,3,34,Resolved
+"Met expectations, no issues.",Neutral,Spotify,2023-06-23 07:36:00,user10061,Berlin,0.91,Product B,Product Quality,1,33,Resolved
+Chat was fine but not great.,Neutral,Email,2023-06-20 13:59:00,user10062,Mumbai,0.81,Website,Delivery,3,129,Resolved
+Customer support never replied.,Negative,Twitter,2023-07-10 23:40:00,user10063,Los Angeles,0.88,Delivery Service,Refund,3,41,Resolved
+Everything worked perfectly.,Positive,Spotify,2023-09-09 11:36:00,user10064,Singapore,0.9,Mobile App,Technical,4,65,Resolved
+Instructions were confusing.,Negative,Website Testimonial,2023-07-14 21:59:00,user10065,Paris,0.7,Website,Technical,4,9,Resolved
+User experience is fantastic.,Positive,Amazon Reviews,2023-07-08 10:22:00,user10066,Toronto,0.84,Gift Card,Refund,2,61,Resolved
+Fast and friendly communication.,Positive,Email,2023-09-12 04:02:00,user10067,Los Angeles,0.76,Mobile App,Delivery,4,134,Pending
+Website kept crashing.,Negative,IMDb,2023-07-15 22:50:00,user10068,Sydney,0.91,Customer Portal,Refund,4,135,Resolved
+"It was okay, nothing special.",Neutral,Yelp,2023-06-09 01:48:00,user10069,Singapore,0.78,Product A,Product Quality,3,163,Pending
+I will definitely recommend this to friends.,Positive,IMDb,2023-06-15 17:35:00,user10070,London,0.94,Customer Portal,Product Quality,2,8,Resolved
+Neither good nor bad.,Neutral,Spotify,2023-08-12 20:17:00,user10071,London,0.71,Website,Customer Support,3,174,Resolved
+Chatbot was useless and unhelpful.,Negative,TripAdvisor,2023-09-05 17:10:00,user10072,Dubai,0.89,Customer Portal,Product Quality,1,96,Resolved
+"Terrible experience, very disappointed.",Negative,Spotify,2023-09-04 09:53:00,user10073,New York,0.95,Product A,Website Experience,4,71,Resolved
+Delivery took too long.,Negative,Yelp,2023-07-12 07:45:00,user10074,New York,0.81,Premium Plan,Usability,2,64,Resolved
+Website kept crashing.,Negative,Email,2023-06-23 23:15:00,user10075,Paris,0.94,Gift Card,Usability,3,11,Resolved
+Neutral feeling about the experience.,Neutral,Amazon Reviews,2023-07-06 22:52:00,user10076,Sydney,0.91,Premium Plan,Usability,3,157,Pending
+Customer support never replied.,Negative,IMDb,2023-07-02 23:10:00,user10077,London,0.77,Product A,Delivery,4,139,Resolved
+"Terrible experience, very disappointed.",Negative,Twitter,2023-07-04 07:31:00,user10078,Singapore,0.81,Delivery Service,Technical,2,41,Resolved
+Average performance.,Neutral,Twitter,2023-08-12 08:18:00,user10079,Los Angeles,0.86,Product A,Website Experience,2,34,Resolved
+Product arrived damaged.,Negative,Twitter,2023-09-25 11:49:00,user10080,Sydney,0.76,Delivery Service,Website Experience,4,154,Pending
+Average performance.,Neutral,Twitter,2023-09-09 22:45:00,user10081,New York,0.84,Premium Plan,Billing,4,48,Resolved
+Customer care was top-notch.,Positive,Twitter,2023-07-22 23:39:00,user10082,Sydney,0.9,Gift Card,Customer Support,4,110,Resolved
+Customer support never replied.,Negative,Twitter,2023-07-23 20:43:00,user10083,Toronto,0.79,Customer Portal,Website Experience,3,97,Pending
+Customer care was top-notch.,Positive,Amazon Reviews,2023-09-03 19:08:00,user10084,Dubai,0.79,Premium Plan,Technical,1,101,Pending
+Fast and friendly communication.,Positive,Spotify,2023-06-15 04:44:00,user10085,Singapore,0.94,Website,Usability,5,74,Resolved
+Great quality and quick delivery.,Positive,Spotify,2023-09-10 02:44:00,user10086,New York,0.9,Delivery Service,Refund,1,46,Resolved
+Instructions were confusing.,Negative,IMDb,2023-06-11 03:05:00,user10087,Berlin,0.78,Delivery Service,Usability,2,6,Resolved
+Great quality and quick delivery.,Positive,Amazon Reviews,2023-08-16 06:33:00,user10088,Mumbai,0.86,Product A,Product Quality,3,102,Resolved
+Neither good nor bad.,Neutral,ChatSupport,2023-08-13 14:18:00,user10089,Berlin,0.81,Customer Portal,Product Quality,1,141,Resolved
+Received wrong item.,Negative,Amazon Reviews,2023-06-07 05:34:00,user10090,Sydney,0.86,Website,Website Experience,2,108,Pending
+Amazing service!,Positive,Amazon Reviews,2023-07-26 11:33:00,user10091,Mumbai,0.89,Delivery Service,Refund,3,47,Pending
+User experience is fantastic.,Positive,TripAdvisor,2023-07-06 22:13:00,user10092,Toronto,0.75,Gift Card,Product Quality,4,67,Resolved
+Fast and friendly communication.,Positive,TripAdvisor,2023-07-09 04:16:00,user10093,Singapore,0.92,Mobile App,Technical,4,52,Pending
+Product arrived damaged.,Negative,IMDb,2023-09-17 01:26:00,user10094,Toronto,0.91,Delivery Service,Product Quality,1,166,Resolved
+Experience was fair.,Neutral,IMDb,2023-06-05 15:54:00,user10095,London,0.7,Product A,Billing,5,161,Resolved
+Fast and friendly communication.,Positive,Amazon Reviews,2023-07-19 12:04:00,user10096,Paris,0.77,Mobile App,Billing,5,26,Resolved
+Customer care was top-notch.,Positive,Email,2023-08-21 07:40:00,user10097,Los Angeles,0.81,Product A,Technical,5,39,Resolved
+Product quality is acceptable.,Neutral,TripAdvisor,2023-06-05 18:24:00,user10098,Toronto,0.89,Product B,Billing,1,153,Resolved
+Product arrived damaged.,Negative,Spotify,2023-09-25 14:49:00,user10099,Paris,0.83,Premium Plan,Delivery,4,62,Escalated
+Customer support never replied.,Negative,Spotify,2023-09-01 11:51:00,user10100,London,0.77,Delivery Service,Website Experience,1,101,Resolved
+Slow response from team.,Negative,ChatSupport,2023-06-02 18:03:00,user10101,London,0.89,Website,Refund,1,132,Resolved
+Product arrived damaged.,Negative,TripAdvisor,2023-06-17 19:26:00,user10102,Sydney,0.82,Product B,Website Experience,4,90,Resolved
+Very satisfied with the response.,Positive,Amazon Reviews,2023-06-16 10:05:00,user10103,Mumbai,0.78,Product A,Website Experience,1,75,Pending
+Product arrived damaged.,Negative,TripAdvisor,2023-08-13 08:27:00,user10104,Paris,0.9,Subscription,Usability,1,136,Resolved
+"It was okay, nothing special.",Neutral,Website Testimonial,2023-09-25 21:16:00,user10105,Berlin,0.93,Product B,Billing,2,81,Escalated
+Not worth the money.,Negative,Amazon Reviews,2023-07-19 02:12:00,user10106,Sydney,0.84,Website,Refund,1,45,Resolved
+Loved the product!,Positive,Amazon Reviews,2023-09-05 05:47:00,user10107,London,0.81,Subscription,Billing,1,88,Resolved
+Slow response from team.,Negative,ChatSupport,2023-06-08 13:08:00,user10108,New York,0.86,Gift Card,Refund,5,128,Resolved
+Very satisfied with the response.,Positive,Website Testimonial,2023-06-25 17:51:00,user10109,Toronto,0.77,Product B,Refund,5,90,Resolved
+Everything worked perfectly.,Positive,Amazon Reviews,2023-06-29 14:22:00,user10110,Toronto,0.73,Gift Card,Product Quality,4,75,Pending
+Product arrived damaged.,Negative,Twitter,2023-07-14 23:13:00,user10111,Berlin,0.94,Customer Portal,Website Experience,4,92,Resolved
+Customer support never replied.,Negative,ChatSupport,2023-07-03 03:06:00,user10112,Paris,0.94,Mobile App,Customer Support,4,5,Resolved
+Chatbot was useless and unhelpful.,Negative,Twitter,2023-06-28 22:30:00,user10113,London,0.7,Website,Website Experience,1,67,Resolved
+Product arrived damaged.,Negative,Email,2023-06-04 17:01:00,user10114,Singapore,0.79,Customer Portal,Delivery,5,92,Resolved
+Product quality is acceptable.,Neutral,Amazon Reviews,2023-07-16 17:15:00,user10115,Berlin,0.76,Product A,Delivery,2,17,Resolved
+Great quality and quick delivery.,Positive,Yelp,2023-09-01 14:52:00,user10116,Los Angeles,0.72,Mobile App,Technical,2,47,Resolved
+Very satisfied with the response.,Positive,Spotify,2023-08-21 17:06:00,user10117,Dubai,0.91,Delivery Service,Billing,2,167,Resolved
+Slow response from team.,Negative,Amazon Reviews,2023-07-18 17:18:00,user10118,Los Angeles,0.72,Premium Plan,Product Quality,4,117,Resolved
+Not worth the money.,Negative,IMDb,2023-06-28 07:50:00,user10119,Toronto,0.74,Delivery Service,Refund,2,46,Resolved
+Excellent support team.,Positive,Twitter,2023-08-13 10:32:00,user10120,Los Angeles,0.89,Customer Portal,Billing,1,146,Resolved
+Website kept crashing.,Negative,Amazon Reviews,2023-06-26 16:58:00,user10121,Berlin,0.74,Subscription,Refund,3,14,Resolved
+Not worth the money.,Negative,Twitter,2023-07-21 19:28:00,user10122,New York,0.79,Delivery Service,Usability,1,120,Resolved
+Slow response from team.,Negative,Website Testimonial,2023-07-09 19:48:00,user10123,Paris,0.72,Delivery Service,Technical,5,58,Resolved
+Service quality was consistent.,Neutral,IMDb,2023-09-26 11:11:00,user10124,Mumbai,0.73,Website,Billing,1,154,Resolved
+"Terrible experience, very disappointed.",Negative,ChatSupport,2023-07-17 08:53:00,user10125,Mumbai,0.93,Product B,Technical,1,13,Resolved
+I will definitely recommend this to friends.,Positive,TripAdvisor,2023-08-31 16:02:00,user10126,New York,0.84,Website,Billing,3,170,Resolved
+Everything worked perfectly.,Positive,Website Testimonial,2023-08-17 01:22:00,user10127,London,0.93,Gift Card,Billing,2,60,Resolved
+Customer care was top-notch.,Positive,Yelp,2023-09-20 11:34:00,user10128,Mumbai,0.75,Product B,Usability,2,5,Resolved
+Average performance.,Neutral,IMDb,2023-09-07 02:42:00,user10129,Paris,0.85,Subscription,Billing,3,43,Pending
+Great quality and quick delivery.,Positive,TripAdvisor,2023-06-21 01:28:00,user10130,Berlin,0.86,Product B,Refund,3,160,Resolved
+"Met expectations, no issues.",Neutral,Email,2023-08-28 19:53:00,user10131,Paris,0.94,Delivery Service,Refund,5,136,Resolved
+Response time could be better.,Neutral,Yelp,2023-08-02 15:53:00,user10132,Singapore,0.9,Website,Product Quality,4,26,Resolved
+Neither good nor bad.,Neutral,ChatSupport,2023-07-28 15:44:00,user10133,Los Angeles,0.87,Mobile App,Usability,1,180,Resolved
+Received wrong item.,Negative,Website Testimonial,2023-06-23 17:43:00,user10134,Toronto,0.78,Website,Usability,1,167,Resolved
+Slow response from team.,Negative,Yelp,2023-06-29 18:28:00,user10135,Sydney,0.86,Product B,Customer Support,5,45,Resolved
+"Met expectations, no issues.",Neutral,TripAdvisor,2023-08-09 21:02:00,user10136,Dubai,0.93,Gift Card,Product Quality,3,102,Resolved
+Slow response from team.,Negative,Yelp,2023-08-30 15:57:00,user10137,Paris,0.91,Mobile App,Customer Support,3,119,Resolved
+Great quality and quick delivery.,Positive,Email,2023-07-16 06:27:00,user10138,Paris,0.81,Product B,Website Experience,2,23,Pending
+User experience is fantastic.,Positive,Yelp,2023-08-14 05:40:00,user10139,London,0.91,Website,Delivery,2,10,Escalated
+Average performance.,Neutral,ChatSupport,2023-08-26 13:33:00,user10140,Berlin,0.89,Mobile App,Website Experience,4,114,Pending
+Not worth the money.,Negative,Twitter,2023-09-13 03:13:00,user10141,New York,0.8,Premium Plan,Technical,5,163,Resolved
+Neutral feeling about the experience.,Neutral,TripAdvisor,2023-06-19 19:20:00,user10142,Paris,0.95,Premium Plan,Delivery,2,159,Pending
+Slow response from team.,Negative,Twitter,2023-06-16 18:36:00,user10143,New York,0.81,Product A,Delivery,2,177,Resolved
+Customer support never replied.,Negative,Twitter,2023-08-29 20:07:00,user10144,Paris,0.85,Subscription,Refund,3,133,Pending
+Amazing service!,Positive,Yelp,2023-08-28 07:01:00,user10145,London,0.72,Subscription,Delivery,4,6,Resolved
+Amazing service!,Positive,Amazon Reviews,2023-06-02 02:14:00,user10146,Toronto,0.81,Subscription,Product Quality,3,137,Resolved
+Not worth the money.,Negative,Yelp,2023-06-24 00:45:00,user10147,Dubai,0.76,Premium Plan,Website Experience,2,158,Escalated
+Loved the product!,Positive,Website Testimonial,2023-06-07 23:49:00,user10148,London,0.92,Premium Plan,Technical,2,84,Pending
+Not worth the money.,Negative,Amazon Reviews,2023-06-21 05:50:00,user10149,Toronto,0.74,Delivery Service,Delivery,3,109,Resolved
+Loved the product!,Positive,Email,2023-07-16 22:33:00,user10150,Sydney,0.89,Product A,Product Quality,5,62,Resolved
+Loved the product!,Positive,TripAdvisor,2023-09-19 16:43:00,user10151,London,0.73,Product A,Delivery,3,13,Resolved
+"Met expectations, no issues.",Neutral,Website Testimonial,2023-08-14 05:15:00,user10152,Paris,0.78,Premium Plan,Billing,3,162,Resolved
+I will definitely recommend this to friends.,Positive,Yelp,2023-09-04 01:43:00,user10153,Berlin,0.91,Mobile App,Billing,5,17,Resolved
+Chat was fine but not great.,Neutral,Website Testimonial,2023-08-21 06:10:00,user10154,London,0.83,Customer Portal,Delivery,1,116,Resolved
+Very satisfied with the response.,Positive,Amazon Reviews,2023-09-02 20:42:00,user10155,Mumbai,0.77,Website,Delivery,4,7,Resolved
+Customer support never replied.,Negative,Yelp,2023-09-27 02:56:00,user10156,Paris,0.72,Customer Portal,Delivery,2,139,Pending
+Excellent support team.,Positive,Yelp,2023-09-04 12:29:00,user10157,Berlin,0.72,Product A,Technical,3,18,Resolved
+Very satisfied with the response.,Positive,ChatSupport,2023-08-29 21:45:00,user10158,New York,0.74,Customer Portal,Billing,2,94,Resolved
+Product arrived damaged.,Negative,TripAdvisor,2023-09-17 19:53:00,user10159,Mumbai,0.75,Product A,Product Quality,1,160,Resolved
+Instructions were confusing.,Negative,TripAdvisor,2023-09-17 04:34:00,user10160,Paris,0.91,Website,Technical,5,83,Resolved
+Fast and friendly communication.,Positive,Yelp,2023-09-12 03:44:00,user10161,Sydney,0.9,Subscription,Usability,1,151,Resolved
+Experience was fair.,Neutral,Email,2023-09-19 00:15:00,user10162,Dubai,0.73,Mobile App,Billing,1,153,Resolved
+Excellent support team.,Positive,Twitter,2023-07-27 11:28:00,user10163,Sydney,0.88,Subscription,Website Experience,5,32,Resolved
+Product quality is acceptable.,Neutral,TripAdvisor,2023-09-16 10:45:00,user10164,Toronto,0.77,Premium Plan,Billing,4,18,Resolved
+Chat was fine but not great.,Neutral,Email,2023-07-18 11:17:00,user10165,Paris,0.9,Website,Customer Support,4,170,Pending
+Everything worked perfectly.,Positive,ChatSupport,2023-07-08 10:13:00,user10166,Dubai,0.91,Gift Card,Usability,3,82,Resolved
+Instructions were confusing.,Negative,Twitter,2023-06-25 21:53:00,user10167,New York,0.86,Subscription,Technical,3,67,Pending
+"Terrible experience, very disappointed.",Negative,Website Testimonial,2023-09-20 20:18:00,user10168,Sydney,0.73,Product A,Usability,5,69,Resolved
+Delivery took too long.,Negative,Spotify,2023-06-13 10:21:00,user10169,Paris,0.79,Product B,Website Experience,1,157,Resolved
+Not worth the money.,Negative,Spotify,2023-06-16 02:19:00,user10170,New York,0.81,Mobile App,Usability,3,121,Escalated
+"It was okay, nothing special.",Neutral,ChatSupport,2023-08-15 05:36:00,user10171,Singapore,0.91,Website,Delivery,2,137,Pending
+Customer care was top-notch.,Positive,Twitter,2023-06-14 08:46:00,user10172,New York,0.82,Website,Product Quality,3,73,Resolved
+Amazing service!,Positive,Yelp,2023-08-18 06:49:00,user10173,London,0.81,Premium Plan,Billing,2,72,Resolved
+Received wrong item.,Negative,ChatSupport,2023-06-13 19:12:00,user10174,New York,0.94,Premium Plan,Delivery,4,156,Escalated
+Excellent support team.,Positive,Spotify,2023-08-15 11:45:00,user10175,Toronto,0.77,Product A,Refund,4,52,Resolved
+Very satisfied with the response.,Positive,ChatSupport,2023-06-14 13:38:00,user10176,Singapore,0.8,Gift Card,Product Quality,3,86,Resolved
+Amazing service!,Positive,ChatSupport,2023-08-30 00:52:00,user10177,Singapore,0.89,Website,Refund,3,81,Pending
+Product quality is acceptable.,Neutral,Twitter,2023-09-09 02:20:00,user10178,New York,0.84,Customer Portal,Refund,1,54,Resolved
+Chat was fine but not great.,Neutral,Spotify,2023-07-20 23:07:00,user10179,Mumbai,0.73,Delivery Service,Delivery,3,158,Resolved
+User experience is fantastic.,Positive,Spotify,2023-08-01 11:29:00,user10180,London,0.77,Product B,Refund,4,141,Resolved
+Chat was fine but not great.,Neutral,IMDb,2023-08-20 10:06:00,user10181,Toronto,0.94,Product A,Customer Support,2,33,Escalated
+Everything worked perfectly.,Positive,Email,2023-07-17 18:31:00,user10182,Mumbai,0.72,Product A,Website Experience,3,179,Resolved
+Average performance.,Neutral,Amazon Reviews,2023-09-09 08:23:00,user10183,Paris,0.79,Mobile App,Website Experience,3,146,Resolved
+Experience was fair.,Neutral,Yelp,2023-07-01 23:58:00,user10184,Sydney,0.73,Delivery Service,Customer Support,2,27,Resolved
+"It was okay, nothing special.",Neutral,ChatSupport,2023-06-02 09:18:00,user10185,Los Angeles,0.72,Website,Website Experience,5,54,Resolved
+Product quality is acceptable.,Neutral,ChatSupport,2023-06-29 10:47:00,user10186,Sydney,0.73,Gift Card,Delivery,2,123,Resolved
+Product arrived damaged.,Negative,Spotify,2023-09-05 04:27:00,user10187,Singapore,0.77,Product A,Product Quality,3,178,Resolved
+Customer care was top-notch.,Positive,Website Testimonial,2023-09-10 22:06:00,user10188,Los Angeles,0.86,Gift Card,Delivery,3,66,Resolved
+Response time could be better.,Neutral,Yelp,2023-09-10 18:11:00,user10189,Berlin,0.73,Product B,Billing,1,112,Resolved
+Customer care was top-notch.,Positive,Amazon Reviews,2023-07-26 22:59:00,user10190,New York,0.73,Gift Card,Refund,3,70,Resolved
+Great quality and quick delivery.,Positive,Amazon Reviews,2023-06-02 23:46:00,user10191,Paris,0.94,Delivery Service,Customer Support,5,146,Pending
+Chat was fine but not great.,Neutral,Website Testimonial,2023-09-29 17:14:00,user10192,Paris,0.75,Product B,Billing,1,45,Resolved
+Very satisfied with the response.,Positive,Twitter,2023-09-08 18:35:00,user10193,London,0.8,Customer Portal,Technical,2,163,Pending
+Customer support never replied.,Negative,Website Testimonial,2023-07-30 16:33:00,user10194,Toronto,0.85,Website,Technical,2,88,Resolved
+Customer support never replied.,Negative,Email,2023-06-21 23:26:00,user10195,Mumbai,0.92,Website,Technical,4,78,Pending
+Excellent support team.,Positive,IMDb,2023-08-14 06:31:00,user10196,Berlin,0.82,Gift Card,Website Experience,2,44,Resolved
+User experience is fantastic.,Positive,TripAdvisor,2023-07-15 02:12:00,user10197,Berlin,0.75,Mobile App,Usability,5,42,Resolved
+Delivery took too long.,Negative,Email,2023-06-24 21:16:00,user10198,New York,0.73,Website,Delivery,4,44,Resolved
+Chat was fine but not great.,Neutral,Amazon Reviews,2023-07-09 14:13:00,user10199,Paris,0.76,Product A,Usability,5,156,Resolved
+Not worth the money.,Negative,Email,2023-07-23 19:45:00,user10200,Sydney,0.82,Website,Product Quality,4,36,Pending
+Average performance.,Neutral,Twitter,2023-09-06 11:27:00,user10201,New York,0.8,Product A,Product Quality,2,15,Resolved
+Great quality and quick delivery.,Positive,Email,2023-06-20 10:51:00,user10202,New York,0.82,Delivery Service,Product Quality,4,79,Resolved
+User experience is fantastic.,Positive,TripAdvisor,2023-08-23 03:18:00,user10203,Toronto,0.93,Product A,Billing,4,137,Escalated
+"Met expectations, no issues.",Neutral,TripAdvisor,2023-08-20 00:53:00,user10204,Paris,0.71,Gift Card,Customer Support,2,32,Escalated
+Delivery took too long.,Negative,Spotify,2023-09-21 15:18:00,user10205,Sydney,0.81,Mobile App,Product Quality,3,32,Resolved
+Chatbot was useless and unhelpful.,Negative,Website Testimonial,2023-09-06 01:44:00,user10206,Sydney,0.76,Subscription,Billing,4,120,Escalated
+Experience was fair.,Neutral,Email,2023-07-29 22:39:00,user10207,Toronto,0.77,Subscription,Customer Support,1,7,Resolved
+Not worth the money.,Negative,TripAdvisor,2023-08-15 07:13:00,user10208,Sydney,0.7,Mobile App,Customer Support,1,154,Pending
+Chatbot was useless and unhelpful.,Negative,Twitter,2023-09-04 16:24:00,user10209,Sydney,0.82,Product A,Product Quality,1,72,Resolved
+Chatbot was useless and unhelpful.,Negative,IMDb,2023-06-04 16:39:00,user10210,Toronto,0.83,Subscription,Customer Support,3,39,Resolved
+Fast and friendly communication.,Positive,Twitter,2023-08-16 16:45:00,user10211,London,0.75,Mobile App,Usability,1,69,Escalated
+Average performance.,Neutral,Yelp,2023-08-15 12:22:00,user10212,Mumbai,0.86,Product A,Product Quality,2,171,Resolved
+Neutral feeling about the experience.,Neutral,ChatSupport,2023-08-08 20:37:00,user10213,London,0.76,Delivery Service,Technical,5,44,Resolved
+Service quality was consistent.,Neutral,IMDb,2023-06-01 09:39:00,user10214,Mumbai,0.88,Premium Plan,Technical,1,35,Resolved
+Great quality and quick delivery.,Positive,Website Testimonial,2023-07-23 00:28:00,user10215,Mumbai,0.85,Delivery Service,Usability,5,51,Resolved
+Chatbot was useless and unhelpful.,Negative,Twitter,2023-08-10 18:30:00,user10216,Singapore,0.89,Mobile App,Technical,4,155,Resolved
+Amazing service!,Positive,Yelp,2023-09-27 06:33:00,user10217,Berlin,0.71,Website,Product Quality,5,45,Resolved
+Loved the product!,Positive,Email,2023-07-10 14:03:00,user10218,Paris,0.94,Gift Card,Website Experience,2,23,Resolved
+I will definitely recommend this to friends.,Positive,IMDb,2023-06-23 01:47:00,user10219,Berlin,0.74,Gift Card,Website Experience,3,73,Resolved
+I will definitely recommend this to friends.,Positive,TripAdvisor,2023-09-18 15:06:00,user10220,New York,0.74,Subscription,Product Quality,4,158,Resolved
+Slow response from team.,Negative,TripAdvisor,2023-08-22 07:51:00,user10221,Dubai,0.77,Mobile App,Customer Support,5,112,Resolved
+Excellent support team.,Positive,Yelp,2023-06-17 08:29:00,user10222,Los Angeles,0.74,Website,Refund,1,142,Resolved
+Website kept crashing.,Negative,TripAdvisor,2023-08-26 16:53:00,user10223,Paris,0.91,Gift Card,Delivery,2,147,Pending
+User experience is fantastic.,Positive,Yelp,2023-07-04 14:59:00,user10224,Toronto,0.88,Subscription,Usability,3,49,Resolved
+Experience was fair.,Neutral,Spotify,2023-08-19 19:36:00,user10225,Mumbai,0.72,Subscription,Usability,4,161,Resolved
+Very satisfied with the response.,Positive,Amazon Reviews,2023-08-20 11:53:00,user10226,New York,0.76,Product B,Product Quality,4,156,Resolved
+Website kept crashing.,Negative,Email,2023-07-18 21:30:00,user10227,Los Angeles,0.8,Product A,Refund,5,159,Resolved
+Website kept crashing.,Negative,TripAdvisor,2023-08-28 20:23:00,user10228,Berlin,0.92,Delivery Service,Customer Support,3,58,Resolved
+Chatbot was useless and unhelpful.,Negative,IMDb,2023-08-16 15:45:00,user10229,Dubai,0.75,Customer Portal,Customer Support,5,67,Escalated
+"Terrible experience, very disappointed.",Negative,Email,2023-07-05 10:28:00,user10230,Mumbai,0.91,Product B,Billing,2,176,Escalated
+Received wrong item.,Negative,IMDb,2023-08-29 16:00:00,user10231,Toronto,0.78,Customer Portal,Customer Support,3,103,Pending
+Service quality was consistent.,Neutral,Twitter,2023-07-14 08:37:00,user10232,New York,0.75,Mobile App,Delivery,5,42,Resolved
+Product quality is acceptable.,Neutral,Amazon Reviews,2023-07-13 14:01:00,user10233,Paris,0.87,Customer Portal,Technical,1,28,Resolved
+Excellent support team.,Positive,ChatSupport,2023-07-18 05:15:00,user10234,New York,0.86,Product B,Technical,4,156,Pending
+Website kept crashing.,Negative,Website Testimonial,2023-07-11 22:18:00,user10235,Paris,0.82,Product B,Refund,1,82,Pending
+Very satisfied with the response.,Positive,Email,2023-08-11 09:09:00,user10236,Mumbai,0.73,Customer Portal,Website Experience,1,107,Resolved
+Experience was fair.,Neutral,Yelp,2023-09-07 01:27:00,user10237,Paris,0.94,Subscription,Customer Support,5,155,Escalated
+Loved the product!,Positive,IMDb,2023-08-03 01:00:00,user10238,New York,0.91,Mobile App,Billing,2,5,Pending
+Product quality is acceptable.,Neutral,TripAdvisor,2023-08-24 11:48:00,user10239,Toronto,0.88,Subscription,Usability,1,90,Resolved
+"It was okay, nothing special.",Neutral,Website Testimonial,2023-07-24 11:11:00,user10240,New York,0.76,Premium Plan,Billing,4,12,Resolved
+Very satisfied with the response.,Positive,Email,2023-07-11 22:57:00,user10241,Paris,0.78,Subscription,Customer Support,1,43,Resolved
+Experience was fair.,Neutral,Amazon Reviews,2023-09-16 23:14:00,user10242,Mumbai,0.78,Mobile App,Usability,1,108,Resolved
+"Terrible experience, very disappointed.",Negative,Yelp,2023-06-25 15:35:00,user10243,New York,0.89,Premium Plan,Product Quality,3,94,Escalated
+Received wrong item.,Negative,Spotify,2023-06-04 23:57:00,user10244,Berlin,0.83,Mobile App,Delivery,3,138,Resolved
+Very satisfied with the response.,Positive,ChatSupport,2023-08-09 21:48:00,user10245,Singapore,0.9,Customer Portal,Billing,2,56,Pending
+Experience was fair.,Neutral,ChatSupport,2023-08-11 08:24:00,user10246,Toronto,0.7,Customer Portal,Website Experience,4,32,Resolved
+User experience is fantastic.,Positive,Spotify,2023-06-27 12:13:00,user10247,Mumbai,0.81,Delivery Service,Product Quality,1,106,Resolved
+Service quality was consistent.,Neutral,TripAdvisor,2023-06-05 00:18:00,user10248,Toronto,0.92,Delivery Service,Customer Support,2,89,Resolved
+Great quality and quick delivery.,Positive,Spotify,2023-06-25 22:04:00,user10249,Sydney,0.94,Product A,Refund,2,73,Resolved
+Received wrong item.,Negative,Twitter,2023-06-03 16:52:00,user10250,Berlin,0.93,Product B,Website Experience,2,179,Resolved
+Not worth the money.,Negative,ChatSupport,2023-07-29 17:41:00,user10251,Los Angeles,0.73,Mobile App,Product Quality,5,83,Resolved
+Experience was fair.,Neutral,Amazon Reviews,2023-08-25 04:16:00,user10252,Singapore,0.9,Gift Card,Website Experience,3,167,Escalated
+Service quality was consistent.,Neutral,Website Testimonial,2023-08-05 13:26:00,user10253,Dubai,0.83,Delivery Service,Technical,5,111,Resolved
+"Met expectations, no issues.",Neutral,Amazon Reviews,2023-06-11 19:28:00,user10254,Los Angeles,0.93,Delivery Service,Billing,2,25,Resolved
+"Terrible experience, very disappointed.",Negative,Email,2023-09-26 06:58:00,user10255,Berlin,0.9,Product B,Website Experience,4,160,Resolved
+Not worth the money.,Negative,Twitter,2023-09-11 13:27:00,user10256,London,0.91,Delivery Service,Usability,2,171,Resolved
+Product arrived damaged.,Negative,Spotify,2023-07-03 09:37:00,user10257,Paris,0.85,Delivery Service,Billing,3,129,Resolved
+Customer support never replied.,Negative,Email,2023-09-21 16:55:00,user10258,Toronto,0.77,Premium Plan,Refund,4,133,Resolved
+Customer care was top-notch.,Positive,Twitter,2023-08-13 09:20:00,user10259,Sydney,0.79,Premium Plan,Technical,1,25,Resolved
+Average performance.,Neutral,Amazon Reviews,2023-07-30 00:52:00,user10260,Sydney,0.73,Website,Website Experience,4,125,Resolved
+Service quality was consistent.,Neutral,TripAdvisor,2023-06-27 07:38:00,user10261,Los Angeles,0.78,Premium Plan,Billing,5,73,Escalated
+Customer care was top-notch.,Positive,IMDb,2023-09-02 23:14:00,user10262,Singapore,0.88,Product A,Product Quality,3,112,Pending
+Average performance.,Neutral,Twitter,2023-07-09 05:47:00,user10263,Toronto,0.91,Customer Portal,Delivery,5,115,Pending
+Very satisfied with the response.,Positive,Website Testimonial,2023-08-04 06:23:00,user10264,Los Angeles,0.91,Mobile App,Refund,2,33,Resolved
+"It was okay, nothing special.",Neutral,Website Testimonial,2023-07-17 19:03:00,user10265,Toronto,0.71,Gift Card,Delivery,4,115,Resolved
+Fast and friendly communication.,Positive,Email,2023-06-22 19:03:00,user10266,Singapore,0.77,Premium Plan,Delivery,5,60,Resolved
+Response time could be better.,Neutral,Amazon Reviews,2023-06-22 12:32:00,user10267,Toronto,0.82,Subscription,Website Experience,5,133,Resolved
+Customer care was top-notch.,Positive,TripAdvisor,2023-08-27 00:52:00,user10268,Mumbai,0.74,Website,Usability,3,53,Resolved
+Chat was fine but not great.,Neutral,Email,2023-08-08 05:02:00,user10269,Singapore,0.9,Mobile App,Product Quality,4,84,Escalated
+Not worth the money.,Negative,Amazon Reviews,2023-07-15 12:29:00,user10270,Berlin,0.89,Customer Portal,Website Experience,3,21,Pending
+Received wrong item.,Negative,TripAdvisor,2023-06-20 19:13:00,user10271,Berlin,0.92,Mobile App,Refund,5,36,Resolved
+Excellent support team.,Positive,Email,2023-06-21 09:44:00,user10272,Toronto,0.87,Subscription,Customer Support,4,127,Pending
+Product arrived damaged.,Negative,IMDb,2023-07-20 06:26:00,user10273,New York,0.76,Subscription,Product Quality,3,30,Resolved
+Product quality is acceptable.,Neutral,ChatSupport,2023-07-19 07:53:00,user10274,Berlin,0.72,Gift Card,Refund,3,122,Resolved
+Everything worked perfectly.,Positive,Yelp,2023-06-20 19:35:00,user10275,Toronto,0.72,Customer Portal,Usability,2,150,Resolved
+Customer support never replied.,Negative,Website Testimonial,2023-09-10 13:44:00,user10276,London,0.91,Delivery Service,Technical,3,28,Resolved
+"It was okay, nothing special.",Neutral,Spotify,2023-09-13 20:09:00,user10277,Toronto,0.72,Delivery Service,Website Experience,3,50,Resolved
+Customer support never replied.,Negative,Amazon Reviews,2023-07-15 13:51:00,user10278,Paris,0.75,Premium Plan,Product Quality,2,138,Resolved
+"Terrible experience, very disappointed.",Negative,TripAdvisor,2023-07-20 07:22:00,user10279,Mumbai,0.76,Gift Card,Refund,2,99,Pending
+Delivery took too long.,Negative,ChatSupport,2023-07-19 21:00:00,user10280,London,0.77,Customer Portal,Billing,5,36,Escalated
+Great quality and quick delivery.,Positive,TripAdvisor,2023-08-19 11:22:00,user10281,Paris,0.91,Customer Portal,Technical,1,102,Resolved
+Very satisfied with the response.,Positive,Amazon Reviews,2023-06-28 15:28:00,user10282,Singapore,0.91,Premium Plan,Billing,3,68,Resolved
+Excellent support team.,Positive,Amazon Reviews,2023-07-04 02:54:00,user10283,Berlin,0.84,Product B,Product Quality,1,85,Escalated
+Product arrived damaged.,Negative,TripAdvisor,2023-09-11 19:35:00,user10284,Mumbai,0.75,Subscription,Customer Support,1,106,Resolved
+"It was okay, nothing special.",Neutral,Email,2023-06-07 12:06:00,user10285,New York,0.78,Product A,Refund,1,9,Pending
+Not worth the money.,Negative,Email,2023-06-26 14:31:00,user10286,London,0.82,Product B,Billing,3,151,Escalated
+Not worth the money.,Negative,TripAdvisor,2023-09-27 19:36:00,user10287,Dubai,0.8,Product A,Product Quality,4,66,Resolved
+"It was okay, nothing special.",Neutral,Spotify,2023-07-15 10:15:00,user10288,Paris,0.72,Customer Portal,Customer Support,3,46,Resolved
+Great quality and quick delivery.,Positive,Spotify,2023-09-12 05:52:00,user10289,Los Angeles,0.91,Premium Plan,Website Experience,3,120,Resolved
+"It was okay, nothing special.",Neutral,Website Testimonial,2023-07-01 12:53:00,user10290,Toronto,0.85,Product B,Product Quality,2,160,Resolved
+"Met expectations, no issues.",Neutral,Website Testimonial,2023-09-23 17:08:00,user10291,Singapore,0.85,Gift Card,Refund,2,177,Resolved
+Experience was fair.,Neutral,Twitter,2023-07-25 05:50:00,user10292,Singapore,0.81,Delivery Service,Usability,5,161,Escalated
+"Met expectations, no issues.",Neutral,IMDb,2023-09-19 13:55:00,user10293,New York,0.72,Mobile App,Refund,5,85,Resolved
+Experience was fair.,Neutral,Spotify,2023-06-13 17:38:00,user10294,Singapore,0.85,Subscription,Product Quality,1,86,Escalated
+Everything worked perfectly.,Positive,Twitter,2023-07-05 10:25:00,user10295,Sydney,0.76,Product B,Product Quality,3,83,Resolved
+Fast and friendly communication.,Positive,Twitter,2023-06-13 22:52:00,user10296,Toronto,0.89,Premium Plan,Website Experience,1,160,Pending
+Amazing service!,Positive,Spotify,2023-09-12 16:08:00,user10297,Los Angeles,0.87,Website,Refund,1,110,Resolved
+Product arrived damaged.,Negative,Amazon Reviews,2023-09-21 17:28:00,user10298,New York,0.94,Product A,Technical,1,35,Resolved
+Chatbot was useless and unhelpful.,Negative,Spotify,2023-07-31 18:08:00,user10299,New York,0.84,Premium Plan,Customer Support,3,167,Resolved
+Customer support never replied.,Negative,IMDb,2023-06-08 10:46:00,user10300,Los Angeles,0.9,Subscription,Billing,3,113,Resolved
+Everything worked perfectly.,Positive,ChatSupport,2023-06-07 02:51:00,user10301,Los Angeles,0.78,Subscription,Billing,1,164,Escalated
+Neutral feeling about the experience.,Neutral,ChatSupport,2023-06-19 16:07:00,user10302,Singapore,0.92,Website,Usability,5,42,Escalated
+Service quality was consistent.,Neutral,Email,2023-06-27 15:14:00,user10303,London,0.9,Premium Plan,Delivery,2,55,Resolved
+Fast and friendly communication.,Positive,Yelp,2023-06-21 13:01:00,user10304,Los Angeles,0.91,Premium Plan,Billing,2,116,Pending
+Customer support never replied.,Negative,Spotify,2023-07-13 15:23:00,user10305,Berlin,0.83,Website,Customer Support,3,162,Resolved
+Service quality was consistent.,Neutral,Spotify,2023-06-11 22:00:00,user10306,Sydney,0.89,Delivery Service,Billing,1,7,Resolved
+Instructions were confusing.,Negative,Spotify,2023-06-28 12:14:00,user10307,Paris,0.9,Gift Card,Usability,2,116,Escalated
+Average performance.,Neutral,IMDb,2023-06-06 22:46:00,user10308,Toronto,0.73,Mobile App,Refund,1,17,Resolved
+Chat was fine but not great.,Neutral,ChatSupport,2023-08-04 12:27:00,user10309,Berlin,0.74,Product A,Billing,5,32,Resolved
+User experience is fantastic.,Positive,TripAdvisor,2023-06-05 09:26:00,user10310,Berlin,0.92,Subscription,Billing,5,83,Resolved
+Very satisfied with the response.,Positive,Spotify,2023-06-03 21:11:00,user10311,New York,0.74,Mobile App,Technical,2,177,Resolved
+I will definitely recommend this to friends.,Positive,TripAdvisor,2023-07-17 10:06:00,user10312,Mumbai,0.71,Website,Usability,4,10,Pending
+Fast and friendly communication.,Positive,ChatSupport,2023-09-24 23:32:00,user10313,Mumbai,0.74,Product A,Product Quality,4,131,Resolved
+Great quality and quick delivery.,Positive,TripAdvisor,2023-07-26 06:54:00,user10314,Paris,0.82,Product A,Website Experience,4,111,Resolved
+"It was okay, nothing special.",Neutral,Yelp,2023-08-18 01:44:00,user10315,Singapore,0.91,Gift Card,Delivery,3,155,Resolved
+Experience was fair.,Neutral,IMDb,2023-09-08 04:48:00,user10316,Singapore,0.81,Delivery Service,Product Quality,4,94,Resolved
+Fast and friendly communication.,Positive,Spotify,2023-07-18 17:17:00,user10317,Los Angeles,0.81,Delivery Service,Delivery,5,110,Resolved
+Neutral feeling about the experience.,Neutral,Email,2023-06-10 16:46:00,user10318,Paris,0.77,Mobile App,Delivery,5,44,Resolved
+Instructions were confusing.,Negative,Website Testimonial,2023-07-02 22:16:00,user10319,Sydney,0.73,Customer Portal,Delivery,4,102,Resolved
+Received wrong item.,Negative,Website Testimonial,2023-07-09 02:32:00,user10320,New York,0.85,Customer Portal,Technical,4,81,Escalated
+Service quality was consistent.,Neutral,Website Testimonial,2023-07-19 18:14:00,user10321,Berlin,0.73,Subscription,Usability,1,50,Resolved
+Instructions were confusing.,Negative,Amazon Reviews,2023-08-11 10:19:00,user10322,Singapore,0.78,Subscription,Customer Support,1,127,Resolved
+Product arrived damaged.,Negative,Twitter,2023-08-07 23:24:00,user10323,Toronto,0.86,Product B,Billing,3,54,Resolved
+Fast and friendly communication.,Positive,ChatSupport,2023-07-15 14:53:00,user10324,Mumbai,0.79,Delivery Service,Billing,2,8,Resolved
+Very satisfied with the response.,Positive,Yelp,2023-08-28 06:32:00,user10325,New York,0.82,Subscription,Customer Support,4,62,Resolved
+Fast and friendly communication.,Positive,Twitter,2023-09-06 18:12:00,user10326,Singapore,0.91,Product A,Usability,5,51,Resolved
+Service quality was consistent.,Neutral,ChatSupport,2023-06-20 12:59:00,user10327,Paris,0.79,Customer Portal,Website Experience,5,70,Resolved
+Chatbot was useless and unhelpful.,Negative,Email,2023-06-22 13:16:00,user10328,New York,0.86,Website,Delivery,2,70,Pending
+"Terrible experience, very disappointed.",Negative,IMDb,2023-06-27 15:04:00,user10329,Los Angeles,0.74,Delivery Service,Product Quality,2,94,Resolved
+Customer support never replied.,Negative,TripAdvisor,2023-06-27 09:22:00,user10330,London,0.8,Premium Plan,Website Experience,2,141,Pending
+Customer care was top-notch.,Positive,IMDb,2023-09-18 12:42:00,user10331,Berlin,0.7,Delivery Service,Delivery,3,57,Resolved
+Customer care was top-notch.,Positive,Amazon Reviews,2023-08-08 15:49:00,user10332,New York,0.86,Gift Card,Delivery,5,177,Resolved
+Delivery took too long.,Negative,Website Testimonial,2023-09-22 14:52:00,user10333,London,0.85,Subscription,Delivery,5,20,Pending
+Website kept crashing.,Negative,Amazon Reviews,2023-09-09 02:49:00,user10334,Los Angeles,0.83,Product A,Product Quality,2,121,Resolved
+Very satisfied with the response.,Positive,Yelp,2023-06-16 10:24:00,user10335,Dubai,0.94,Premium Plan,Delivery,5,168,Resolved
+Response time could be better.,Neutral,Email,2023-07-09 16:05:00,user10336,Los Angeles,0.73,Product B,Usability,5,147,Pending
+Loved the product!,Positive,Yelp,2023-08-27 21:48:00,user10337,Sydney,0.81,Customer Portal,Refund,2,67,Pending
+Everything worked perfectly.,Positive,Website Testimonial,2023-06-02 21:35:00,user10338,Berlin,0.76,Subscription,Website Experience,2,173,Resolved
+Average performance.,Neutral,Email,2023-07-06 21:31:00,user10339,London,0.82,Product A,Customer Support,4,149,Escalated
+User experience is fantastic.,Positive,Twitter,2023-09-23 13:18:00,user10340,Mumbai,0.86,Product B,Billing,2,137,Pending
+Product quality is acceptable.,Neutral,Yelp,2023-08-30 21:13:00,user10341,Sydney,0.9,Premium Plan,Billing,3,114,Resolved
+Experience was fair.,Neutral,IMDb,2023-07-18 08:51:00,user10342,New York,0.84,Delivery Service,Billing,1,24,Pending
+Customer support never replied.,Negative,Website Testimonial,2023-08-11 11:27:00,user10343,London,0.82,Gift Card,Refund,5,27,Pending
+"It was okay, nothing special.",Neutral,ChatSupport,2023-06-25 23:26:00,user10344,Singapore,0.85,Customer Portal,Usability,3,23,Pending
+Great quality and quick delivery.,Positive,Yelp,2023-08-25 01:03:00,user10345,Singapore,0.71,Delivery Service,Delivery,2,78,Resolved
+Neither good nor bad.,Neutral,Email,2023-07-29 07:40:00,user10346,Mumbai,0.8,Mobile App,Refund,4,31,Escalated
+Response time could be better.,Neutral,Spotify,2023-07-03 11:12:00,user10347,Berlin,0.86,Delivery Service,Usability,4,49,Resolved
+Chatbot was useless and unhelpful.,Negative,Twitter,2023-09-20 21:14:00,user10348,Sydney,0.84,Product B,Refund,2,13,Resolved
+Chatbot was useless and unhelpful.,Negative,TripAdvisor,2023-08-01 13:39:00,user10349,New York,0.8,Premium Plan,Website Experience,5,17,Resolved
+"Terrible experience, very disappointed.",Negative,Twitter,2023-07-17 03:48:00,user10350,Los Angeles,0.94,Customer Portal,Usability,5,62,Resolved
+Great quality and quick delivery.,Positive,ChatSupport,2023-07-28 01:48:00,user10351,Berlin,0.85,Website,Technical,4,63,Resolved
+Response time could be better.,Neutral,Yelp,2023-09-05 08:59:00,user10352,Toronto,0.93,Customer Portal,Usability,5,16,Resolved
+Experience was fair.,Neutral,Amazon Reviews,2023-06-28 15:59:00,user10353,Los Angeles,0.76,Subscription,Customer Support,5,164,Resolved
+Received wrong item.,Negative,Email,2023-06-21 14:08:00,user10354,Sydney,0.77,Customer Portal,Customer Support,4,58,Pending
+Experience was fair.,Neutral,TripAdvisor,2023-09-25 13:39:00,user10355,Los Angeles,0.71,Website,Customer Support,4,46,Resolved
+"Terrible experience, very disappointed.",Negative,Twitter,2023-06-13 11:29:00,user10356,Mumbai,0.79,Subscription,Delivery,3,101,Escalated
+Instructions were confusing.,Negative,Email,2023-07-26 13:13:00,user10357,Toronto,0.77,Mobile App,Website Experience,1,108,Resolved
+Not worth the money.,Negative,Amazon Reviews,2023-07-26 02:25:00,user10358,Los Angeles,0.89,Gift Card,Technical,2,118,Resolved
+Experience was fair.,Neutral,Twitter,2023-09-04 03:12:00,user10359,Paris,0.84,Product B,Technical,2,123,Resolved
+Excellent support team.,Positive,TripAdvisor,2023-07-26 08:57:00,user10360,Singapore,0.84,Product B,Refund,4,36,Resolved
+Customer support never replied.,Negative,Email,2023-07-25 15:01:00,user10361,Singapore,0.81,Product A,Delivery,1,17,Pending
+Everything worked perfectly.,Positive,Email,2023-07-25 20:26:00,user10362,Paris,0.72,Product A,Website Experience,1,54,Resolved
+Service quality was consistent.,Neutral,Twitter,2023-09-15 06:03:00,user10363,Toronto,0.76,Premium Plan,Usability,2,130,Resolved
+"It was okay, nothing special.",Neutral,Amazon Reviews,2023-09-24 17:03:00,user10364,Dubai,0.81,Subscription,Refund,5,149,Resolved
+Slow response from team.,Negative,Email,2023-09-02 21:38:00,user10365,Toronto,0.91,Website,Customer Support,2,23,Escalated
+Received wrong item.,Negative,Amazon Reviews,2023-07-04 02:21:00,user10366,Dubai,0.81,Website,Website Experience,2,96,Resolved
+Loved the product!,Positive,Email,2023-06-26 04:58:00,user10367,Mumbai,0.94,Premium Plan,Delivery,3,49,Resolved
+"Met expectations, no issues.",Neutral,Email,2023-09-18 19:43:00,user10368,Sydney,0.7,Customer Portal,Technical,3,15,Resolved
+Experience was fair.,Neutral,Website Testimonial,2023-09-06 10:37:00,user10369,Sydney,0.76,Gift Card,Billing,5,13,Resolved
+Great quality and quick delivery.,Positive,IMDb,2023-08-20 04:02:00,user10370,Dubai,0.92,Gift Card,Refund,3,94,Escalated
+"Met expectations, no issues.",Neutral,Amazon Reviews,2023-07-27 06:28:00,user10371,Toronto,0.94,Premium Plan,Refund,3,10,Resolved
+Customer support never replied.,Negative,Yelp,2023-07-25 00:25:00,user10372,Dubai,0.92,Mobile App,Customer Support,3,145,Resolved
+Chatbot was useless and unhelpful.,Negative,ChatSupport,2023-06-08 08:43:00,user10373,New York,0.92,Product B,Customer Support,1,161,Resolved
+Response time could be better.,Neutral,TripAdvisor,2023-06-25 10:11:00,user10374,Paris,0.72,Product B,Billing,5,133,Resolved
+"It was okay, nothing special.",Neutral,Spotify,2023-08-30 19:54:00,user10375,Dubai,0.72,Website,Website Experience,5,149,Resolved
+Average performance.,Neutral,Twitter,2023-08-03 19:42:00,user10376,Toronto,0.91,Delivery Service,Product Quality,4,108,Pending
+I will definitely recommend this to friends.,Positive,Yelp,2023-08-17 02:21:00,user10377,London,0.92,Premium Plan,Billing,4,159,Pending
+Amazing service!,Positive,Yelp,2023-09-15 12:47:00,user10378,Sydney,0.8,Product B,Product Quality,3,31,Resolved
+Fast and friendly communication.,Positive,TripAdvisor,2023-08-24 15:09:00,user10379,Mumbai,0.9,Mobile App,Customer Support,1,132,Pending
+Loved the product!,Positive,Email,2023-06-01 13:38:00,user10380,Paris,0.92,Gift Card,Technical,2,143,Resolved
+Customer support never replied.,Negative,Yelp,2023-06-06 19:21:00,user10381,Dubai,0.79,Delivery Service,Usability,2,62,Resolved
+Customer care was top-notch.,Positive,Twitter,2023-08-09 13:36:00,user10382,Toronto,0.82,Website,Product Quality,3,92,Pending
+"Terrible experience, very disappointed.",Negative,Yelp,2023-08-18 11:19:00,user10383,Los Angeles,0.74,Premium Plan,Website Experience,1,171,Resolved
+Instructions were confusing.,Negative,Yelp,2023-09-10 22:27:00,user10384,Los Angeles,0.79,Subscription,Product Quality,4,176,Resolved
+Service quality was consistent.,Neutral,ChatSupport,2023-07-12 14:12:00,user10385,Paris,0.81,Subscription,Refund,2,46,Pending
+Experience was fair.,Neutral,Amazon Reviews,2023-06-24 07:56:00,user10386,Los Angeles,0.76,Gift Card,Billing,4,20,Resolved
+Fast and friendly communication.,Positive,Twitter,2023-09-15 12:06:00,user10387,Los Angeles,0.77,Mobile App,Usability,2,105,Resolved
+Slow response from team.,Negative,Twitter,2023-09-06 00:48:00,user10388,Sydney,0.93,Premium Plan,Website Experience,3,149,Resolved
+Great quality and quick delivery.,Positive,IMDb,2023-07-12 00:18:00,user10389,Los Angeles,0.71,Product B,Customer Support,1,22,Resolved
+User experience is fantastic.,Positive,Yelp,2023-07-31 05:01:00,user10390,Paris,0.7,Delivery Service,Product Quality,4,162,Resolved
+User experience is fantastic.,Positive,Yelp,2023-06-07 09:36:00,user10391,Toronto,0.75,Gift Card,Technical,2,6,Resolved
+Service quality was consistent.,Neutral,IMDb,2023-08-03 11:42:00,user10392,Mumbai,0.91,Product A,Delivery,5,104,Resolved
+Customer care was top-notch.,Positive,Twitter,2023-08-14 10:32:00,user10393,Mumbai,0.91,Delivery Service,Billing,4,110,Pending
+Response time could be better.,Neutral,IMDb,2023-07-09 14:02:00,user10394,London,0.85,Premium Plan,Refund,2,52,Escalated
+Everything worked perfectly.,Positive,Amazon Reviews,2023-07-22 18:57:00,user10395,New York,0.85,Delivery Service,Website Experience,5,174,Resolved
+I will definitely recommend this to friends.,Positive,Twitter,2023-09-26 19:56:00,user10396,Berlin,0.82,Delivery Service,Website Experience,2,86,Resolved
+Customer care was top-notch.,Positive,IMDb,2023-09-26 11:54:00,user10397,Mumbai,0.72,Gift Card,Delivery,4,46,Escalated
+Amazing service!,Positive,IMDb,2023-09-06 15:18:00,user10398,Berlin,0.79,Gift Card,Billing,5,169,Resolved
+Product arrived damaged.,Negative,ChatSupport,2023-06-23 16:49:00,user10399,Mumbai,0.93,Product A,Delivery,1,152,Resolved
+Service quality was consistent.,Neutral,Amazon Reviews,2023-08-24 12:36:00,user10400,New York,0.81,Subscription,Usability,4,54,Resolved
+Everything worked perfectly.,Positive,Email,2023-09-14 06:10:00,user10401,New York,0.7,Gift Card,Refund,2,19,Resolved
+I will definitely recommend this to friends.,Positive,Amazon Reviews,2023-09-19 19:07:00,user10402,Toronto,0.78,Gift Card,Customer Support,4,66,Resolved
+Instructions were confusing.,Negative,Website Testimonial,2023-06-26 12:17:00,user10403,Singapore,0.93,Subscription,Billing,3,147,Pending
+Loved the product!,Positive,Yelp,2023-07-30 04:55:00,user10404,Toronto,0.93,Subscription,Technical,1,163,Pending
+Not worth the money.,Negative,ChatSupport,2023-06-26 14:37:00,user10405,Berlin,0.85,Product B,Refund,4,72,Pending
+I will definitely recommend this to friends.,Positive,Amazon Reviews,2023-06-25 21:29:00,user10406,Sydney,0.77,Mobile App,Refund,3,179,Resolved
+Very satisfied with the response.,Positive,Website Testimonial,2023-08-30 05:11:00,user10407,Dubai,0.92,Product B,Usability,5,22,Resolved
+Received wrong item.,Negative,Amazon Reviews,2023-06-27 02:57:00,user10408,Dubai,0.89,Delivery Service,Refund,5,66,Escalated
+Very satisfied with the response.,Positive,TripAdvisor,2023-07-17 18:07:00,user10409,Dubai,0.71,Premium Plan,Customer Support,5,30,Resolved
+"It was okay, nothing special.",Neutral,Yelp,2023-07-08 13:49:00,user10410,London,0.82,Website,Billing,2,149,Resolved
+Delivery took too long.,Negative,Amazon Reviews,2023-09-11 21:45:00,user10411,Toronto,0.73,Mobile App,Delivery,2,77,Resolved
+I will definitely recommend this to friends.,Positive,Spotify,2023-07-04 02:11:00,user10412,Dubai,0.93,Gift Card,Refund,5,168,Resolved
+Average performance.,Neutral,Website Testimonial,2023-07-10 01:27:00,user10413,Los Angeles,0.85,Customer Portal,Refund,2,69,Resolved
+Service quality was consistent.,Neutral,Spotify,2023-07-25 03:51:00,user10414,Sydney,0.87,Website,Customer Support,5,10,Resolved
+I will definitely recommend this to friends.,Positive,Yelp,2023-08-01 22:06:00,user10415,Paris,0.91,Gift Card,Usability,2,153,Resolved
+Customer care was top-notch.,Positive,Website Testimonial,2023-08-15 06:13:00,user10416,Mumbai,0.88,Mobile App,Billing,3,131,Resolved
+"It was okay, nothing special.",Neutral,Twitter,2023-08-01 18:45:00,user10417,Berlin,0.89,Product B,Refund,2,64,Resolved
+User experience is fantastic.,Positive,Twitter,2023-07-06 05:51:00,user10418,New York,0.83,Product A,Customer Support,4,156,Resolved
+Fast and friendly communication.,Positive,ChatSupport,2023-08-13 08:11:00,user10419,Los Angeles,0.92,Customer Portal,Billing,4,36,Resolved
+Loved the product!,Positive,Spotify,2023-08-23 04:19:00,user10420,Los Angeles,0.72,Gift Card,Billing,2,120,Pending
+Amazing service!,Positive,IMDb,2023-06-09 21:51:00,user10421,Mumbai,0.9,Premium Plan,Refund,1,19,Resolved
+Slow response from team.,Negative,Email,2023-08-17 21:22:00,user10422,Mumbai,0.76,Customer Portal,Refund,2,35,Resolved
+Instructions were confusing.,Negative,Yelp,2023-08-03 17:57:00,user10423,Toronto,0.78,Mobile App,Refund,5,13,Escalated
+Great quality and quick delivery.,Positive,Email,2023-07-23 12:07:00,user10424,Mumbai,0.86,Gift Card,Technical,3,124,Resolved
+User experience is fantastic.,Positive,Email,2023-08-02 08:29:00,user10425,Paris,0.77,Mobile App,Refund,3,137,Resolved
+Not worth the money.,Negative,ChatSupport,2023-07-30 04:41:00,user10426,Singapore,0.87,Subscription,Technical,5,119,Pending
+Experience was fair.,Neutral,Yelp,2023-07-02 18:26:00,user10427,New York,0.77,Customer Portal,Usability,4,147,Resolved
+"Terrible experience, very disappointed.",Negative,Yelp,2023-06-06 17:09:00,user10428,Paris,0.74,Product A,Delivery,3,53,Resolved
+Delivery took too long.,Negative,Twitter,2023-09-18 18:25:00,user10429,Dubai,0.85,Product B,Customer Support,5,14,Resolved
+Delivery took too long.,Negative,Website Testimonial,2023-06-27 04:41:00,user10430,Paris,0.93,Gift Card,Website Experience,2,88,Resolved
+Amazing service!,Positive,Email,2023-09-07 02:25:00,user10431,Singapore,0.82,Premium Plan,Usability,5,59,Escalated
+User experience is fantastic.,Positive,Website Testimonial,2023-08-21 05:35:00,user10432,Singapore,0.71,Subscription,Billing,5,45,Pending
+Loved the product!,Positive,Email,2023-08-02 15:52:00,user10433,Toronto,0.83,Delivery Service,Usability,3,132,Resolved
+Experience was fair.,Neutral,IMDb,2023-07-14 16:50:00,user10434,Los Angeles,0.83,Customer Portal,Refund,5,39,Escalated
+"It was okay, nothing special.",Neutral,Twitter,2023-09-22 15:22:00,user10435,New York,0.84,Delivery Service,Billing,1,54,Resolved
+User experience is fantastic.,Positive,Yelp,2023-09-28 11:56:00,user10436,Toronto,0.86,Gift Card,Billing,1,20,Resolved
+Customer support never replied.,Negative,Email,2023-06-13 20:52:00,user10437,Toronto,0.7,Website,Website Experience,5,126,Resolved
+Website kept crashing.,Negative,Email,2023-09-17 19:41:00,user10438,Toronto,0.91,Gift Card,Usability,5,124,Resolved
+Fast and friendly communication.,Positive,Email,2023-08-23 02:47:00,user10439,Toronto,0.89,Gift Card,Billing,5,150,Resolved
+Loved the product!,Positive,Website Testimonial,2023-09-22 02:10:00,user10440,Mumbai,0.92,Product B,Product Quality,5,53,Resolved
+Received wrong item.,Negative,Website Testimonial,2023-06-29 19:29:00,user10441,Berlin,0.81,Mobile App,Refund,5,31,Pending
+Loved the product!,Positive,ChatSupport,2023-08-09 06:42:00,user10442,New York,0.92,Gift Card,Technical,3,107,Resolved
+Customer support never replied.,Negative,Email,2023-08-16 04:54:00,user10443,Sydney,0.75,Mobile App,Technical,4,22,Resolved
+Everything worked perfectly.,Positive,Yelp,2023-06-18 16:45:00,user10444,London,0.88,Premium Plan,Usability,3,70,Escalated
+Product quality is acceptable.,Neutral,IMDb,2023-06-13 13:48:00,user10445,Paris,0.88,Website,Usability,5,148,Resolved
+Very satisfied with the response.,Positive,TripAdvisor,2023-06-17 10:04:00,user10446,Dubai,0.74,Premium Plan,Website Experience,3,27,Escalated
+Response time could be better.,Neutral,Amazon Reviews,2023-06-01 10:53:00,user10447,Berlin,0.83,Website,Product Quality,5,62,Resolved
+Average performance.,Neutral,Email,2023-08-06 05:40:00,user10448,Mumbai,0.73,Website,Website Experience,3,36,Escalated
+Chat was fine but not great.,Neutral,Twitter,2023-07-02 11:37:00,user10449,London,0.86,Mobile App,Product Quality,4,81,Resolved
+Product quality is acceptable.,Neutral,Twitter,2023-08-30 15:41:00,user10450,Paris,0.79,Gift Card,Usability,1,31,Resolved
+Average performance.,Neutral,Yelp,2023-09-05 07:26:00,user10451,Singapore,0.95,Mobile App,Delivery,1,79,Resolved
+I will definitely recommend this to friends.,Positive,Yelp,2023-07-12 10:51:00,user10452,London,0.73,Website,Delivery,1,104,Resolved
+User experience is fantastic.,Positive,TripAdvisor,2023-06-09 22:45:00,user10453,Singapore,0.79,Mobile App,Billing,4,65,Resolved
+Not worth the money.,Negative,Yelp,2023-09-03 07:55:00,user10454,Sydney,0.92,Product A,Refund,2,175,Resolved
+Customer support never replied.,Negative,Spotify,2023-08-30 07:54:00,user10455,Toronto,0.94,Product B,Refund,1,22,Resolved
+"Terrible experience, very disappointed.",Negative,Twitter,2023-09-17 17:14:00,user10456,Toronto,0.81,Subscription,Technical,1,96,Pending
+Chat was fine but not great.,Neutral,ChatSupport,2023-08-13 14:27:00,user10457,Paris,0.73,Premium Plan,Technical,4,125,Resolved
+Service quality was consistent.,Neutral,Spotify,2023-09-12 06:08:00,user10458,Singapore,0.89,Product B,Billing,2,19,Resolved
+Amazing service!,Positive,ChatSupport,2023-08-04 16:41:00,user10459,London,0.79,Website,Refund,4,20,Resolved
+Product quality is acceptable.,Neutral,Email,2023-07-26 03:14:00,user10460,New York,0.91,Premium Plan,Product Quality,2,125,Escalated
+Everything worked perfectly.,Positive,Email,2023-07-24 10:21:00,user10461,Sydney,0.87,Mobile App,Usability,5,119,Escalated
+Customer care was top-notch.,Positive,Amazon Reviews,2023-06-10 19:07:00,user10462,London,0.74,Product A,Delivery,5,130,Escalated
+"Met expectations, no issues.",Neutral,Email,2023-08-26 18:20:00,user10463,Paris,0.87,Delivery Service,Customer Support,1,178,Resolved
+Received wrong item.,Negative,ChatSupport,2023-08-18 09:14:00,user10464,Mumbai,0.93,Premium Plan,Billing,5,179,Resolved
+User experience is fantastic.,Positive,Amazon Reviews,2023-06-10 22:39:00,user10465,Los Angeles,0.7,Product B,Delivery,5,142,Resolved
+Experience was fair.,Neutral,TripAdvisor,2023-08-31 17:22:00,user10466,Mumbai,0.9,Delivery Service,Customer Support,5,174,Resolved
+Experience was fair.,Neutral,Spotify,2023-07-04 15:28:00,user10467,Dubai,0.73,Customer Portal,Billing,5,51,Resolved
+Website kept crashing.,Negative,Amazon Reviews,2023-07-15 14:03:00,user10468,Berlin,0.81,Customer Portal,Refund,5,97,Resolved
+"Met expectations, no issues.",Neutral,ChatSupport,2023-09-28 13:27:00,user10469,Berlin,0.89,Customer Portal,Customer Support,4,107,Resolved
+Product quality is acceptable.,Neutral,TripAdvisor,2023-08-10 08:03:00,user10470,Toronto,0.93,Product A,Product Quality,4,90,Resolved
+Delivery took too long.,Negative,IMDb,2023-07-23 12:31:00,user10471,Mumbai,0.84,Delivery Service,Usability,4,83,Escalated
+Slow response from team.,Negative,IMDb,2023-07-11 21:39:00,user10472,Paris,0.85,Gift Card,Usability,5,18,Resolved
+Website kept crashing.,Negative,Twitter,2023-07-09 17:51:00,user10473,Sydney,0.74,Product B,Billing,3,89,Resolved
+Experience was fair.,Neutral,Twitter,2023-07-15 06:58:00,user10474,London,0.88,Gift Card,Product Quality,1,128,Resolved
+Great quality and quick delivery.,Positive,TripAdvisor,2023-07-20 18:56:00,user10475,Singapore,0.94,Product A,Billing,5,90,Resolved
+"Terrible experience, very disappointed.",Negative,Yelp,2023-06-05 01:30:00,user10476,Sydney,0.81,Subscription,Product Quality,3,165,Resolved
+User experience is fantastic.,Positive,IMDb,2023-08-27 08:47:00,user10477,Toronto,0.78,Product B,Customer Support,1,156,Pending
+Chatbot was useless and unhelpful.,Negative,Email,2023-06-15 18:12:00,user10478,Sydney,0.8,Website,Product Quality,5,136,Resolved
+"Terrible experience, very disappointed.",Negative,Email,2023-08-24 02:16:00,user10479,Sydney,0.91,Subscription,Website Experience,1,18,Resolved
+Neither good nor bad.,Neutral,IMDb,2023-07-31 20:01:00,user10480,Berlin,0.93,Customer Portal,Usability,3,135,Resolved
+"Met expectations, no issues.",Neutral,Website Testimonial,2023-09-22 06:20:00,user10481,Mumbai,0.91,Product A,Delivery,1,44,Resolved
+Slow response from team.,Negative,Amazon Reviews,2023-07-14 00:31:00,user10482,Singapore,0.82,Website,Billing,5,156,Resolved
+Received wrong item.,Negative,ChatSupport,2023-08-14 02:40:00,user10483,Singapore,0.71,Premium Plan,Delivery,1,166,Resolved
+Chatbot was useless and unhelpful.,Negative,Amazon Reviews,2023-07-19 12:35:00,user10484,Mumbai,0.81,Customer Portal,Product Quality,2,140,Pending
+I will definitely recommend this to friends.,Positive,Email,2023-08-07 03:42:00,user10485,London,0.79,Premium Plan,Refund,4,91,Resolved
+Product arrived damaged.,Negative,Email,2023-07-07 07:07:00,user10486,London,0.7,Product B,Delivery,3,117,Resolved
+Product quality is acceptable.,Neutral,Yelp,2023-07-14 01:10:00,user10487,London,0.9,Mobile App,Delivery,2,130,Resolved
+I will definitely recommend this to friends.,Positive,IMDb,2023-07-25 00:36:00,user10488,Mumbai,0.9,Product A,Technical,5,64,Resolved
+Not worth the money.,Negative,IMDb,2023-06-12 22:44:00,user10489,Berlin,0.81,Mobile App,Refund,3,40,Resolved
+Great quality and quick delivery.,Positive,Amazon Reviews,2023-07-12 22:23:00,user10490,London,0.89,Delivery Service,Billing,5,40,Resolved
+Excellent support team.,Positive,ChatSupport,2023-07-11 06:19:00,user10491,Paris,0.85,Delivery Service,Delivery,2,172,Escalated
+Response time could be better.,Neutral,TripAdvisor,2023-09-12 08:06:00,user10492,Paris,0.87,Delivery Service,Usability,1,34,Escalated
+Not worth the money.,Negative,Email,2023-07-12 23:02:00,user10493,London,0.71,Gift Card,Delivery,4,171,Resolved
+"Met expectations, no issues.",Neutral,IMDb,2023-06-03 07:07:00,user10494,Los Angeles,0.85,Mobile App,Usability,5,34,Resolved
+Excellent support team.,Positive,Website Testimonial,2023-06-08 07:08:00,user10495,New York,0.9,Delivery Service,Refund,5,8,Pending
+"Met expectations, no issues.",Neutral,Amazon Reviews,2023-08-16 21:48:00,user10496,Los Angeles,0.71,Delivery Service,Delivery,1,17,Resolved
+Not worth the money.,Negative,Yelp,2023-08-24 05:25:00,user10497,Paris,0.76,Mobile App,Technical,1,6,Resolved
+Fast and friendly communication.,Positive,ChatSupport,2023-07-06 02:26:00,user10498,Toronto,0.78,Gift Card,Delivery,1,26,Resolved
+Customer support never replied.,Negative,IMDb,2023-09-20 11:50:00,user10499,London,0.81,Gift Card,Technical,3,172,Resolved
+Service quality was consistent.,Neutral,Yelp,2023-09-08 19:22:00,user10500,Mumbai,0.94,Gift Card,Delivery,3,179,Pending
+Response time could be better.,Neutral,Spotify,2023-07-26 02:53:00,user10501,Mumbai,0.9,Product B,Billing,2,48,Resolved
+Neither good nor bad.,Neutral,Amazon Reviews,2023-08-27 15:07:00,user10502,Sydney,0.85,Subscription,Refund,1,128,Resolved
+Instructions were confusing.,Negative,TripAdvisor,2023-09-26 15:29:00,user10503,Singapore,0.89,Customer Portal,Billing,3,42,Pending
+Delivery took too long.,Negative,Spotify,2023-09-06 09:48:00,user10504,Dubai,0.76,Subscription,Website Experience,1,108,Escalated
+Product quality is acceptable.,Neutral,Spotify,2023-07-11 19:37:00,user10505,Los Angeles,0.93,Customer Portal,Delivery,2,130,Pending
+Not worth the money.,Negative,Email,2023-09-03 22:48:00,user10506,Sydney,0.94,Customer Portal,Website Experience,1,138,Pending
+"Met expectations, no issues.",Neutral,Spotify,2023-07-05 17:25:00,user10507,Mumbai,0.88,Gift Card,Technical,2,70,Resolved
+Delivery took too long.,Negative,Spotify,2023-07-19 15:58:00,user10508,Dubai,0.83,Subscription,Delivery,3,40,Resolved
+Average performance.,Neutral,IMDb,2023-06-15 09:50:00,user10509,London,0.81,Premium Plan,Delivery,2,41,Resolved
+Slow response from team.,Negative,ChatSupport,2023-06-30 06:02:00,user10510,New York,0.78,Product A,Delivery,4,171,Resolved
+Experience was fair.,Neutral,Amazon Reviews,2023-07-25 11:41:00,user10511,Mumbai,0.83,Product A,Usability,4,150,Escalated
+"It was okay, nothing special.",Neutral,IMDb,2023-06-22 05:03:00,user10512,Los Angeles,0.72,Mobile App,Customer Support,4,91,Resolved
+User experience is fantastic.,Positive,Amazon Reviews,2023-08-30 17:20:00,user10513,Toronto,0.74,Mobile App,Website Experience,5,160,Pending
+Fast and friendly communication.,Positive,Website Testimonial,2023-08-29 09:55:00,user10514,London,0.95,Gift Card,Customer Support,3,48,Pending
+Website kept crashing.,Negative,Spotify,2023-06-24 09:03:00,user10515,Toronto,0.82,Mobile App,Billing,2,146,Resolved
+Product arrived damaged.,Negative,TripAdvisor,2023-08-25 04:53:00,user10516,Dubai,0.79,Customer Portal,Website Experience,4,153,Resolved
+Loved the product!,Positive,Amazon Reviews,2023-07-04 05:56:00,user10517,Los Angeles,0.74,Product B,Usability,1,95,Resolved
+Customer care was top-notch.,Positive,Email,2023-06-13 22:25:00,user10518,New York,0.82,Product B,Customer Support,5,87,Resolved
+Website kept crashing.,Negative,Email,2023-07-29 23:28:00,user10519,Singapore,0.86,Subscription,Refund,1,118,Resolved
+"Met expectations, no issues.",Neutral,Yelp,2023-08-17 22:58:00,user10520,Dubai,0.78,Website,Billing,2,81,Resolved
+Very satisfied with the response.,Positive,Twitter,2023-07-17 23:33:00,user10521,Dubai,0.78,Product B,Product Quality,2,91,Resolved
+Very satisfied with the response.,Positive,Amazon Reviews,2023-08-04 00:57:00,user10522,Los Angeles,0.83,Subscription,Product Quality,1,122,Resolved
+Very satisfied with the response.,Positive,IMDb,2023-06-18 13:10:00,user10523,Los Angeles,0.74,Gift Card,Usability,5,119,Resolved
+I will definitely recommend this to friends.,Positive,IMDb,2023-07-05 03:29:00,user10524,London,0.94,Subscription,Product Quality,3,141,Resolved
+Amazing service!,Positive,Yelp,2023-08-14 12:20:00,user10525,Paris,0.74,Product B,Technical,5,31,Resolved
+Not worth the money.,Negative,Email,2023-08-20 10:26:00,user10526,Paris,0.89,Premium Plan,Billing,3,8,Resolved
+I will definitely recommend this to friends.,Positive,Spotify,2023-06-24 11:21:00,user10527,Paris,0.94,Subscription,Refund,3,44,Pending
+Slow response from team.,Negative,IMDb,2023-08-15 16:34:00,user10528,Berlin,0.8,Mobile App,Usability,5,11,Escalated
+Experience was fair.,Neutral,Twitter,2023-07-26 12:20:00,user10529,Sydney,0.82,Delivery Service,Customer Support,4,85,Resolved
+Chat was fine but not great.,Neutral,Yelp,2023-07-19 11:13:00,user10530,Toronto,0.85,Mobile App,Delivery,2,106,Resolved
+Customer support never replied.,Negative,Spotify,2023-07-02 01:06:00,user10531,Paris,0.86,Subscription,Refund,4,141,Resolved
+Not worth the money.,Negative,ChatSupport,2023-07-15 22:49:00,user10532,Sydney,0.9,Customer Portal,Website Experience,3,120,Resolved
+Neither good nor bad.,Neutral,ChatSupport,2023-08-09 12:28:00,user10533,New York,0.75,Delivery Service,Technical,1,148,Resolved
+Service quality was consistent.,Neutral,Yelp,2023-06-07 18:20:00,user10534,New York,0.74,Delivery Service,Technical,2,132,Resolved
+"Terrible experience, very disappointed.",Negative,Spotify,2023-06-05 08:20:00,user10535,New York,0.91,Product B,Usability,3,72,Resolved
+Instructions were confusing.,Negative,Website Testimonial,2023-07-06 06:59:00,user10536,Sydney,0.87,Product B,Usability,2,151,Resolved
+Customer support never replied.,Negative,Spotify,2023-08-21 01:07:00,user10537,Mumbai,0.79,Product B,Technical,2,59,Pending
+Service quality was consistent.,Neutral,Yelp,2023-06-27 00:09:00,user10538,London,0.79,Delivery Service,Billing,4,118,Resolved
+Received wrong item.,Negative,Spotify,2023-07-10 00:28:00,user10539,Sydney,0.74,Premium Plan,Refund,2,74,Resolved
+Neither good nor bad.,Neutral,Email,2023-06-08 10:31:00,user10540,Mumbai,0.92,Subscription,Website Experience,1,167,Resolved
+Chatbot was useless and unhelpful.,Negative,ChatSupport,2023-07-09 22:39:00,user10541,Paris,0.74,Subscription,Refund,5,176,Resolved
+User experience is fantastic.,Positive,TripAdvisor,2023-06-12 08:34:00,user10542,Toronto,0.71,Mobile App,Product Quality,1,127,Escalated
+Customer care was top-notch.,Positive,Amazon Reviews,2023-06-27 08:14:00,user10543,Dubai,0.95,Product B,Billing,1,70,Resolved
+Great quality and quick delivery.,Positive,IMDb,2023-08-10 14:04:00,user10544,Los Angeles,0.73,Website,Product Quality,5,116,Escalated
+Slow response from team.,Negative,Website Testimonial,2023-09-07 16:06:00,user10545,London,0.89,Product B,Delivery,1,23,Resolved
+Instructions were confusing.,Negative,TripAdvisor,2023-07-19 20:02:00,user10546,Los Angeles,0.93,Delivery Service,Customer Support,3,148,Resolved
+"Terrible experience, very disappointed.",Negative,Website Testimonial,2023-06-14 07:56:00,user10547,Paris,0.84,Subscription,Website Experience,2,180,Resolved
+Response time could be better.,Neutral,Amazon Reviews,2023-08-28 13:05:00,user10548,Los Angeles,0.76,Website,Product Quality,5,59,Resolved
+Chatbot was useless and unhelpful.,Negative,Email,2023-07-30 11:23:00,user10549,Dubai,0.88,Delivery Service,Customer Support,2,166,Resolved
+Neutral feeling about the experience.,Neutral,Email,2023-09-27 08:15:00,user10550,New York,0.85,Customer Portal,Billing,5,85,Resolved
+"Met expectations, no issues.",Neutral,Amazon Reviews,2023-09-14 12:12:00,user10551,Berlin,0.87,Product A,Technical,4,139,Resolved
+Service quality was consistent.,Neutral,Spotify,2023-09-13 16:25:00,user10552,Mumbai,0.91,Customer Portal,Refund,5,49,Resolved
+Chatbot was useless and unhelpful.,Negative,Spotify,2023-06-14 09:45:00,user10553,Toronto,0.82,Product B,Usability,5,10,Resolved
+Instructions were confusing.,Negative,Yelp,2023-09-05 08:37:00,user10554,Mumbai,0.75,Subscription,Refund,4,5,Resolved
+Chatbot was useless and unhelpful.,Negative,Website Testimonial,2023-09-15 11:33:00,user10555,Mumbai,0.93,Mobile App,Delivery,4,126,Resolved
+Received wrong item.,Negative,Website Testimonial,2023-08-10 03:18:00,user10556,New York,0.88,Premium Plan,Billing,4,139,Pending
+Service quality was consistent.,Neutral,Twitter,2023-07-20 09:51:00,user10557,Los Angeles,0.71,Delivery Service,Delivery,5,55,Pending
+Slow response from team.,Negative,ChatSupport,2023-06-20 07:49:00,user10558,New York,0.92,Mobile App,Customer Support,4,16,Pending
+Neutral feeling about the experience.,Neutral,TripAdvisor,2023-09-19 21:36:00,user10559,London,0.92,Website,Technical,3,176,Resolved
+Everything worked perfectly.,Positive,Amazon Reviews,2023-09-25 05:08:00,user10560,Berlin,0.87,Product B,Product Quality,1,149,Resolved
+Website kept crashing.,Negative,Spotify,2023-07-10 07:52:00,user10561,Paris,0.76,Premium Plan,Refund,2,150,Resolved
+Response time could be better.,Neutral,ChatSupport,2023-09-11 23:22:00,user10562,London,0.78,Delivery Service,Website Experience,2,52,Resolved
+Product quality is acceptable.,Neutral,Amazon Reviews,2023-08-23 00:23:00,user10563,Singapore,0.76,Website,Customer Support,1,119,Resolved
+Loved the product!,Positive,ChatSupport,2023-07-23 20:36:00,user10564,Paris,0.84,Website,Product Quality,2,175,Pending
+Chat was fine but not great.,Neutral,Website Testimonial,2023-08-19 11:16:00,user10565,Berlin,0.73,Gift Card,Technical,4,125,Pending
+Slow response from team.,Negative,IMDb,2023-08-12 08:53:00,user10566,Mumbai,0.73,Delivery Service,Technical,1,33,Pending
+Very satisfied with the response.,Positive,Amazon Reviews,2023-07-16 20:07:00,user10567,Singapore,0.94,Premium Plan,Refund,5,61,Resolved
+Received wrong item.,Negative,Amazon Reviews,2023-08-26 06:15:00,user10568,Dubai,0.87,Gift Card,Customer Support,5,119,Pending
+"Terrible experience, very disappointed.",Negative,Yelp,2023-07-02 17:43:00,user10569,Berlin,0.76,Mobile App,Billing,5,76,Resolved
+Product quality is acceptable.,Neutral,Website Testimonial,2023-07-20 10:58:00,user10570,Mumbai,0.87,Product B,Customer Support,3,48,Resolved
+Delivery took too long.,Negative,Amazon Reviews,2023-08-01 13:14:00,user10571,London,0.79,Mobile App,Usability,2,5,Resolved
+User experience is fantastic.,Positive,IMDb,2023-07-14 17:21:00,user10572,Los Angeles,0.74,Product B,Delivery,1,68,Resolved
+I will definitely recommend this to friends.,Positive,Spotify,2023-07-22 11:01:00,user10573,New York,0.78,Product B,Product Quality,2,78,Resolved
+Excellent support team.,Positive,ChatSupport,2023-06-19 19:54:00,user10574,Paris,0.82,Product A,Billing,4,163,Resolved
+Customer support never replied.,Negative,Email,2023-06-10 06:39:00,user10575,Los Angeles,0.93,Product B,Delivery,1,137,Resolved
+Customer care was top-notch.,Positive,TripAdvisor,2023-09-21 22:07:00,user10576,Singapore,0.87,Customer Portal,Usability,3,129,Resolved
+Delivery took too long.,Negative,Yelp,2023-08-02 08:18:00,user10577,Mumbai,0.93,Product A,Billing,1,61,Resolved
+Loved the product!,Positive,Website Testimonial,2023-07-10 01:21:00,user10578,Berlin,0.7,Delivery Service,Technical,1,26,Resolved
+Very satisfied with the response.,Positive,TripAdvisor,2023-07-16 15:59:00,user10579,Mumbai,0.77,Delivery Service,Billing,3,9,Resolved
+Received wrong item.,Negative,Website Testimonial,2023-06-13 00:04:00,user10580,London,0.75,Product B,Usability,5,60,Resolved
+Chat was fine but not great.,Neutral,ChatSupport,2023-07-20 01:59:00,user10581,Dubai,0.9,Product B,Customer Support,4,143,Escalated
+User experience is fantastic.,Positive,IMDb,2023-09-13 16:14:00,user10582,Toronto,0.72,Product A,Technical,5,39,Pending
+Very satisfied with the response.,Positive,Spotify,2023-08-16 03:56:00,user10583,Dubai,0.7,Customer Portal,Product Quality,5,112,Escalated
+Not worth the money.,Negative,Spotify,2023-07-30 08:00:00,user10584,Berlin,0.94,Subscription,Usability,1,40,Pending
+"Terrible experience, very disappointed.",Negative,TripAdvisor,2023-09-05 12:24:00,user10585,Singapore,0.95,Customer Portal,Technical,5,52,Resolved
+"Met expectations, no issues.",Neutral,Email,2023-06-12 08:26:00,user10586,Berlin,0.93,Customer Portal,Billing,5,18,Resolved
+Slow response from team.,Negative,Email,2023-08-08 05:53:00,user10587,Singapore,0.86,Website,Refund,5,50,Resolved
+Great quality and quick delivery.,Positive,Yelp,2023-07-29 05:27:00,user10588,New York,0.82,Mobile App,Usability,1,79,Resolved
+Service quality was consistent.,Neutral,Spotify,2023-09-24 15:33:00,user10589,Toronto,0.92,Mobile App,Delivery,1,166,Pending
+Product quality is acceptable.,Neutral,Yelp,2023-09-28 04:31:00,user10590,Sydney,0.88,Product A,Usability,4,23,Resolved
+Fast and friendly communication.,Positive,Website Testimonial,2023-09-07 00:05:00,user10591,Toronto,0.87,Premium Plan,Website Experience,5,94,Escalated
+Instructions were confusing.,Negative,Amazon Reviews,2023-07-22 17:25:00,user10592,Los Angeles,0.77,Customer Portal,Delivery,5,82,Escalated
+Loved the product!,Positive,Spotify,2023-07-03 08:08:00,user10593,Dubai,0.78,Gift Card,Website Experience,3,177,Resolved
+Everything worked perfectly.,Positive,Website Testimonial,2023-09-12 10:20:00,user10594,London,0.82,Product B,Usability,4,130,Resolved
+Customer support never replied.,Negative,Email,2023-08-07 17:16:00,user10595,Dubai,0.84,Mobile App,Delivery,1,80,Resolved
+Loved the product!,Positive,IMDb,2023-06-18 16:01:00,user10596,Mumbai,0.8,Gift Card,Billing,4,6,Escalated
+Very satisfied with the response.,Positive,Spotify,2023-08-20 13:22:00,user10597,Toronto,0.78,Mobile App,Technical,3,142,Resolved
+Chat was fine but not great.,Neutral,TripAdvisor,2023-08-16 18:39:00,user10598,Paris,0.73,Subscription,Technical,2,136,Pending
+Response time could be better.,Neutral,Website Testimonial,2023-06-18 00:24:00,user10599,Los Angeles,0.88,Premium Plan,Billing,5,128,Pending
+Neither good nor bad.,Neutral,Spotify,2023-06-20 01:30:00,user10600,Sydney,0.81,Mobile App,Customer Support,2,29,Pending
+Slow response from team.,Negative,Yelp,2023-09-02 22:14:00,user10601,Dubai,0.85,Mobile App,Website Experience,4,80,Resolved
+Received wrong item.,Negative,ChatSupport,2023-06-25 16:05:00,user10602,Singapore,0.85,Mobile App,Product Quality,5,176,Resolved
+"It was okay, nothing special.",Neutral,Email,2023-09-09 16:16:00,user10603,Los Angeles,0.92,Customer Portal,Billing,5,70,Resolved
+Chatbot was useless and unhelpful.,Negative,Amazon Reviews,2023-06-03 09:44:00,user10604,Paris,0.85,Product A,Usability,1,36,Resolved
+Neutral feeling about the experience.,Neutral,Email,2023-08-29 03:32:00,user10605,Singapore,0.79,Product A,Billing,5,16,Pending
+Received wrong item.,Negative,Twitter,2023-09-03 15:55:00,user10606,Mumbai,0.78,Subscription,Technical,1,145,Resolved
+Response time could be better.,Neutral,Spotify,2023-06-16 00:10:00,user10607,London,0.88,Mobile App,Website Experience,2,42,Resolved
+Experience was fair.,Neutral,Website Testimonial,2023-07-09 22:33:00,user10608,Berlin,0.82,Mobile App,Product Quality,3,108,Pending
+Loved the product!,Positive,IMDb,2023-09-05 10:09:00,user10609,Dubai,0.82,Customer Portal,Product Quality,4,122,Resolved
+Response time could be better.,Neutral,Yelp,2023-08-13 08:08:00,user10610,Dubai,0.93,Product A,Refund,1,130,Resolved
+Website kept crashing.,Negative,ChatSupport,2023-06-25 02:55:00,user10611,Sydney,0.87,Subscription,Website Experience,1,21,Pending
+Experience was fair.,Neutral,Amazon Reviews,2023-06-16 19:43:00,user10612,Singapore,0.84,Gift Card,Delivery,2,59,Resolved
+Chat was fine but not great.,Neutral,Twitter,2023-08-11 20:18:00,user10613,Berlin,0.71,Mobile App,Refund,3,88,Resolved
+Chatbot was useless and unhelpful.,Negative,Website Testimonial,2023-08-30 08:46:00,user10614,Los Angeles,0.8,Delivery Service,Product Quality,4,74,Resolved
+Website kept crashing.,Negative,Spotify,2023-08-28 20:48:00,user10615,Mumbai,0.72,Customer Portal,Billing,5,11,Pending
+Chat was fine but not great.,Neutral,IMDb,2023-08-31 01:31:00,user10616,New York,0.84,Gift Card,Refund,3,102,Resolved
+Instructions were confusing.,Negative,Twitter,2023-07-07 00:44:00,user10617,London,0.89,Gift Card,Refund,4,31,Resolved
+User experience is fantastic.,Positive,Yelp,2023-09-22 03:04:00,user10618,Paris,0.9,Customer Portal,Billing,3,49,Resolved
+Great quality and quick delivery.,Positive,Yelp,2023-08-28 16:13:00,user10619,Berlin,0.77,Mobile App,Delivery,4,139,Pending
+Received wrong item.,Negative,Twitter,2023-08-24 02:34:00,user10620,Paris,0.84,Product B,Usability,5,21,Resolved
+Excellent support team.,Positive,Website Testimonial,2023-09-16 21:07:00,user10621,Berlin,0.72,Mobile App,Website Experience,5,169,Pending
+Chatbot was useless and unhelpful.,Negative,Website Testimonial,2023-09-06 23:25:00,user10622,Sydney,0.89,Subscription,Technical,1,70,Resolved
+"Terrible experience, very disappointed.",Negative,Email,2023-08-04 21:08:00,user10623,London,0.83,Subscription,Usability,3,87,Resolved
+Neither good nor bad.,Neutral,IMDb,2023-07-01 18:16:00,user10624,London,0.81,Premium Plan,Delivery,1,173,Resolved
+Great quality and quick delivery.,Positive,IMDb,2023-08-21 01:51:00,user10625,Mumbai,0.71,Subscription,Delivery,5,13,Resolved
+Fast and friendly communication.,Positive,Twitter,2023-09-26 18:03:00,user10626,Mumbai,0.88,Product B,Delivery,1,26,Resolved
+Received wrong item.,Negative,ChatSupport,2023-07-07 19:11:00,user10627,Mumbai,0.72,Customer Portal,Refund,1,76,Pending
+Customer care was top-notch.,Positive,ChatSupport,2023-07-17 07:02:00,user10628,Toronto,0.83,Subscription,Billing,3,170,Pending
+Chat was fine but not great.,Neutral,Spotify,2023-06-25 22:40:00,user10629,Los Angeles,0.76,Product B,Usability,1,177,Resolved
+Product quality is acceptable.,Neutral,IMDb,2023-09-23 19:27:00,user10630,Berlin,0.71,Subscription,Refund,5,64,Resolved
+Neutral feeling about the experience.,Neutral,TripAdvisor,2023-09-04 00:35:00,user10631,Toronto,0.73,Product B,Product Quality,1,159,Resolved
+Everything worked perfectly.,Positive,Twitter,2023-09-24 19:22:00,user10632,New York,0.71,Website,Usability,3,59,Resolved
+Customer care was top-notch.,Positive,IMDb,2023-06-20 13:42:00,user10633,Los Angeles,0.86,Gift Card,Usability,2,33,Resolved
+I will definitely recommend this to friends.,Positive,Spotify,2023-06-06 03:50:00,user10634,Singapore,0.8,Customer Portal,Customer Support,5,122,Resolved
+Delivery took too long.,Negative,Amazon Reviews,2023-09-13 07:48:00,user10635,Los Angeles,0.87,Website,Refund,1,155,Resolved
+Fast and friendly communication.,Positive,Yelp,2023-07-30 12:08:00,user10636,Mumbai,0.73,Mobile App,Billing,2,63,Pending
+Response time could be better.,Neutral,Twitter,2023-09-16 16:33:00,user10637,Los Angeles,0.89,Mobile App,Technical,2,13,Pending
+Service quality was consistent.,Neutral,IMDb,2023-06-14 09:11:00,user10638,Singapore,0.87,Subscription,Website Experience,2,174,Pending
+Received wrong item.,Negative,ChatSupport,2023-07-04 17:17:00,user10639,Toronto,0.75,Product B,Delivery,3,63,Resolved
+Everything worked perfectly.,Positive,TripAdvisor,2023-06-03 11:05:00,user10640,Mumbai,0.84,Product B,Billing,5,49,Resolved
+Everything worked perfectly.,Positive,Yelp,2023-06-25 18:57:00,user10641,London,0.85,Website,Customer Support,1,151,Resolved
+Great quality and quick delivery.,Positive,Yelp,2023-07-08 00:01:00,user10642,Berlin,0.78,Premium Plan,Usability,1,57,Escalated
+User experience is fantastic.,Positive,Yelp,2023-09-24 03:39:00,user10643,Dubai,0.92,Product A,Billing,4,178,Pending
+Customer care was top-notch.,Positive,Email,2023-08-05 00:10:00,user10644,London,0.93,Mobile App,Refund,4,161,Pending
+Chat was fine but not great.,Neutral,ChatSupport,2023-06-18 07:21:00,user10645,Sydney,0.87,Subscription,Billing,2,168,Pending
+Customer support never replied.,Negative,Spotify,2023-08-05 15:58:00,user10646,New York,0.89,Gift Card,Refund,5,108,Resolved
+Product quality is acceptable.,Neutral,Twitter,2023-07-25 21:08:00,user10647,Sydney,0.74,Subscription,Delivery,4,123,Pending
+Great quality and quick delivery.,Positive,Email,2023-06-09 16:40:00,user10648,Dubai,0.86,Gift Card,Refund,2,162,Resolved
+Loved the product!,Positive,Spotify,2023-07-28 09:34:00,user10649,Singapore,0.82,Mobile App,Refund,2,106,Pending
+Fast and friendly communication.,Positive,Yelp,2023-08-23 00:11:00,user10650,Paris,0.9,Customer Portal,Refund,4,103,Resolved
+Customer support never replied.,Negative,ChatSupport,2023-09-13 12:06:00,user10651,Toronto,0.77,Gift Card,Product Quality,2,60,Resolved
+User experience is fantastic.,Positive,Email,2023-07-10 12:10:00,user10652,London,0.94,Website,Website Experience,1,110,Escalated
+Website kept crashing.,Negative,Twitter,2023-06-12 13:12:00,user10653,Toronto,0.9,Gift Card,Usability,2,137,Resolved
+Neutral feeling about the experience.,Neutral,IMDb,2023-06-10 04:57:00,user10654,Singapore,0.82,Subscription,Usability,4,25,Pending
+"Terrible experience, very disappointed.",Negative,TripAdvisor,2023-08-15 09:43:00,user10655,Mumbai,0.94,Mobile App,Website Experience,5,32,Resolved
+Slow response from team.,Negative,Yelp,2023-07-16 05:11:00,user10656,Dubai,0.75,Product B,Customer Support,5,54,Resolved
+Product arrived damaged.,Negative,TripAdvisor,2023-08-28 23:29:00,user10657,Mumbai,0.86,Mobile App,Billing,5,142,Pending
+Website kept crashing.,Negative,Amazon Reviews,2023-06-28 03:08:00,user10658,London,0.81,Customer Portal,Customer Support,4,94,Escalated
+Response time could be better.,Neutral,Spotify,2023-08-23 23:11:00,user10659,Dubai,0.81,Product B,Website Experience,5,115,Escalated
+Not worth the money.,Negative,Website Testimonial,2023-08-24 22:31:00,user10660,Mumbai,0.89,Mobile App,Usability,4,15,Resolved
+Great quality and quick delivery.,Positive,IMDb,2023-07-13 18:31:00,user10661,Paris,0.75,Website,Website Experience,1,10,Resolved
+Fast and friendly communication.,Positive,IMDb,2023-06-02 00:57:00,user10662,Berlin,0.86,Gift Card,Billing,3,12,Resolved
+Neutral feeling about the experience.,Neutral,TripAdvisor,2023-08-04 13:50:00,user10663,Singapore,0.82,Delivery Service,Refund,5,99,Resolved
+Chatbot was useless and unhelpful.,Negative,TripAdvisor,2023-07-07 06:42:00,user10664,Berlin,0.92,Gift Card,Customer Support,4,175,Resolved
+Instructions were confusing.,Negative,Spotify,2023-07-23 22:38:00,user10665,Sydney,0.89,Website,Delivery,1,95,Resolved
+Very satisfied with the response.,Positive,IMDb,2023-08-28 18:05:00,user10666,Sydney,0.88,Customer Portal,Product Quality,2,87,Resolved
+Product quality is acceptable.,Neutral,IMDb,2023-07-03 00:43:00,user10667,Paris,0.89,Product A,Billing,4,73,Pending
+Product arrived damaged.,Negative,ChatSupport,2023-09-06 13:50:00,user10668,Los Angeles,0.84,Customer Portal,Usability,5,158,Resolved
+Fast and friendly communication.,Positive,Amazon Reviews,2023-06-11 11:14:00,user10669,Singapore,0.83,Delivery Service,Billing,3,113,Resolved
+Average performance.,Neutral,Yelp,2023-07-28 13:35:00,user10670,Paris,0.72,Gift Card,Billing,2,18,Resolved
+Fast and friendly communication.,Positive,Amazon Reviews,2023-07-08 18:13:00,user10671,Berlin,0.92,Customer Portal,Refund,4,131,Resolved
+Average performance.,Neutral,Spotify,2023-09-19 07:56:00,user10672,New York,0.94,Gift Card,Technical,1,101,Resolved
+Everything worked perfectly.,Positive,Spotify,2023-09-26 06:37:00,user10673,London,0.87,Customer Portal,Website Experience,5,19,Resolved
+Instructions were confusing.,Negative,ChatSupport,2023-08-30 04:46:00,user10674,Mumbai,0.78,Product A,Website Experience,1,131,Pending
+Everything worked perfectly.,Positive,Twitter,2023-08-27 21:31:00,user10675,Mumbai,0.92,Premium Plan,Website Experience,5,57,Resolved
+Not worth the money.,Negative,IMDb,2023-08-23 15:14:00,user10676,Singapore,0.8,Mobile App,Customer Support,4,165,Resolved
+Customer care was top-notch.,Positive,TripAdvisor,2023-08-22 14:37:00,user10677,New York,0.9,Delivery Service,Usability,1,13,Resolved
+Received wrong item.,Negative,Spotify,2023-06-30 16:25:00,user10678,New York,0.95,Subscription,Website Experience,4,71,Escalated
+"Terrible experience, very disappointed.",Negative,Amazon Reviews,2023-07-02 11:23:00,user10679,Dubai,0.83,Website,Technical,4,73,Resolved
+Very satisfied with the response.,Positive,Spotify,2023-09-09 06:01:00,user10680,Singapore,0.75,Product B,Website Experience,1,134,Resolved
+Neither good nor bad.,Neutral,Twitter,2023-07-07 06:02:00,user10681,Dubai,0.86,Gift Card,Website Experience,4,121,Pending
+Customer care was top-notch.,Positive,ChatSupport,2023-08-25 01:13:00,user10682,Singapore,0.88,Mobile App,Customer Support,3,94,Resolved
+Product arrived damaged.,Negative,Amazon Reviews,2023-08-23 05:33:00,user10683,Los Angeles,0.94,Delivery Service,Refund,4,113,Resolved
+Excellent support team.,Positive,TripAdvisor,2023-08-08 04:03:00,user10684,New York,0.71,Product B,Product Quality,5,66,Resolved
+Instructions were confusing.,Negative,IMDb,2023-06-19 01:44:00,user10685,Paris,0.9,Product B,Technical,4,26,Pending
+Amazing service!,Positive,IMDb,2023-08-01 21:34:00,user10686,Dubai,0.84,Product B,Delivery,4,149,Escalated
+"Met expectations, no issues.",Neutral,Twitter,2023-06-18 00:02:00,user10687,Berlin,0.71,Mobile App,Technical,2,33,Resolved
+Response time could be better.,Neutral,Twitter,2023-07-06 18:23:00,user10688,Los Angeles,0.72,Premium Plan,Technical,2,7,Resolved
+Very satisfied with the response.,Positive,TripAdvisor,2023-07-05 03:40:00,user10689,Mumbai,0.88,Delivery Service,Product Quality,3,31,Pending
+Response time could be better.,Neutral,Twitter,2023-08-05 07:39:00,user10690,Dubai,0.74,Premium Plan,Product Quality,2,145,Pending
+I will definitely recommend this to friends.,Positive,Spotify,2023-09-20 09:38:00,user10691,Los Angeles,0.92,Premium Plan,Customer Support,3,120,Resolved
+Not worth the money.,Negative,Spotify,2023-07-28 18:46:00,user10692,Berlin,0.91,Premium Plan,Delivery,4,30,Resolved
+Delivery took too long.,Negative,Email,2023-07-20 20:23:00,user10693,Dubai,0.83,Product A,Customer Support,3,161,Resolved
+Delivery took too long.,Negative,Yelp,2023-07-11 00:53:00,user10694,Dubai,0.76,Mobile App,Refund,5,92,Resolved
+I will definitely recommend this to friends.,Positive,ChatSupport,2023-06-28 16:31:00,user10695,Toronto,0.79,Product B,Product Quality,3,162,Resolved
+Chatbot was useless and unhelpful.,Negative,ChatSupport,2023-08-14 00:05:00,user10696,Sydney,0.88,Gift Card,Delivery,1,95,Escalated
+Everything worked perfectly.,Positive,IMDb,2023-08-13 19:32:00,user10697,Dubai,0.73,Product A,Product Quality,2,90,Resolved
+Not worth the money.,Negative,Amazon Reviews,2023-08-18 04:09:00,user10698,Dubai,0.95,Delivery Service,Product Quality,5,68,Resolved
+Product arrived damaged.,Negative,IMDb,2023-07-12 12:18:00,user10699,Mumbai,0.93,Customer Portal,Technical,4,113,Resolved
+Excellent support team.,Positive,IMDb,2023-06-16 00:15:00,user10700,Paris,0.71,Delivery Service,Delivery,3,107,Pending
+Excellent support team.,Positive,Amazon Reviews,2023-06-15 10:53:00,user10701,Sydney,0.73,Delivery Service,Billing,5,93,Escalated
+Everything worked perfectly.,Positive,Twitter,2023-07-08 12:04:00,user10702,Los Angeles,0.79,Product B,Customer Support,4,66,Resolved
+I will definitely recommend this to friends.,Positive,Twitter,2023-07-27 19:11:00,user10703,Los Angeles,0.76,Premium Plan,Customer Support,5,179,Resolved
+Loved the product!,Positive,TripAdvisor,2023-07-11 11:52:00,user10704,Los Angeles,0.83,Delivery Service,Product Quality,1,78,Resolved
+Experience was fair.,Neutral,Yelp,2023-09-01 05:49:00,user10705,New York,0.93,Website,Usability,5,162,Resolved
+Chatbot was useless and unhelpful.,Negative,Spotify,2023-09-01 02:23:00,user10706,Berlin,0.93,Product A,Website Experience,5,171,Resolved
+Fast and friendly communication.,Positive,Email,2023-08-05 06:44:00,user10707,Los Angeles,0.94,Website,Technical,5,138,Resolved
+Instructions were confusing.,Negative,IMDb,2023-08-25 18:51:00,user10708,New York,0.79,Mobile App,Technical,5,15,Pending
+Website kept crashing.,Negative,ChatSupport,2023-07-02 02:25:00,user10709,Dubai,0.89,Product B,Technical,1,160,Resolved
+Received wrong item.,Negative,Email,2023-08-09 15:42:00,user10710,Los Angeles,0.87,Customer Portal,Product Quality,2,53,Resolved
+Everything worked perfectly.,Positive,Email,2023-07-20 05:21:00,user10711,Mumbai,0.71,Subscription,Refund,2,80,Pending
+Product arrived damaged.,Negative,Spotify,2023-07-27 14:18:00,user10712,Dubai,0.8,Mobile App,Delivery,1,90,Resolved
+Customer care was top-notch.,Positive,Email,2023-06-06 04:23:00,user10713,Sydney,0.88,Product A,Refund,2,128,Resolved
+Amazing service!,Positive,Spotify,2023-06-15 19:46:00,user10714,Sydney,0.76,Customer Portal,Delivery,3,12,Resolved
+Everything worked perfectly.,Positive,Amazon Reviews,2023-09-24 19:02:00,user10715,Los Angeles,0.76,Product B,Technical,1,112,Pending
+User experience is fantastic.,Positive,IMDb,2023-09-10 19:29:00,user10716,Mumbai,0.75,Gift Card,Usability,5,91,Resolved
+"Met expectations, no issues.",Neutral,Yelp,2023-06-03 17:46:00,user10717,Paris,0.95,Subscription,Product Quality,3,93,Resolved
+Neutral feeling about the experience.,Neutral,Spotify,2023-08-09 02:16:00,user10718,New York,0.79,Subscription,Billing,5,12,Escalated
+Delivery took too long.,Negative,Website Testimonial,2023-08-29 05:54:00,user10719,Berlin,0.94,Gift Card,Refund,2,93,Resolved
+Average performance.,Neutral,Twitter,2023-07-30 07:31:00,user10720,Toronto,0.76,Website,Usability,2,158,Resolved
+Chat was fine but not great.,Neutral,Website Testimonial,2023-07-10 13:00:00,user10721,Dubai,0.78,Subscription,Website Experience,2,57,Resolved
+Website kept crashing.,Negative,Twitter,2023-08-17 16:28:00,user10722,Paris,0.88,Mobile App,Technical,2,11,Resolved
+Great quality and quick delivery.,Positive,Twitter,2023-06-29 21:24:00,user10723,Mumbai,0.72,Customer Portal,Refund,2,118,Escalated
+Response time could be better.,Neutral,Website Testimonial,2023-06-02 10:33:00,user10724,Dubai,0.9,Premium Plan,Website Experience,3,36,Resolved
+Delivery took too long.,Negative,IMDb,2023-06-29 06:22:00,user10725,Mumbai,0.86,Customer Portal,Refund,4,169,Resolved
+Chatbot was useless and unhelpful.,Negative,TripAdvisor,2023-06-15 09:29:00,user10726,New York,0.88,Premium Plan,Billing,4,119,Resolved
+I will definitely recommend this to friends.,Positive,Spotify,2023-06-13 02:27:00,user10727,Dubai,0.87,Delivery Service,Website Experience,4,37,Resolved
+Customer care was top-notch.,Positive,IMDb,2023-08-18 06:08:00,user10728,Paris,0.72,Website,Billing,2,66,Pending
+Neutral feeling about the experience.,Neutral,ChatSupport,2023-09-11 23:27:00,user10729,Dubai,0.84,Product A,Billing,3,128,Pending
+Excellent support team.,Positive,Email,2023-06-12 14:19:00,user10730,Paris,0.71,Mobile App,Usability,3,141,Resolved
+Response time could be better.,Neutral,Email,2023-06-23 19:59:00,user10731,Los Angeles,0.82,Mobile App,Usability,1,144,Pending
+Chat was fine but not great.,Neutral,Website Testimonial,2023-07-10 14:54:00,user10732,London,0.92,Customer Portal,Product Quality,3,16,Resolved
+"Met expectations, no issues.",Neutral,Amazon Reviews,2023-06-23 05:36:00,user10733,Dubai,0.83,Premium Plan,Product Quality,2,129,Resolved
+Not worth the money.,Negative,Twitter,2023-06-10 20:54:00,user10734,Los Angeles,0.76,Customer Portal,Usability,3,33,Resolved
+Customer support never replied.,Negative,Amazon Reviews,2023-06-27 08:24:00,user10735,Los Angeles,0.87,Delivery Service,Product Quality,3,62,Resolved
+Very satisfied with the response.,Positive,Yelp,2023-07-21 01:13:00,user10736,Dubai,0.92,Subscription,Customer Support,3,169,Escalated
+Fast and friendly communication.,Positive,IMDb,2023-07-15 07:41:00,user10737,Mumbai,0.85,Website,Technical,4,102,Resolved
+Service quality was consistent.,Neutral,Yelp,2023-08-07 12:50:00,user10738,Toronto,0.87,Gift Card,Refund,3,82,Resolved
+Delivery took too long.,Negative,IMDb,2023-08-25 15:02:00,user10739,Dubai,0.88,Product B,Billing,1,42,Resolved
+Customer support never replied.,Negative,ChatSupport,2023-09-29 03:31:00,user10740,Toronto,0.84,Website,Customer Support,1,81,Pending
+Amazing service!,Positive,Email,2023-06-03 05:09:00,user10741,Singapore,0.85,Customer Portal,Customer Support,1,174,Resolved
+Customer care was top-notch.,Positive,Amazon Reviews,2023-06-13 18:12:00,user10742,Berlin,0.95,Product B,Usability,2,123,Escalated
+Chat was fine but not great.,Neutral,TripAdvisor,2023-06-05 07:57:00,user10743,Toronto,0.81,Product A,Refund,5,167,Resolved
+Delivery took too long.,Negative,Twitter,2023-09-05 19:18:00,user10744,London,0.93,Website,Refund,2,65,Resolved
+Customer care was top-notch.,Positive,IMDb,2023-06-22 00:31:00,user10745,New York,0.76,Premium Plan,Refund,4,100,Pending
+Loved the product!,Positive,TripAdvisor,2023-09-20 12:32:00,user10746,Dubai,0.73,Premium Plan,Product Quality,1,152,Resolved
+"It was okay, nothing special.",Neutral,Yelp,2023-09-23 10:38:00,user10747,Berlin,0.93,Product A,Customer Support,3,129,Resolved
+I will definitely recommend this to friends.,Positive,Yelp,2023-06-01 19:47:00,user10748,London,0.9,Delivery Service,Delivery,4,114,Resolved
+Customer care was top-notch.,Positive,Amazon Reviews,2023-07-20 01:10:00,user10749,Dubai,0.86,Gift Card,Product Quality,4,81,Resolved
+"Met expectations, no issues.",Neutral,ChatSupport,2023-06-23 04:26:00,user10750,Paris,0.83,Customer Portal,Billing,1,58,Resolved
+Customer care was top-notch.,Positive,IMDb,2023-09-17 12:54:00,user10751,Paris,0.72,Subscription,Usability,4,124,Resolved
+Amazing service!,Positive,IMDb,2023-09-07 17:30:00,user10752,Los Angeles,0.75,Product B,Delivery,3,59,Pending
+Chatbot was useless and unhelpful.,Negative,Yelp,2023-07-08 17:49:00,user10753,Paris,0.7,Website,Product Quality,3,114,Resolved
+Great quality and quick delivery.,Positive,Amazon Reviews,2023-07-19 18:42:00,user10754,Dubai,0.82,Premium Plan,Technical,5,40,Resolved
+Response time could be better.,Neutral,Yelp,2023-06-06 18:42:00,user10755,London,0.75,Subscription,Usability,3,142,Resolved
+Website kept crashing.,Negative,Yelp,2023-09-18 10:05:00,user10756,Toronto,0.71,Customer Portal,Billing,2,125,Resolved
+Neither good nor bad.,Neutral,ChatSupport,2023-09-01 17:05:00,user10757,London,0.81,Product B,Refund,3,110,Resolved
+Customer support never replied.,Negative,Amazon Reviews,2023-09-29 09:21:00,user10758,New York,0.83,Subscription,Technical,4,112,Escalated
+Great quality and quick delivery.,Positive,TripAdvisor,2023-08-28 00:05:00,user10759,Mumbai,0.92,Customer Portal,Billing,1,57,Resolved
+"It was okay, nothing special.",Neutral,TripAdvisor,2023-07-20 17:12:00,user10760,Berlin,0.71,Product A,Customer Support,1,121,Pending
+Customer care was top-notch.,Positive,IMDb,2023-07-18 05:01:00,user10761,Paris,0.75,Product B,Technical,2,6,Resolved
+"It was okay, nothing special.",Neutral,Spotify,2023-06-01 07:39:00,user10762,Singapore,0.71,Customer Portal,Website Experience,4,179,Resolved
+Great quality and quick delivery.,Positive,Website Testimonial,2023-08-09 17:45:00,user10763,London,0.74,Product B,Website Experience,1,136,Escalated
+Slow response from team.,Negative,Email,2023-07-05 13:52:00,user10764,Mumbai,0.82,Premium Plan,Customer Support,3,13,Resolved
+"Terrible experience, very disappointed.",Negative,Twitter,2023-08-10 02:03:00,user10765,Paris,0.93,Gift Card,Customer Support,3,121,Pending
+Chat was fine but not great.,Neutral,Email,2023-08-01 18:55:00,user10766,Los Angeles,0.91,Mobile App,Customer Support,5,145,Resolved
+Neither good nor bad.,Neutral,Email,2023-09-14 16:57:00,user10767,Mumbai,0.92,Premium Plan,Delivery,4,153,Resolved
+Response time could be better.,Neutral,Spotify,2023-06-04 12:01:00,user10768,Mumbai,0.72,Product A,Billing,1,31,Pending
+User experience is fantastic.,Positive,Twitter,2023-06-30 14:34:00,user10769,Singapore,0.87,Product A,Customer Support,4,67,Resolved
+Excellent support team.,Positive,Yelp,2023-08-27 11:08:00,user10770,Los Angeles,0.74,Product A,Customer Support,4,22,Resolved
+Amazing service!,Positive,ChatSupport,2023-07-04 15:33:00,user10771,Mumbai,0.88,Delivery Service,Delivery,4,133,Resolved
+Product arrived damaged.,Negative,Twitter,2023-08-02 09:24:00,user10772,Singapore,0.85,Product A,Refund,1,59,Pending
+Not worth the money.,Negative,Email,2023-07-18 01:38:00,user10773,Dubai,0.77,Customer Portal,Website Experience,5,161,Resolved
+User experience is fantastic.,Positive,Spotify,2023-07-29 03:23:00,user10774,Mumbai,0.92,Website,Refund,1,16,Resolved
+"Terrible experience, very disappointed.",Negative,ChatSupport,2023-08-28 07:32:00,user10775,Sydney,0.94,Gift Card,Billing,3,83,Escalated
+Website kept crashing.,Negative,Twitter,2023-07-18 08:44:00,user10776,Toronto,0.93,Gift Card,Customer Support,4,55,Pending
+Chatbot was useless and unhelpful.,Negative,Spotify,2023-07-04 20:53:00,user10777,Sydney,0.73,Mobile App,Customer Support,3,135,Pending
+User experience is fantastic.,Positive,Yelp,2023-09-23 23:33:00,user10778,New York,0.85,Website,Usability,3,81,Pending
+Loved the product!,Positive,TripAdvisor,2023-06-10 20:57:00,user10779,Singapore,0.71,Customer Portal,Technical,3,88,Resolved
+Customer support never replied.,Negative,Website Testimonial,2023-06-28 14:46:00,user10780,Berlin,0.95,Gift Card,Product Quality,4,97,Resolved
+Customer care was top-notch.,Positive,IMDb,2023-09-29 15:44:00,user10781,London,0.72,Product A,Website Experience,4,170,Resolved
+User experience is fantastic.,Positive,Amazon Reviews,2023-06-17 00:40:00,user10782,Singapore,0.74,Mobile App,Billing,2,152,Resolved
+Customer care was top-notch.,Positive,TripAdvisor,2023-07-23 03:11:00,user10783,New York,0.92,Subscription,Usability,4,165,Resolved
+Service quality was consistent.,Neutral,Website Testimonial,2023-06-01 23:34:00,user10784,Los Angeles,0.88,Premium Plan,Product Quality,3,108,Pending
+Average performance.,Neutral,ChatSupport,2023-09-21 18:07:00,user10785,London,0.74,Subscription,Technical,3,45,Resolved
+Service quality was consistent.,Neutral,Amazon Reviews,2023-06-25 10:58:00,user10786,Dubai,0.88,Premium Plan,Refund,2,88,Resolved
+Not worth the money.,Negative,IMDb,2023-09-09 21:57:00,user10787,Berlin,0.72,Product B,Website Experience,1,69,Resolved
+"Met expectations, no issues.",Neutral,Spotify,2023-07-09 08:16:00,user10788,Dubai,0.9,Product B,Billing,1,119,Escalated
+Service quality was consistent.,Neutral,ChatSupport,2023-06-26 15:20:00,user10789,Berlin,0.79,Premium Plan,Billing,3,82,Pending
+Amazing service!,Positive,Email,2023-08-19 00:15:00,user10790,Singapore,0.8,Mobile App,Website Experience,5,10,Resolved
+Response time could be better.,Neutral,ChatSupport,2023-07-25 09:59:00,user10791,Paris,0.76,Premium Plan,Product Quality,1,96,Resolved
+Response time could be better.,Neutral,ChatSupport,2023-09-05 17:05:00,user10792,Toronto,0.81,Website,Usability,4,119,Pending
+Chatbot was useless and unhelpful.,Negative,IMDb,2023-06-08 05:10:00,user10793,Los Angeles,0.94,Product B,Billing,2,147,Resolved
+"It was okay, nothing special.",Neutral,Email,2023-07-20 10:19:00,user10794,Los Angeles,0.77,Website,Website Experience,2,77,Resolved
+Loved the product!,Positive,ChatSupport,2023-07-22 08:36:00,user10795,Los Angeles,0.73,Subscription,Website Experience,4,83,Resolved
+Fast and friendly communication.,Positive,IMDb,2023-09-28 06:57:00,user10796,Sydney,0.84,Gift Card,Customer Support,5,62,Resolved
+Fast and friendly communication.,Positive,TripAdvisor,2023-07-24 05:53:00,user10797,London,0.87,Subscription,Billing,1,10,Escalated
+"It was okay, nothing special.",Neutral,IMDb,2023-09-23 01:50:00,user10798,London,0.71,Customer Portal,Product Quality,3,82,Pending
+I will definitely recommend this to friends.,Positive,TripAdvisor,2023-07-06 16:27:00,user10799,Sydney,0.78,Product B,Product Quality,4,161,Resolved
+Delivery took too long.,Negative,ChatSupport,2023-06-20 22:26:00,user10800,Dubai,0.74,Subscription,Billing,3,76,Resolved
+Response time could be better.,Neutral,Amazon Reviews,2023-07-25 12:04:00,user10801,Sydney,0.89,Mobile App,Usability,2,57,Resolved
+Chatbot was useless and unhelpful.,Negative,Email,2023-08-06 05:19:00,user10802,Singapore,0.79,Gift Card,Product Quality,1,151,Resolved
+Neutral feeling about the experience.,Neutral,Email,2023-07-29 10:20:00,user10803,Los Angeles,0.88,Mobile App,Product Quality,5,118,Resolved
+Excellent support team.,Positive,IMDb,2023-08-20 05:41:00,user10804,Dubai,0.93,Customer Portal,Delivery,4,51,Resolved
+Everything worked perfectly.,Positive,Twitter,2023-06-07 11:22:00,user10805,Los Angeles,0.79,Delivery Service,Product Quality,4,11,Pending
+Instructions were confusing.,Negative,Yelp,2023-06-18 05:59:00,user10806,Dubai,0.86,Product B,Technical,2,128,Resolved
+Great quality and quick delivery.,Positive,Yelp,2023-09-05 07:42:00,user10807,Dubai,0.7,Premium Plan,Technical,1,91,Resolved
+Product quality is acceptable.,Neutral,Yelp,2023-08-04 03:59:00,user10808,Singapore,0.77,Website,Delivery,5,115,Resolved
+User experience is fantastic.,Positive,Twitter,2023-08-03 10:23:00,user10809,Dubai,0.82,Gift Card,Technical,5,165,Resolved
+Received wrong item.,Negative,ChatSupport,2023-09-23 05:32:00,user10810,Sydney,0.83,Gift Card,Customer Support,3,152,Escalated
+"Met expectations, no issues.",Neutral,Amazon Reviews,2023-08-09 07:47:00,user10811,Berlin,0.87,Delivery Service,Product Quality,2,62,Resolved
+Very satisfied with the response.,Positive,Spotify,2023-08-13 21:10:00,user10812,Mumbai,0.88,Product A,Refund,3,100,Resolved
+Customer support never replied.,Negative,Amazon Reviews,2023-06-18 01:08:00,user10813,Sydney,0.94,Customer Portal,Product Quality,1,147,Resolved
+"It was okay, nothing special.",Neutral,TripAdvisor,2023-06-03 09:56:00,user10814,Paris,0.85,Product A,Billing,3,66,Resolved
+Slow response from team.,Negative,Website Testimonial,2023-07-12 15:18:00,user10815,New York,0.79,Product A,Product Quality,2,100,Pending
+Customer care was top-notch.,Positive,Amazon Reviews,2023-06-05 16:26:00,user10816,Paris,0.77,Gift Card,Billing,4,93,Escalated
+Great quality and quick delivery.,Positive,Email,2023-08-15 22:11:00,user10817,Mumbai,0.94,Premium Plan,Customer Support,1,100,Resolved
+Neutral feeling about the experience.,Neutral,Twitter,2023-07-13 05:29:00,user10818,Berlin,0.8,Delivery Service,Usability,5,9,Pending
+Amazing service!,Positive,TripAdvisor,2023-06-18 12:53:00,user10819,Berlin,0.86,Premium Plan,Usability,5,81,Resolved
+"Terrible experience, very disappointed.",Negative,Twitter,2023-08-31 11:43:00,user10820,Paris,0.72,Product B,Product Quality,4,16,Resolved
+"It was okay, nothing special.",Neutral,Spotify,2023-08-13 00:26:00,user10821,Mumbai,0.83,Delivery Service,Delivery,3,38,Resolved
+"It was okay, nothing special.",Neutral,Amazon Reviews,2023-07-17 09:25:00,user10822,Sydney,0.89,Gift Card,Delivery,3,136,Pending
+Neither good nor bad.,Neutral,Email,2023-07-07 12:46:00,user10823,Paris,0.76,Delivery Service,Product Quality,1,75,Resolved
+"Met expectations, no issues.",Neutral,Spotify,2023-08-07 17:41:00,user10824,New York,0.85,Mobile App,Refund,2,15,Pending
+Delivery took too long.,Negative,Spotify,2023-08-02 08:44:00,user10825,New York,0.79,Product A,Customer Support,5,107,Resolved
+Product quality is acceptable.,Neutral,IMDb,2023-08-07 18:10:00,user10826,Sydney,0.82,Premium Plan,Delivery,1,81,Resolved
+Great quality and quick delivery.,Positive,TripAdvisor,2023-06-17 21:53:00,user10827,New York,0.94,Website,Website Experience,2,65,Resolved
+Received wrong item.,Negative,Spotify,2023-09-20 07:18:00,user10828,Los Angeles,0.92,Mobile App,Refund,3,56,Resolved
+Great quality and quick delivery.,Positive,Amazon Reviews,2023-08-18 15:05:00,user10829,Los Angeles,0.72,Customer Portal,Website Experience,5,30,Resolved
+Received wrong item.,Negative,ChatSupport,2023-08-02 13:06:00,user10830,Mumbai,0.72,Delivery Service,Refund,5,144,Resolved
+Service quality was consistent.,Neutral,Twitter,2023-07-24 20:37:00,user10831,Mumbai,0.89,Gift Card,Delivery,3,68,Resolved
+Excellent support team.,Positive,IMDb,2023-07-23 19:20:00,user10832,London,0.77,Product A,Refund,5,23,Resolved
+Average performance.,Neutral,Email,2023-08-14 02:08:00,user10833,Mumbai,0.75,Gift Card,Usability,1,16,Resolved
+Excellent support team.,Positive,TripAdvisor,2023-06-17 01:58:00,user10834,Los Angeles,0.71,Product B,Usability,5,147,Resolved
+Slow response from team.,Negative,Twitter,2023-09-03 06:05:00,user10835,Singapore,0.94,Product A,Refund,2,39,Pending
+Neither good nor bad.,Neutral,Amazon Reviews,2023-08-10 10:57:00,user10836,New York,0.93,Product B,Website Experience,3,153,Resolved
+"Terrible experience, very disappointed.",Negative,TripAdvisor,2023-08-24 11:13:00,user10837,Berlin,0.92,Product A,Technical,1,56,Resolved
+Product quality is acceptable.,Neutral,IMDb,2023-07-25 23:23:00,user10838,Toronto,0.77,Mobile App,Website Experience,1,55,Pending
+"Terrible experience, very disappointed.",Negative,ChatSupport,2023-06-18 11:00:00,user10839,Paris,0.85,Premium Plan,Billing,2,20,Resolved
+Slow response from team.,Negative,Email,2023-08-05 06:06:00,user10840,Los Angeles,0.74,Product B,Delivery,5,17,Resolved
+I will definitely recommend this to friends.,Positive,Spotify,2023-07-20 18:32:00,user10841,New York,0.78,Premium Plan,Technical,4,161,Resolved
+Chatbot was useless and unhelpful.,Negative,Twitter,2023-08-30 08:02:00,user10842,London,0.83,Gift Card,Product Quality,1,110,Resolved
+Chatbot was useless and unhelpful.,Negative,Email,2023-09-04 11:11:00,user10843,Los Angeles,0.83,Subscription,Website Experience,3,49,Resolved
+Excellent support team.,Positive,Spotify,2023-07-05 23:56:00,user10844,London,0.9,Subscription,Delivery,4,180,Resolved
+Customer care was top-notch.,Positive,Twitter,2023-06-30 02:55:00,user10845,Sydney,0.83,Product A,Delivery,1,62,Resolved
+"It was okay, nothing special.",Neutral,ChatSupport,2023-08-07 02:27:00,user10846,Berlin,0.85,Mobile App,Technical,3,176,Pending
+Product arrived damaged.,Negative,ChatSupport,2023-09-28 09:10:00,user10847,London,0.91,Website,Delivery,4,65,Resolved
+Response time could be better.,Neutral,ChatSupport,2023-07-20 03:00:00,user10848,London,0.89,Gift Card,Technical,4,74,Resolved
+Experience was fair.,Neutral,Spotify,2023-06-15 21:53:00,user10849,Dubai,0.94,Website,Billing,2,100,Resolved
+"Terrible experience, very disappointed.",Negative,Yelp,2023-07-05 08:08:00,user10850,Paris,0.88,Website,Usability,4,38,Resolved
+Average performance.,Neutral,Email,2023-07-04 21:56:00,user10851,Singapore,0.86,Product B,Website Experience,1,148,Resolved
+Response time could be better.,Neutral,TripAdvisor,2023-06-11 20:39:00,user10852,Los Angeles,0.95,Product A,Refund,3,120,Resolved
+Product arrived damaged.,Negative,Amazon Reviews,2023-08-01 05:42:00,user10853,Berlin,0.78,Delivery Service,Delivery,3,65,Resolved
+Very satisfied with the response.,Positive,Amazon Reviews,2023-07-10 12:57:00,user10854,Singapore,0.91,Gift Card,Refund,4,82,Resolved
+Website kept crashing.,Negative,Yelp,2023-09-06 17:13:00,user10855,Berlin,0.73,Customer Portal,Billing,2,40,Resolved
+Neutral feeling about the experience.,Neutral,Email,2023-06-04 13:41:00,user10856,London,0.77,Product B,Website Experience,5,81,Pending
+Fast and friendly communication.,Positive,Amazon Reviews,2023-07-15 15:01:00,user10857,Singapore,0.86,Mobile App,Usability,2,22,Pending
+Not worth the money.,Negative,ChatSupport,2023-08-21 20:09:00,user10858,Toronto,0.84,Website,Refund,4,44,Resolved
+User experience is fantastic.,Positive,Website Testimonial,2023-07-16 02:41:00,user10859,Berlin,0.71,Mobile App,Delivery,5,108,Resolved
+Chatbot was useless and unhelpful.,Negative,Yelp,2023-08-14 16:44:00,user10860,Sydney,0.95,Gift Card,Product Quality,4,86,Pending
+Amazing service!,Positive,IMDb,2023-07-26 07:14:00,user10861,Mumbai,0.93,Mobile App,Billing,3,72,Resolved
+Chat was fine but not great.,Neutral,Spotify,2023-07-12 14:40:00,user10862,Dubai,0.81,Premium Plan,Customer Support,5,142,Pending
+"It was okay, nothing special.",Neutral,Email,2023-09-29 11:42:00,user10863,Dubai,0.82,Customer Portal,Technical,2,121,Resolved
+Customer support never replied.,Negative,Website Testimonial,2023-08-26 23:37:00,user10864,Singapore,0.87,Subscription,Delivery,3,72,Resolved
+Fast and friendly communication.,Positive,TripAdvisor,2023-06-16 00:54:00,user10865,Sydney,0.92,Gift Card,Customer Support,4,143,Resolved
+Slow response from team.,Negative,Yelp,2023-06-18 17:50:00,user10866,Berlin,0.72,Product B,Billing,4,44,Resolved
+Amazing service!,Positive,IMDb,2023-06-06 13:47:00,user10867,Dubai,0.79,Product A,Billing,3,74,Resolved
+User experience is fantastic.,Positive,Twitter,2023-06-11 16:44:00,user10868,Berlin,0.77,Premium Plan,Customer Support,2,180,Resolved
+Customer support never replied.,Negative,IMDb,2023-06-15 02:49:00,user10869,Paris,0.78,Premium Plan,Website Experience,1,34,Resolved
+Received wrong item.,Negative,Website Testimonial,2023-07-04 07:33:00,user10870,Mumbai,0.9,Delivery Service,Billing,3,117,Resolved
+Website kept crashing.,Negative,ChatSupport,2023-07-14 01:04:00,user10871,Singapore,0.91,Customer Portal,Technical,4,40,Escalated
+Chat was fine but not great.,Neutral,Amazon Reviews,2023-06-13 01:44:00,user10872,Sydney,0.78,Website,Product Quality,4,176,Resolved
+Neutral feeling about the experience.,Neutral,Yelp,2023-07-23 23:23:00,user10873,New York,0.89,Product A,Refund,1,177,Resolved
+Response time could be better.,Neutral,TripAdvisor,2023-06-24 10:54:00,user10874,New York,0.93,Product A,Customer Support,5,113,Resolved
+Response time could be better.,Neutral,TripAdvisor,2023-07-17 23:06:00,user10875,Singapore,0.74,Website,Billing,1,48,Pending
+Chatbot was useless and unhelpful.,Negative,Twitter,2023-07-19 07:01:00,user10876,Mumbai,0.82,Product B,Website Experience,1,157,Resolved
+User experience is fantastic.,Positive,Spotify,2023-08-10 01:21:00,user10877,Sydney,0.81,Product B,Product Quality,5,128,Resolved
+Everything worked perfectly.,Positive,TripAdvisor,2023-07-19 07:55:00,user10878,Berlin,0.73,Mobile App,Website Experience,4,126,Escalated
+Received wrong item.,Negative,Email,2023-09-21 03:52:00,user10879,Toronto,0.7,Customer Portal,Billing,2,177,Resolved
+Neither good nor bad.,Neutral,ChatSupport,2023-08-22 06:02:00,user10880,New York,0.89,Customer Portal,Website Experience,5,168,Resolved
+Chat was fine but not great.,Neutral,ChatSupport,2023-08-23 14:02:00,user10881,Singapore,0.85,Gift Card,Website Experience,5,139,Resolved
+Amazing service!,Positive,Yelp,2023-08-13 23:18:00,user10882,Singapore,0.86,Product A,Customer Support,3,18,Resolved
+Response time could be better.,Neutral,Twitter,2023-06-14 07:22:00,user10883,Toronto,0.84,Customer Portal,Delivery,5,60,Resolved
+Received wrong item.,Negative,Yelp,2023-07-19 10:11:00,user10884,Dubai,0.73,Customer Portal,Customer Support,3,166,Resolved
+Neither good nor bad.,Neutral,ChatSupport,2023-08-09 05:08:00,user10885,Singapore,0.84,Delivery Service,Customer Support,5,67,Resolved
+Experience was fair.,Neutral,IMDb,2023-09-05 15:34:00,user10886,New York,0.75,Mobile App,Billing,5,62,Escalated
+Great quality and quick delivery.,Positive,Yelp,2023-07-10 18:29:00,user10887,Dubai,0.79,Product B,Website Experience,4,47,Resolved
+Great quality and quick delivery.,Positive,TripAdvisor,2023-09-08 05:15:00,user10888,Dubai,0.7,Mobile App,Technical,5,146,Resolved
+Customer care was top-notch.,Positive,Twitter,2023-07-03 03:30:00,user10889,New York,0.86,Gift Card,Delivery,2,24,Resolved
+"Met expectations, no issues.",Neutral,Yelp,2023-09-19 22:56:00,user10890,Singapore,0.79,Delivery Service,Delivery,1,19,Pending
+Response time could be better.,Neutral,Spotify,2023-06-17 20:47:00,user10891,Dubai,0.9,Mobile App,Usability,3,17,Resolved
+Customer support never replied.,Negative,TripAdvisor,2023-06-11 03:25:00,user10892,Los Angeles,0.88,Subscription,Website Experience,5,77,Escalated
+Chatbot was useless and unhelpful.,Negative,ChatSupport,2023-08-25 05:14:00,user10893,London,0.88,Customer Portal,Refund,2,72,Escalated
+Chatbot was useless and unhelpful.,Negative,Yelp,2023-07-30 02:12:00,user10894,Mumbai,0.76,Product A,Usability,4,149,Resolved
+Everything worked perfectly.,Positive,ChatSupport,2023-07-22 01:06:00,user10895,New York,0.75,Premium Plan,Customer Support,5,34,Resolved
+Slow response from team.,Negative,Amazon Reviews,2023-09-05 08:46:00,user10896,Sydney,0.88,Mobile App,Usability,3,55,Resolved
+Great quality and quick delivery.,Positive,IMDb,2023-09-05 01:36:00,user10897,Dubai,0.83,Mobile App,Delivery,2,24,Resolved
+Amazing service!,Positive,IMDb,2023-08-30 07:48:00,user10898,Toronto,0.77,Customer Portal,Customer Support,3,84,Escalated
+Neutral feeling about the experience.,Neutral,Twitter,2023-09-06 22:48:00,user10899,Sydney,0.86,Website,Delivery,2,39,Resolved
+Delivery took too long.,Negative,Email,2023-09-12 17:27:00,user10900,Dubai,0.89,Gift Card,Billing,5,109,Pending
+Received wrong item.,Negative,Yelp,2023-06-26 06:31:00,user10901,Berlin,0.93,Product B,Delivery,2,103,Resolved
+Product quality is acceptable.,Neutral,Website Testimonial,2023-09-10 20:39:00,user10902,Sydney,0.89,Product A,Billing,5,9,Pending
+Response time could be better.,Neutral,IMDb,2023-07-15 07:13:00,user10903,Dubai,0.91,Product B,Delivery,3,176,Resolved
+Delivery took too long.,Negative,Amazon Reviews,2023-09-07 21:31:00,user10904,Mumbai,0.94,Customer Portal,Product Quality,3,136,Escalated
+Chatbot was useless and unhelpful.,Negative,Website Testimonial,2023-06-25 22:13:00,user10905,Mumbai,0.76,Product B,Refund,5,147,Resolved
+Amazing service!,Positive,Yelp,2023-07-17 23:30:00,user10906,Toronto,0.73,Subscription,Product Quality,3,75,Resolved
+Response time could be better.,Neutral,IMDb,2023-06-02 11:40:00,user10907,New York,0.87,Premium Plan,Technical,3,49,Resolved
+"Terrible experience, very disappointed.",Negative,Yelp,2023-09-19 13:34:00,user10908,Dubai,0.7,Website,Customer Support,5,93,Resolved
+I will definitely recommend this to friends.,Positive,Spotify,2023-09-06 15:39:00,user10909,Mumbai,0.94,Subscription,Refund,4,65,Resolved
+Very satisfied with the response.,Positive,Yelp,2023-06-26 01:38:00,user10910,Los Angeles,0.93,Gift Card,Billing,5,102,Resolved
+Customer care was top-notch.,Positive,Website Testimonial,2023-07-21 04:35:00,user10911,Los Angeles,0.82,Premium Plan,Delivery,4,51,Resolved
+Received wrong item.,Negative,Website Testimonial,2023-06-23 03:20:00,user10912,New York,0.81,Premium Plan,Billing,1,124,Pending
+Chat was fine but not great.,Neutral,Spotify,2023-09-11 08:28:00,user10913,Toronto,0.9,Delivery Service,Website Experience,2,85,Pending
+Experience was fair.,Neutral,Yelp,2023-06-17 09:13:00,user10914,Singapore,0.83,Delivery Service,Technical,2,157,Resolved
+"It was okay, nothing special.",Neutral,Amazon Reviews,2023-07-21 18:10:00,user10915,Sydney,0.72,Premium Plan,Delivery,5,47,Resolved
+Fast and friendly communication.,Positive,Spotify,2023-07-17 03:14:00,user10916,Dubai,0.74,Website,Customer Support,5,69,Resolved
+Average performance.,Neutral,Yelp,2023-06-19 03:36:00,user10917,Los Angeles,0.72,Website,Billing,1,20,Resolved
+Customer support never replied.,Negative,Spotify,2023-08-10 11:20:00,user10918,Paris,0.73,Product B,Product Quality,3,170,Resolved
+Fast and friendly communication.,Positive,Amazon Reviews,2023-08-07 19:39:00,user10919,Singapore,0.85,Mobile App,Technical,2,178,Resolved
+Received wrong item.,Negative,IMDb,2023-06-29 00:55:00,user10920,New York,0.76,Customer Portal,Technical,4,15,Resolved
+Customer care was top-notch.,Positive,Amazon Reviews,2023-06-26 17:13:00,user10921,New York,0.8,Premium Plan,Website Experience,5,108,Resolved
+Service quality was consistent.,Neutral,Amazon Reviews,2023-08-13 19:58:00,user10922,Los Angeles,0.8,Website,Technical,1,100,Pending
+Experience was fair.,Neutral,ChatSupport,2023-07-10 07:18:00,user10923,Paris,0.8,Delivery Service,Customer Support,5,130,Resolved
+Response time could be better.,Neutral,TripAdvisor,2023-06-23 08:45:00,user10924,Mumbai,0.71,Customer Portal,Customer Support,1,104,Resolved
+Not worth the money.,Negative,IMDb,2023-07-28 08:42:00,user10925,Singapore,0.9,Premium Plan,Usability,5,98,Resolved
+Very satisfied with the response.,Positive,IMDb,2023-07-31 08:50:00,user10926,Mumbai,0.82,Premium Plan,Delivery,4,116,Resolved
+Loved the product!,Positive,Website Testimonial,2023-09-11 11:07:00,user10927,Singapore,0.8,Delivery Service,Billing,5,151,Resolved
+"Terrible experience, very disappointed.",Negative,IMDb,2023-08-25 04:07:00,user10928,Mumbai,0.78,Product B,Technical,3,146,Resolved
+"It was okay, nothing special.",Neutral,IMDb,2023-09-16 07:29:00,user10929,Dubai,0.91,Product B,Usability,5,117,Resolved
+"It was okay, nothing special.",Neutral,Website Testimonial,2023-08-15 00:31:00,user10930,Singapore,0.79,Subscription,Technical,5,159,Resolved
+Slow response from team.,Negative,Twitter,2023-08-27 03:57:00,user10931,Berlin,0.78,Delivery Service,Website Experience,1,69,Resolved
+Great quality and quick delivery.,Positive,Website Testimonial,2023-08-16 16:11:00,user10932,Mumbai,0.82,Subscription,Delivery,3,166,Resolved
+Neither good nor bad.,Neutral,Email,2023-09-11 11:18:00,user10933,London,0.94,Product B,Billing,1,31,Resolved
+Average performance.,Neutral,Website Testimonial,2023-08-01 12:03:00,user10934,Los Angeles,0.87,Website,Product Quality,2,17,Resolved
+Experience was fair.,Neutral,Spotify,2023-08-11 04:22:00,user10935,Paris,0.84,Mobile App,Product Quality,2,98,Resolved
+"Met expectations, no issues.",Neutral,ChatSupport,2023-06-08 10:12:00,user10936,Dubai,0.76,Gift Card,Delivery,1,44,Resolved
+"Met expectations, no issues.",Neutral,Yelp,2023-08-20 21:13:00,user10937,Singapore,0.73,Subscription,Product Quality,2,23,Resolved
+Slow response from team.,Negative,Yelp,2023-08-19 16:20:00,user10938,Berlin,0.86,Gift Card,Refund,5,28,Resolved
+Service quality was consistent.,Neutral,TripAdvisor,2023-07-29 14:35:00,user10939,Berlin,0.77,Mobile App,Usability,2,28,Resolved
+Everything worked perfectly.,Positive,Website Testimonial,2023-07-11 15:00:00,user10940,Berlin,0.75,Customer Portal,Refund,4,74,Pending
+Very satisfied with the response.,Positive,IMDb,2023-09-29 15:27:00,user10941,Mumbai,0.82,Mobile App,Technical,1,88,Escalated
+Product arrived damaged.,Negative,ChatSupport,2023-08-13 11:46:00,user10942,Paris,0.78,Customer Portal,Billing,3,158,Resolved
+Fast and friendly communication.,Positive,Amazon Reviews,2023-09-16 01:26:00,user10943,London,0.8,Delivery Service,Refund,4,135,Resolved
+Neither good nor bad.,Neutral,ChatSupport,2023-08-15 10:59:00,user10944,Paris,0.7,Product A,Customer Support,5,76,Resolved
+Neutral feeling about the experience.,Neutral,IMDb,2023-06-08 19:42:00,user10945,Singapore,0.78,Gift Card,Technical,1,125,Resolved
+Customer care was top-notch.,Positive,Twitter,2023-09-14 22:33:00,user10946,Dubai,0.79,Premium Plan,Usability,4,71,Resolved
+Neither good nor bad.,Neutral,Website Testimonial,2023-08-19 07:39:00,user10947,Paris,0.72,Mobile App,Website Experience,4,152,Resolved
+Slow response from team.,Negative,Website Testimonial,2023-09-19 21:07:00,user10948,Berlin,0.87,Subscription,Customer Support,1,48,Resolved
+"It was okay, nothing special.",Neutral,Yelp,2023-07-20 22:20:00,user10949,New York,0.89,Premium Plan,Customer Support,4,179,Resolved
+Loved the product!,Positive,Amazon Reviews,2023-06-17 21:13:00,user10950,Los Angeles,0.94,Product B,Product Quality,4,135,Resolved
+Great quality and quick delivery.,Positive,Website Testimonial,2023-08-25 12:11:00,user10951,Berlin,0.74,Gift Card,Technical,1,143,Pending
+Excellent support team.,Positive,Amazon Reviews,2023-08-11 19:45:00,user10952,Los Angeles,0.73,Subscription,Website Experience,1,169,Resolved
+Neutral feeling about the experience.,Neutral,IMDb,2023-06-04 17:43:00,user10953,Toronto,0.85,Customer Portal,Usability,1,9,Pending
+"Met expectations, no issues.",Neutral,Website Testimonial,2023-09-07 14:55:00,user10954,Los Angeles,0.91,Premium Plan,Website Experience,2,160,Resolved
+Service quality was consistent.,Neutral,Yelp,2023-07-12 02:11:00,user10955,Los Angeles,0.86,Product A,Technical,4,26,Resolved
+Customer care was top-notch.,Positive,Website Testimonial,2023-09-25 22:55:00,user10956,Toronto,0.78,Website,Product Quality,1,99,Resolved
+Very satisfied with the response.,Positive,Email,2023-09-03 11:48:00,user10957,Los Angeles,0.82,Product A,Refund,3,38,Resolved
+Chat was fine but not great.,Neutral,Website Testimonial,2023-06-26 14:36:00,user10958,London,0.87,Delivery Service,Refund,4,33,Resolved
+Fast and friendly communication.,Positive,Yelp,2023-09-06 01:47:00,user10959,Singapore,0.72,Delivery Service,Delivery,2,53,Resolved
+Response time could be better.,Neutral,IMDb,2023-09-13 01:36:00,user10960,Berlin,0.89,Website,Delivery,4,168,Resolved
+Great quality and quick delivery.,Positive,Twitter,2023-07-14 20:28:00,user10961,Los Angeles,0.8,Product B,Billing,1,144,Resolved
+Great quality and quick delivery.,Positive,Yelp,2023-08-03 20:03:00,user10962,London,0.91,Website,Refund,1,159,Resolved
+User experience is fantastic.,Positive,Amazon Reviews,2023-06-01 17:38:00,user10963,Sydney,0.89,Gift Card,Billing,2,72,Resolved
+Everything worked perfectly.,Positive,Email,2023-08-08 11:18:00,user10964,Paris,0.93,Mobile App,Customer Support,1,22,Pending
+Response time could be better.,Neutral,Twitter,2023-06-26 17:41:00,user10965,New York,0.74,Website,Technical,2,76,Escalated
+Great quality and quick delivery.,Positive,Website Testimonial,2023-09-23 07:52:00,user10966,Los Angeles,0.74,Subscription,Billing,4,59,Escalated
+User experience is fantastic.,Positive,Yelp,2023-07-25 19:08:00,user10967,Berlin,0.93,Subscription,Usability,2,164,Escalated
+Fast and friendly communication.,Positive,Spotify,2023-09-18 13:22:00,user10968,Dubai,0.86,Customer Portal,Usability,5,24,Resolved
+Chat was fine but not great.,Neutral,Website Testimonial,2023-08-05 04:22:00,user10969,Toronto,0.73,Mobile App,Product Quality,2,139,Resolved
+Service quality was consistent.,Neutral,TripAdvisor,2023-08-05 23:32:00,user10970,Paris,0.85,Delivery Service,Billing,2,166,Pending
+Not worth the money.,Negative,Spotify,2023-08-15 02:54:00,user10971,Singapore,0.83,Delivery Service,Refund,4,87,Escalated
+Average performance.,Neutral,TripAdvisor,2023-06-22 11:14:00,user10972,Toronto,0.79,Product B,Product Quality,1,93,Resolved
+Everything worked perfectly.,Positive,Yelp,2023-09-02 13:47:00,user10973,Sydney,0.86,Website,Usability,2,61,Resolved
+Product arrived damaged.,Negative,Website Testimonial,2023-07-13 15:53:00,user10974,Dubai,0.9,Subscription,Usability,5,90,Resolved
+Service quality was consistent.,Neutral,Website Testimonial,2023-09-25 14:31:00,user10975,Singapore,0.83,Customer Portal,Refund,1,125,Resolved
+User experience is fantastic.,Positive,Yelp,2023-06-10 20:44:00,user10976,London,0.74,Premium Plan,Billing,4,31,Resolved
+Neutral feeling about the experience.,Neutral,Amazon Reviews,2023-06-25 10:15:00,user10977,London,0.8,Mobile App,Product Quality,3,48,Escalated
+Excellent support team.,Positive,Yelp,2023-06-26 22:25:00,user10978,Toronto,0.74,Mobile App,Customer Support,2,52,Pending
+Very satisfied with the response.,Positive,Spotify,2023-08-13 16:11:00,user10979,Berlin,0.91,Customer Portal,Customer Support,1,131,Resolved
+Not worth the money.,Negative,Twitter,2023-08-29 20:27:00,user10980,London,0.7,Mobile App,Product Quality,3,136,Pending
+Chatbot was useless and unhelpful.,Negative,Twitter,2023-06-05 06:40:00,user10981,London,0.83,Delivery Service,Usability,2,112,Resolved
+"It was okay, nothing special.",Neutral,Spotify,2023-08-30 06:17:00,user10982,Mumbai,0.81,Website,Delivery,5,167,Resolved
+Response time could be better.,Neutral,Email,2023-08-30 07:30:00,user10983,Dubai,0.77,Delivery Service,Delivery,5,169,Resolved
+Service quality was consistent.,Neutral,IMDb,2023-06-19 10:34:00,user10984,Los Angeles,0.9,Website,Delivery,3,97,Resolved
+Not worth the money.,Negative,Email,2023-08-13 05:09:00,user10985,Los Angeles,0.82,Delivery Service,Technical,3,65,Resolved
+Slow response from team.,Negative,Amazon Reviews,2023-07-23 02:42:00,user10986,Mumbai,0.84,Subscription,Delivery,4,41,Escalated
+Everything worked perfectly.,Positive,Email,2023-06-04 12:56:00,user10987,Berlin,0.74,Product A,Billing,2,137,Resolved
+Chat was fine but not great.,Neutral,Amazon Reviews,2023-07-07 02:23:00,user10988,Dubai,0.75,Mobile App,Technical,2,79,Resolved
+Amazing service!,Positive,Yelp,2023-06-07 15:47:00,user10989,New York,0.74,Product A,Website Experience,5,89,Resolved
+Loved the product!,Positive,Email,2023-08-07 14:50:00,user10990,Toronto,0.81,Website,Refund,4,67,Resolved
+Product arrived damaged.,Negative,IMDb,2023-09-01 17:25:00,user10991,Berlin,0.95,Mobile App,Customer Support,2,8,Escalated
+Customer care was top-notch.,Positive,Website Testimonial,2023-09-07 05:44:00,user10992,Berlin,0.78,Delivery Service,Customer Support,5,164,Resolved
+Neither good nor bad.,Neutral,IMDb,2023-09-21 11:06:00,user10993,Berlin,0.77,Product A,Billing,1,88,Resolved
+Chatbot was useless and unhelpful.,Negative,Amazon Reviews,2023-06-14 12:45:00,user10994,Dubai,0.76,Product B,Delivery,4,8,Pending
+Customer care was top-notch.,Positive,Spotify,2023-06-12 21:13:00,user10995,Dubai,0.89,Subscription,Billing,2,103,Resolved
+Neither good nor bad.,Neutral,TripAdvisor,2023-06-01 09:58:00,user10996,Dubai,0.72,Gift Card,Website Experience,2,169,Resolved
+Customer support never replied.,Negative,Amazon Reviews,2023-09-21 06:46:00,user10997,Dubai,0.94,Gift Card,Technical,3,90,Resolved
+Excellent support team.,Positive,Yelp,2023-08-06 21:57:00,user10998,Dubai,0.84,Premium Plan,Product Quality,3,20,Pending
+Product arrived damaged.,Negative,Yelp,2023-06-17 19:07:00,user10999,London,0.87,Subscription,Delivery,5,6,Resolved
+"Met expectations, no issues.",Neutral,Twitter,2023-09-05 22:25:00,user11000,New York,0.83,Website,Product Quality,2,25,Pending
+Amazing service!,Positive,ChatSupport,2023-08-03 20:08:00,user11001,Singapore,0.77,Website,Technical,3,133,Resolved
+Chat was fine but not great.,Neutral,Twitter,2023-07-13 00:13:00,user11002,London,0.74,Subscription,Customer Support,2,72,Resolved
+Customer support never replied.,Negative,Yelp,2023-08-14 20:53:00,user11003,Paris,0.75,Customer Portal,Delivery,5,81,Resolved
+Customer support never replied.,Negative,Twitter,2023-08-07 03:50:00,user11004,Toronto,0.93,Customer Portal,Refund,2,118,Resolved
+Very satisfied with the response.,Positive,IMDb,2023-09-21 19:11:00,user11005,Paris,0.9,Delivery Service,Product Quality,3,152,Pending
+Neutral feeling about the experience.,Neutral,ChatSupport,2023-07-30 14:45:00,user11006,Mumbai,0.93,Mobile App,Customer Support,4,114,Pending
+"It was okay, nothing special.",Neutral,Yelp,2023-06-19 12:07:00,user11007,Berlin,0.94,Product A,Billing,5,148,Resolved
+Customer support never replied.,Negative,IMDb,2023-08-16 06:17:00,user11008,Paris,0.9,Website,Technical,2,160,Escalated
+Average performance.,Neutral,Yelp,2023-06-13 01:05:00,user11009,Toronto,0.87,Website,Website Experience,1,38,Pending
+Delivery took too long.,Negative,Spotify,2023-08-10 19:47:00,user11010,Berlin,0.78,Customer Portal,Product Quality,2,102,Resolved
+Very satisfied with the response.,Positive,Email,2023-08-16 09:25:00,user11011,Toronto,0.9,Customer Portal,Billing,5,147,Resolved
+Product quality is acceptable.,Neutral,Yelp,2023-08-10 08:00:00,user11012,Mumbai,0.77,Delivery Service,Product Quality,2,170,Pending
+"Met expectations, no issues.",Neutral,Email,2023-08-16 03:20:00,user11013,Berlin,0.92,Mobile App,Technical,2,157,Pending
+Neutral feeling about the experience.,Neutral,IMDb,2023-06-23 21:01:00,user11014,Dubai,0.9,Product B,Billing,1,151,Resolved
+Website kept crashing.,Negative,Twitter,2023-08-23 04:21:00,user11015,Toronto,0.83,Subscription,Billing,4,122,Resolved
+Customer care was top-notch.,Positive,TripAdvisor,2023-06-11 12:04:00,user11016,New York,0.75,Website,Product Quality,3,77,Pending
+Customer care was top-notch.,Positive,IMDb,2023-09-21 01:04:00,user11017,Mumbai,0.83,Delivery Service,Usability,3,47,Pending
+Not worth the money.,Negative,IMDb,2023-06-22 19:03:00,user11018,New York,0.85,Product A,Product Quality,2,171,Pending
+Received wrong item.,Negative,Yelp,2023-06-28 12:48:00,user11019,Toronto,0.91,Website,Technical,3,44,Resolved
+Customer support never replied.,Negative,Yelp,2023-08-31 21:03:00,user11020,New York,0.8,Delivery Service,Delivery,1,171,Resolved
+Received wrong item.,Negative,Yelp,2023-09-08 10:19:00,user11021,Singapore,0.88,Website,Delivery,2,167,Resolved
+Service quality was consistent.,Neutral,IMDb,2023-08-30 12:39:00,user11022,Berlin,0.82,Customer Portal,Usability,3,32,Resolved
+Experience was fair.,Neutral,Website Testimonial,2023-07-11 17:13:00,user11023,Los Angeles,0.9,Subscription,Customer Support,3,6,Resolved
+Loved the product!,Positive,Email,2023-08-16 11:24:00,user11024,New York,0.93,Premium Plan,Refund,2,36,Resolved
+Received wrong item.,Negative,Email,2023-08-02 18:32:00,user11025,Toronto,0.71,Customer Portal,Website Experience,1,79,Resolved
+Excellent support team.,Positive,IMDb,2023-07-17 19:17:00,user11026,Mumbai,0.9,Product A,Delivery,2,15,Resolved
+Instructions were confusing.,Negative,TripAdvisor,2023-09-21 07:14:00,user11027,Singapore,0.76,Product A,Product Quality,1,125,Resolved
+Amazing service!,Positive,IMDb,2023-08-02 06:58:00,user11028,Dubai,0.95,Gift Card,Technical,2,138,Resolved
+Not worth the money.,Negative,Yelp,2023-09-02 14:59:00,user11029,Berlin,0.9,Subscription,Refund,3,122,Resolved
+Neither good nor bad.,Neutral,IMDb,2023-06-14 04:56:00,user11030,Mumbai,0.92,Customer Portal,Website Experience,2,42,Resolved
+Very satisfied with the response.,Positive,TripAdvisor,2023-09-06 12:43:00,user11031,London,0.73,Delivery Service,Customer Support,2,114,Resolved
+Service quality was consistent.,Neutral,Email,2023-06-12 10:06:00,user11032,Mumbai,0.71,Subscription,Refund,3,67,Pending
+"Met expectations, no issues.",Neutral,Amazon Reviews,2023-06-08 05:20:00,user11033,Sydney,0.84,Mobile App,Refund,2,124,Resolved
+Average performance.,Neutral,Twitter,2023-07-20 18:10:00,user11034,Sydney,0.84,Website,Customer Support,2,38,Resolved
+Slow response from team.,Negative,Website Testimonial,2023-09-17 21:44:00,user11035,Paris,0.88,Premium Plan,Customer Support,4,15,Pending
+Amazing service!,Positive,Email,2023-07-08 03:24:00,user11036,Sydney,0.85,Customer Portal,Technical,3,30,Pending
+Not worth the money.,Negative,ChatSupport,2023-09-28 16:28:00,user11037,Berlin,0.72,Customer Portal,Customer Support,3,177,Resolved
+Customer support never replied.,Negative,Amazon Reviews,2023-09-17 10:58:00,user11038,London,0.89,Product B,Billing,3,156,Resolved
+"Terrible experience, very disappointed.",Negative,TripAdvisor,2023-07-21 13:16:00,user11039,Singapore,0.75,Subscription,Billing,1,53,Pending
+Excellent support team.,Positive,ChatSupport,2023-07-09 07:11:00,user11040,Dubai,0.88,Customer Portal,Delivery,5,48,Resolved
+Delivery took too long.,Negative,TripAdvisor,2023-06-06 03:34:00,user11041,Mumbai,0.77,Delivery Service,Usability,2,125,Resolved
+Great quality and quick delivery.,Positive,IMDb,2023-06-12 11:08:00,user11042,Dubai,0.7,Subscription,Refund,3,156,Pending
+Response time could be better.,Neutral,Website Testimonial,2023-07-06 05:50:00,user11043,New York,0.93,Subscription,Website Experience,5,99,Resolved
+Great quality and quick delivery.,Positive,Twitter,2023-09-08 11:22:00,user11044,Dubai,0.82,Premium Plan,Technical,5,77,Resolved
+Fast and friendly communication.,Positive,TripAdvisor,2023-07-22 07:24:00,user11045,Paris,0.89,Website,Delivery,5,110,Resolved
+Excellent support team.,Positive,ChatSupport,2023-06-16 03:02:00,user11046,Toronto,0.82,Subscription,Usability,2,150,Resolved
+Excellent support team.,Positive,Yelp,2023-08-07 03:34:00,user11047,Paris,0.75,Subscription,Billing,1,161,Resolved
+Neutral feeling about the experience.,Neutral,Amazon Reviews,2023-07-05 22:59:00,user11048,Mumbai,0.73,Product A,Website Experience,4,79,Resolved
+Slow response from team.,Negative,IMDb,2023-09-12 17:58:00,user11049,Los Angeles,0.91,Mobile App,Refund,3,177,Resolved
+Product arrived damaged.,Negative,TripAdvisor,2023-08-02 04:16:00,user11050,Sydney,0.75,Delivery Service,Technical,4,76,Resolved
+Received wrong item.,Negative,Amazon Reviews,2023-07-02 22:04:00,user11051,Dubai,0.85,Product B,Usability,4,149,Resolved
+Excellent support team.,Positive,Spotify,2023-09-18 16:00:00,user11052,Dubai,0.93,Delivery Service,Billing,1,166,Resolved
+Slow response from team.,Negative,IMDb,2023-09-04 02:01:00,user11053,Dubai,0.78,Product A,Technical,1,137,Pending
+Customer care was top-notch.,Positive,Twitter,2023-06-25 13:51:00,user11054,Toronto,0.82,Product B,Customer Support,3,142,Resolved
+Website kept crashing.,Negative,Amazon Reviews,2023-07-23 02:21:00,user11055,London,0.73,Premium Plan,Delivery,5,51,Pending
+Chat was fine but not great.,Neutral,Spotify,2023-06-04 14:41:00,user11056,Los Angeles,0.84,Mobile App,Website Experience,2,42,Resolved
+"Met expectations, no issues.",Neutral,Amazon Reviews,2023-08-27 14:07:00,user11057,Los Angeles,0.76,Mobile App,Usability,4,27,Resolved
+Website kept crashing.,Negative,TripAdvisor,2023-08-15 13:29:00,user11058,London,0.84,Product A,Product Quality,5,135,Resolved
+Website kept crashing.,Negative,TripAdvisor,2023-09-21 15:48:00,user11059,Toronto,0.89,Subscription,Refund,4,117,Resolved
+Delivery took too long.,Negative,Website Testimonial,2023-08-23 22:19:00,user11060,Los Angeles,0.78,Gift Card,Billing,1,144,Resolved
+Product quality is acceptable.,Neutral,IMDb,2023-06-01 03:46:00,user11061,London,0.85,Mobile App,Billing,1,153,Pending
+Customer support never replied.,Negative,Email,2023-09-27 18:37:00,user11062,Toronto,0.88,Delivery Service,Delivery,2,100,Resolved
+Average performance.,Neutral,Email,2023-09-08 15:48:00,user11063,Berlin,0.82,Product A,Refund,4,58,Resolved
+Instructions were confusing.,Negative,ChatSupport,2023-08-04 16:45:00,user11064,Paris,0.78,Customer Portal,Usability,3,33,Resolved
+Website kept crashing.,Negative,Twitter,2023-07-14 23:18:00,user11065,Berlin,0.77,Gift Card,Usability,2,166,Pending
+Response time could be better.,Neutral,ChatSupport,2023-08-15 20:42:00,user11066,Dubai,0.72,Product A,Billing,4,71,Pending
+Chatbot was useless and unhelpful.,Negative,Amazon Reviews,2023-08-04 13:14:00,user11067,London,0.89,Mobile App,Product Quality,1,144,Pending
+Excellent support team.,Positive,ChatSupport,2023-09-27 18:09:00,user11068,Toronto,0.9,Website,Refund,1,145,Resolved
+Chat was fine but not great.,Neutral,Email,2023-07-03 13:42:00,user11069,Dubai,0.79,Gift Card,Technical,3,158,Pending
+Product quality is acceptable.,Neutral,TripAdvisor,2023-09-11 12:44:00,user11070,New York,0.71,Product B,Website Experience,4,5,Resolved
+Neither good nor bad.,Neutral,Twitter,2023-06-21 13:21:00,user11071,London,0.81,Product A,Delivery,3,180,Resolved
+"Met expectations, no issues.",Neutral,Website Testimonial,2023-06-27 21:20:00,user11072,Mumbai,0.87,Website,Usability,3,110,Resolved
+Product arrived damaged.,Negative,Twitter,2023-09-07 15:55:00,user11073,Sydney,0.73,Product B,Product Quality,5,85,Pending
+Product quality is acceptable.,Neutral,Email,2023-06-25 23:15:00,user11074,New York,0.73,Product A,Customer Support,5,93,Pending
+"It was okay, nothing special.",Neutral,Amazon Reviews,2023-08-02 16:29:00,user11075,London,0.8,Product B,Product Quality,2,50,Pending
+"It was okay, nothing special.",Neutral,Spotify,2023-07-28 04:16:00,user11076,Mumbai,0.81,Product B,Product Quality,2,33,Resolved
+Not worth the money.,Negative,Twitter,2023-07-15 03:27:00,user11077,Dubai,0.9,Subscription,Technical,2,92,Pending
+Product arrived damaged.,Negative,IMDb,2023-06-08 12:36:00,user11078,Dubai,0.74,Customer Portal,Usability,4,164,Resolved
+Customer support never replied.,Negative,Yelp,2023-08-14 04:35:00,user11079,Toronto,0.94,Gift Card,Usability,4,116,Resolved
+Customer support never replied.,Negative,Website Testimonial,2023-08-01 06:31:00,user11080,London,0.93,Subscription,Product Quality,4,99,Resolved
+Loved the product!,Positive,Amazon Reviews,2023-09-27 16:25:00,user11081,Singapore,0.79,Customer Portal,Customer Support,3,176,Pending
+User experience is fantastic.,Positive,Spotify,2023-09-01 21:23:00,user11082,Dubai,0.74,Product B,Website Experience,2,31,Resolved
+Chatbot was useless and unhelpful.,Negative,Amazon Reviews,2023-07-14 08:54:00,user11083,Berlin,0.75,Subscription,Billing,4,169,Pending
+Fast and friendly communication.,Positive,Twitter,2023-07-12 04:26:00,user11084,London,0.79,Mobile App,Refund,3,136,Pending
+Service quality was consistent.,Neutral,Website Testimonial,2023-09-10 14:58:00,user11085,Paris,0.72,Product B,Billing,3,8,Resolved
+Product arrived damaged.,Negative,TripAdvisor,2023-09-21 01:40:00,user11086,London,0.75,Premium Plan,Usability,2,22,Escalated
+Product quality is acceptable.,Neutral,Yelp,2023-07-13 00:05:00,user11087,Singapore,0.94,Product A,Product Quality,2,79,Resolved
+Chat was fine but not great.,Neutral,Amazon Reviews,2023-06-08 11:44:00,user11088,Sydney,0.75,Customer Portal,Usability,2,31,Resolved
+Amazing service!,Positive,Spotify,2023-06-01 14:36:00,user11089,Dubai,0.84,Subscription,Customer Support,5,122,Resolved
+Service quality was consistent.,Neutral,ChatSupport,2023-09-12 01:19:00,user11090,New York,0.81,Delivery Service,Website Experience,2,118,Resolved
+Everything worked perfectly.,Positive,IMDb,2023-07-31 15:06:00,user11091,Paris,0.87,Website,Refund,1,34,Pending
+Chat was fine but not great.,Neutral,ChatSupport,2023-06-09 14:36:00,user11092,Mumbai,0.8,Subscription,Customer Support,4,83,Resolved
+Delivery took too long.,Negative,Twitter,2023-08-08 20:14:00,user11093,New York,0.76,Customer Portal,Customer Support,5,169,Resolved
+Average performance.,Neutral,Website Testimonial,2023-06-01 09:32:00,user11094,Mumbai,0.83,Product B,Product Quality,4,50,Resolved
+Loved the product!,Positive,ChatSupport,2023-09-23 23:46:00,user11095,Mumbai,0.74,Subscription,Refund,4,130,Resolved
+Everything worked perfectly.,Positive,Email,2023-09-11 04:42:00,user11096,Mumbai,0.83,Subscription,Billing,3,11,Resolved
+Neither good nor bad.,Neutral,Amazon Reviews,2023-09-24 07:40:00,user11097,Los Angeles,0.77,Website,Customer Support,4,9,Resolved
+Product arrived damaged.,Negative,Twitter,2023-08-26 21:03:00,user11098,Sydney,0.9,Premium Plan,Billing,5,53,Resolved
+"Met expectations, no issues.",Neutral,Twitter,2023-08-10 15:52:00,user11099,Paris,0.86,Website,Billing,3,173,Resolved
+Neutral feeling about the experience.,Neutral,Amazon Reviews,2023-06-08 17:05:00,user11100,Berlin,0.92,Customer Portal,Refund,2,119,Pending
+Loved the product!,Positive,Website Testimonial,2023-07-17 15:49:00,user11101,Sydney,0.8,Customer Portal,Delivery,1,117,Resolved
+Experience was fair.,Neutral,TripAdvisor,2023-07-20 01:16:00,user11102,New York,0.89,Subscription,Billing,1,84,Resolved
+Neutral feeling about the experience.,Neutral,Spotify,2023-07-22 05:26:00,user11103,New York,0.91,Mobile App,Customer Support,1,159,Resolved
+Customer support never replied.,Negative,Email,2023-06-04 20:36:00,user11104,Dubai,0.82,Mobile App,Product Quality,3,99,Resolved
+Not worth the money.,Negative,IMDb,2023-09-04 09:14:00,user11105,Singapore,0.75,Delivery Service,Product Quality,2,55,Resolved
+Slow response from team.,Negative,TripAdvisor,2023-09-05 12:10:00,user11106,Berlin,0.8,Premium Plan,Billing,1,53,Resolved
+Customer care was top-notch.,Positive,Amazon Reviews,2023-06-18 08:32:00,user11107,New York,0.93,Gift Card,Product Quality,3,134,Resolved
+Very satisfied with the response.,Positive,IMDb,2023-08-12 23:16:00,user11108,Mumbai,0.93,Product A,Product Quality,3,160,Pending
+Customer care was top-notch.,Positive,TripAdvisor,2023-06-04 11:42:00,user11109,Mumbai,0.76,Gift Card,Usability,5,139,Resolved
+Slow response from team.,Negative,TripAdvisor,2023-07-19 12:55:00,user11110,Dubai,0.7,Product A,Customer Support,1,15,Resolved
+User experience is fantastic.,Positive,Website Testimonial,2023-08-27 05:53:00,user11111,Singapore,0.72,Premium Plan,Usability,2,21,Resolved
+Not worth the money.,Negative,ChatSupport,2023-09-24 03:30:00,user11112,Singapore,0.72,Premium Plan,Technical,2,12,Pending
+Customer care was top-notch.,Positive,ChatSupport,2023-09-12 10:35:00,user11113,Singapore,0.89,Delivery Service,Customer Support,3,141,Pending
+Loved the product!,Positive,Twitter,2023-06-27 23:58:00,user11114,New York,0.74,Delivery Service,Product Quality,4,28,Resolved
+Slow response from team.,Negative,Yelp,2023-08-06 23:21:00,user11115,London,0.77,Website,Website Experience,3,41,Pending
+Neutral feeling about the experience.,Neutral,ChatSupport,2023-09-27 16:55:00,user11116,Paris,0.94,Mobile App,Technical,5,25,Resolved
+Fast and friendly communication.,Positive,Spotify,2023-08-03 19:26:00,user11117,Los Angeles,0.84,Website,Delivery,3,143,Escalated
+Amazing service!,Positive,Email,2023-09-13 01:18:00,user11118,Sydney,0.91,Delivery Service,Refund,5,90,Resolved
+User experience is fantastic.,Positive,Email,2023-08-07 16:18:00,user11119,Mumbai,0.73,Gift Card,Delivery,1,178,Resolved
+Everything worked perfectly.,Positive,TripAdvisor,2023-07-07 17:19:00,user11120,Los Angeles,0.82,Subscription,Usability,3,70,Pending
+Customer care was top-notch.,Positive,IMDb,2023-07-11 17:58:00,user11121,Toronto,0.9,Product B,Refund,3,156,Resolved
+Not worth the money.,Negative,TripAdvisor,2023-09-23 05:26:00,user11122,Paris,0.87,Customer Portal,Refund,4,118,Escalated
+Fast and friendly communication.,Positive,Spotify,2023-06-09 16:03:00,user11123,New York,0.92,Subscription,Delivery,4,146,Pending
+Product quality is acceptable.,Neutral,Email,2023-08-01 20:43:00,user11124,Berlin,0.86,Customer Portal,Refund,5,148,Resolved
+Received wrong item.,Negative,Website Testimonial,2023-06-06 08:30:00,user11125,London,0.75,Customer Portal,Product Quality,5,28,Resolved
+Neutral feeling about the experience.,Neutral,Amazon Reviews,2023-07-10 02:38:00,user11126,New York,0.83,Mobile App,Product Quality,2,100,Pending
+User experience is fantastic.,Positive,ChatSupport,2023-07-07 08:59:00,user11127,Singapore,0.77,Customer Portal,Technical,2,8,Resolved
+Experience was fair.,Neutral,Email,2023-07-27 01:41:00,user11128,London,0.81,Customer Portal,Customer Support,5,106,Escalated
+Service quality was consistent.,Neutral,Spotify,2023-06-30 22:23:00,user11129,Sydney,0.83,Website,Billing,2,15,Pending
+Instructions were confusing.,Negative,TripAdvisor,2023-08-05 18:29:00,user11130,Toronto,0.87,Subscription,Technical,3,162,Resolved
+Fast and friendly communication.,Positive,TripAdvisor,2023-08-05 21:19:00,user11131,London,0.95,Product A,Website Experience,2,46,Escalated
+Website kept crashing.,Negative,Email,2023-08-30 14:50:00,user11132,Berlin,0.95,Customer Portal,Website Experience,3,8,Pending
+Neutral feeling about the experience.,Neutral,Twitter,2023-07-28 19:27:00,user11133,Sydney,0.9,Mobile App,Delivery,2,125,Resolved
+Fast and friendly communication.,Positive,Email,2023-07-10 16:04:00,user11134,Toronto,0.82,Product B,Refund,4,98,Resolved
+Response time could be better.,Neutral,ChatSupport,2023-09-13 08:51:00,user11135,Mumbai,0.73,Gift Card,Billing,3,25,Resolved
+Amazing service!,Positive,Spotify,2023-09-16 15:27:00,user11136,Sydney,0.88,Product B,Website Experience,4,59,Resolved
+Amazing service!,Positive,Spotify,2023-08-29 00:28:00,user11137,Paris,0.77,Premium Plan,Customer Support,3,67,Resolved
+Fast and friendly communication.,Positive,Email,2023-06-25 04:13:00,user11138,New York,0.8,Delivery Service,Technical,1,154,Resolved
+Received wrong item.,Negative,ChatSupport,2023-09-28 15:37:00,user11139,Mumbai,0.81,Premium Plan,Refund,5,156,Resolved
+Not worth the money.,Negative,Email,2023-07-01 09:57:00,user11140,Paris,0.87,Product B,Billing,5,33,Pending
+Neutral feeling about the experience.,Neutral,Yelp,2023-08-04 03:00:00,user11141,London,0.76,Product A,Billing,3,106,Resolved
+Neutral feeling about the experience.,Neutral,ChatSupport,2023-09-01 03:14:00,user11142,Dubai,0.93,Customer Portal,Usability,4,125,Escalated
+Loved the product!,Positive,IMDb,2023-08-30 05:05:00,user11143,Los Angeles,0.92,Website,Refund,3,53,Pending
+Response time could be better.,Neutral,TripAdvisor,2023-06-08 18:52:00,user11144,Sydney,0.82,Product B,Website Experience,5,17,Resolved
+Customer support never replied.,Negative,Email,2023-08-05 00:56:00,user11145,Sydney,0.94,Customer Portal,Technical,1,40,Resolved
+Customer care was top-notch.,Positive,TripAdvisor,2023-06-07 23:59:00,user11146,Toronto,0.93,Product B,Customer Support,2,73,Resolved
+Fast and friendly communication.,Positive,Yelp,2023-07-12 09:28:00,user11147,London,0.92,Premium Plan,Refund,3,146,Resolved
+Everything worked perfectly.,Positive,Website Testimonial,2023-06-05 21:30:00,user11148,New York,0.94,Subscription,Website Experience,1,159,Resolved
+Chat was fine but not great.,Neutral,Website Testimonial,2023-06-10 16:54:00,user11149,Paris,0.71,Product B,Customer Support,5,6,Pending
+Not worth the money.,Negative,ChatSupport,2023-06-05 22:15:00,user11150,Paris,0.81,Delivery Service,Delivery,1,25,Resolved
+Great quality and quick delivery.,Positive,TripAdvisor,2023-06-28 11:45:00,user11151,Los Angeles,0.72,Mobile App,Website Experience,4,18,Resolved
+Great quality and quick delivery.,Positive,Yelp,2023-08-20 08:03:00,user11152,Berlin,0.88,Premium Plan,Website Experience,3,147,Resolved
+Delivery took too long.,Negative,Email,2023-08-22 22:00:00,user11153,London,0.75,Premium Plan,Product Quality,2,176,Resolved
+Received wrong item.,Negative,Yelp,2023-06-08 13:20:00,user11154,Sydney,0.87,Product B,Product Quality,5,56,Resolved
+Customer care was top-notch.,Positive,Twitter,2023-08-04 02:41:00,user11155,Berlin,0.71,Subscription,Technical,3,41,Pending
+Loved the product!,Positive,TripAdvisor,2023-06-23 18:06:00,user11156,Dubai,0.72,Subscription,Customer Support,3,130,Resolved
+Product quality is acceptable.,Neutral,Yelp,2023-09-11 00:41:00,user11157,Paris,0.9,Subscription,Billing,4,158,Resolved
+Website kept crashing.,Negative,Twitter,2023-08-04 21:42:00,user11158,Toronto,0.92,Product B,Technical,1,46,Resolved
+Neutral feeling about the experience.,Neutral,Yelp,2023-08-26 14:47:00,user11159,Berlin,0.92,Product A,Usability,1,69,Pending
+Amazing service!,Positive,ChatSupport,2023-09-20 06:54:00,user11160,New York,0.86,Subscription,Usability,2,98,Resolved
+Neutral feeling about the experience.,Neutral,ChatSupport,2023-07-07 07:09:00,user11161,Berlin,0.89,Website,Usability,2,91,Resolved
+Service quality was consistent.,Neutral,Amazon Reviews,2023-08-13 18:34:00,user11162,Toronto,0.87,Mobile App,Delivery,2,84,Resolved
+Service quality was consistent.,Neutral,Twitter,2023-07-09 07:35:00,user11163,Sydney,0.92,Premium Plan,Product Quality,4,79,Escalated
+Very satisfied with the response.,Positive,ChatSupport,2023-09-17 03:24:00,user11164,Berlin,0.86,Gift Card,Customer Support,4,66,Resolved
+Excellent support team.,Positive,Spotify,2023-08-25 01:22:00,user11165,Paris,0.79,Customer Portal,Website Experience,4,94,Pending
+"It was okay, nothing special.",Neutral,Amazon Reviews,2023-07-25 21:43:00,user11166,Dubai,0.78,Delivery Service,Website Experience,3,175,Resolved
+Average performance.,Neutral,ChatSupport,2023-08-08 21:05:00,user11167,Los Angeles,0.88,Mobile App,Technical,2,91,Resolved
+Neutral feeling about the experience.,Neutral,TripAdvisor,2023-08-03 12:19:00,user11168,Toronto,0.89,Delivery Service,Product Quality,5,173,Escalated
+"Terrible experience, very disappointed.",Negative,Website Testimonial,2023-07-09 03:44:00,user11169,Paris,0.79,Website,Usability,4,80,Resolved
+Customer care was top-notch.,Positive,ChatSupport,2023-08-03 16:08:00,user11170,Toronto,0.71,Customer Portal,Customer Support,5,151,Resolved
+User experience is fantastic.,Positive,Email,2023-06-06 12:23:00,user11171,Paris,0.7,Delivery Service,Refund,4,152,Pending
+Chat was fine but not great.,Neutral,Email,2023-06-12 03:36:00,user11172,New York,0.79,Gift Card,Usability,2,74,Pending
+Website kept crashing.,Negative,Website Testimonial,2023-09-07 22:48:00,user11173,Los Angeles,0.89,Customer Portal,Technical,3,146,Resolved
+I will definitely recommend this to friends.,Positive,Twitter,2023-06-10 19:49:00,user11174,Mumbai,0.76,Gift Card,Website Experience,2,178,Resolved
+Service quality was consistent.,Neutral,Spotify,2023-07-25 16:13:00,user11175,Berlin,0.92,Gift Card,Technical,2,63,Resolved
+Everything worked perfectly.,Positive,Amazon Reviews,2023-09-11 11:55:00,user11176,Toronto,0.92,Subscription,Website Experience,1,129,Pending
+Neither good nor bad.,Neutral,Website Testimonial,2023-09-07 05:42:00,user11177,Los Angeles,0.82,Mobile App,Technical,1,96,Resolved
+Product quality is acceptable.,Neutral,ChatSupport,2023-09-17 06:53:00,user11178,Toronto,0.72,Subscription,Billing,3,54,Resolved
+Neither good nor bad.,Neutral,Website Testimonial,2023-08-31 20:12:00,user11179,Paris,0.95,Mobile App,Billing,4,38,Resolved
+Fast and friendly communication.,Positive,Website Testimonial,2023-09-01 06:48:00,user11180,Singapore,0.94,Product B,Refund,2,146,Pending
+Response time could be better.,Neutral,Website Testimonial,2023-08-28 15:48:00,user11181,Sydney,0.77,Gift Card,Refund,1,24,Resolved
+User experience is fantastic.,Positive,Email,2023-07-10 21:30:00,user11182,Los Angeles,0.84,Delivery Service,Customer Support,5,63,Resolved
+Fast and friendly communication.,Positive,Website Testimonial,2023-07-15 19:28:00,user11183,Singapore,0.87,Subscription,Website Experience,2,67,Resolved
+Received wrong item.,Negative,Twitter,2023-09-23 04:02:00,user11184,London,0.78,Product B,Billing,3,130,Resolved
+Customer support never replied.,Negative,Twitter,2023-06-01 14:34:00,user11185,Berlin,0.77,Website,Customer Support,2,62,Escalated
+"Terrible experience, very disappointed.",Negative,IMDb,2023-06-20 13:40:00,user11186,Berlin,0.9,Gift Card,Delivery,3,107,Escalated
+"It was okay, nothing special.",Neutral,Yelp,2023-06-15 05:02:00,user11187,Sydney,0.91,Subscription,Customer Support,3,145,Escalated
+I will definitely recommend this to friends.,Positive,IMDb,2023-06-26 17:01:00,user11188,Dubai,0.79,Product A,Website Experience,4,159,Resolved
+Chatbot was useless and unhelpful.,Negative,Amazon Reviews,2023-06-08 22:12:00,user11189,Los Angeles,0.89,Premium Plan,Technical,2,133,Resolved
+Customer support never replied.,Negative,ChatSupport,2023-07-28 01:03:00,user11190,Singapore,0.82,Subscription,Customer Support,5,67,Resolved
+Not worth the money.,Negative,IMDb,2023-07-16 10:02:00,user11191,Singapore,0.93,Delivery Service,Technical,1,104,Resolved
+Website kept crashing.,Negative,Amazon Reviews,2023-09-03 09:34:00,user11192,Paris,0.72,Premium Plan,Website Experience,3,167,Resolved
+Chat was fine but not great.,Neutral,Amazon Reviews,2023-07-01 21:44:00,user11193,New York,0.71,Premium Plan,Billing,1,18,Pending
+Response time could be better.,Neutral,ChatSupport,2023-09-22 11:09:00,user11194,Dubai,0.88,Premium Plan,Usability,2,58,Resolved
+Very satisfied with the response.,Positive,Email,2023-06-06 05:02:00,user11195,Dubai,0.78,Product B,Website Experience,2,146,Resolved
+Slow response from team.,Negative,ChatSupport,2023-07-16 17:08:00,user11196,Toronto,0.7,Mobile App,Customer Support,1,147,Resolved
+"Met expectations, no issues.",Neutral,ChatSupport,2023-07-13 14:50:00,user11197,Dubai,0.87,Product A,Refund,3,12,Resolved
+I will definitely recommend this to friends.,Positive,ChatSupport,2023-08-28 20:45:00,user11198,London,0.84,Mobile App,Billing,4,136,Resolved
+Not worth the money.,Negative,Twitter,2023-07-09 16:39:00,user11199,London,0.94,Premium Plan,Refund,3,173,Resolved
+Product arrived damaged.,Negative,Spotify,2023-08-02 08:04:00,user11200,Mumbai,0.78,Delivery Service,Refund,3,132,Resolved
+Customer support never replied.,Negative,Twitter,2023-06-12 12:15:00,user11201,Mumbai,0.78,Subscription,Technical,1,55,Resolved
+Experience was fair.,Neutral,Twitter,2023-08-09 11:14:00,user11202,Toronto,0.72,Delivery Service,Technical,5,125,Resolved
+I will definitely recommend this to friends.,Positive,Yelp,2023-07-12 15:43:00,user11203,New York,0.9,Customer Portal,Website Experience,3,165,Resolved
+Neither good nor bad.,Neutral,Email,2023-09-18 01:57:00,user11204,Singapore,0.94,Premium Plan,Usability,1,174,Escalated
+Product arrived damaged.,Negative,Yelp,2023-06-23 11:57:00,user11205,Mumbai,0.92,Premium Plan,Technical,2,42,Escalated
+Amazing service!,Positive,ChatSupport,2023-06-03 22:18:00,user11206,Toronto,0.76,Mobile App,Usability,5,168,Resolved
+"It was okay, nothing special.",Neutral,IMDb,2023-07-27 07:55:00,user11207,Paris,0.86,Premium Plan,Customer Support,2,178,Pending
+Delivery took too long.,Negative,Website Testimonial,2023-09-29 14:36:00,user11208,Sydney,0.77,Premium Plan,Billing,4,180,Resolved
+Delivery took too long.,Negative,Amazon Reviews,2023-06-05 05:27:00,user11209,Dubai,0.76,Subscription,Refund,1,22,Resolved
+Fast and friendly communication.,Positive,Yelp,2023-08-25 17:13:00,user11210,New York,0.74,Delivery Service,Billing,4,105,Escalated
+"Met expectations, no issues.",Neutral,TripAdvisor,2023-08-23 22:16:00,user11211,Paris,0.89,Customer Portal,Product Quality,1,167,Pending
+Not worth the money.,Negative,ChatSupport,2023-06-14 20:29:00,user11212,Singapore,0.84,Product B,Refund,5,141,Resolved
+Experience was fair.,Neutral,Website Testimonial,2023-08-09 04:31:00,user11213,Singapore,0.85,Product A,Technical,5,65,Resolved
+Chat was fine but not great.,Neutral,Website Testimonial,2023-07-09 06:02:00,user11214,Singapore,0.87,Gift Card,Usability,2,90,Resolved
+Service quality was consistent.,Neutral,Twitter,2023-07-27 23:05:00,user11215,Sydney,0.94,Premium Plan,Refund,5,14,Pending
+I will definitely recommend this to friends.,Positive,Email,2023-09-29 00:34:00,user11216,Singapore,0.75,Website,Usability,2,142,Resolved
+Website kept crashing.,Negative,Email,2023-07-16 22:40:00,user11217,Toronto,0.72,Customer Portal,Technical,4,30,Resolved
+Not worth the money.,Negative,ChatSupport,2023-06-10 12:06:00,user11218,Sydney,0.77,Premium Plan,Product Quality,4,35,Resolved
+Delivery took too long.,Negative,Twitter,2023-09-01 17:53:00,user11219,Mumbai,0.92,Mobile App,Customer Support,4,173,Pending
+Not worth the money.,Negative,Email,2023-08-09 02:14:00,user11220,Sydney,0.91,Subscription,Website Experience,4,52,Resolved
+Response time could be better.,Neutral,Email,2023-08-03 13:57:00,user11221,Berlin,0.71,Customer Portal,Billing,5,74,Resolved
+"Terrible experience, very disappointed.",Negative,Website Testimonial,2023-06-08 02:03:00,user11222,Toronto,0.91,Product A,Customer Support,5,69,Resolved
+Product quality is acceptable.,Neutral,IMDb,2023-08-25 21:32:00,user11223,New York,0.71,Product B,Delivery,5,175,Resolved
+Response time could be better.,Neutral,Yelp,2023-08-22 23:45:00,user11224,Berlin,0.92,Subscription,Website Experience,4,150,Pending
+Customer care was top-notch.,Positive,Email,2023-09-11 08:46:00,user11225,Dubai,0.72,Product A,Usability,4,132,Resolved
+Received wrong item.,Negative,ChatSupport,2023-08-11 01:08:00,user11226,Toronto,0.75,Premium Plan,Billing,2,9,Resolved
+"Met expectations, no issues.",Neutral,Spotify,2023-08-10 13:22:00,user11227,Mumbai,0.77,Gift Card,Refund,4,44,Escalated
+Slow response from team.,Negative,IMDb,2023-07-07 03:46:00,user11228,New York,0.78,Gift Card,Usability,3,93,Resolved
+Chatbot was useless and unhelpful.,Negative,IMDb,2023-07-05 20:26:00,user11229,Los Angeles,0.75,Delivery Service,Refund,4,9,Resolved
+Service quality was consistent.,Neutral,IMDb,2023-06-15 11:50:00,user11230,Los Angeles,0.88,Delivery Service,Usability,2,102,Pending
+Received wrong item.,Negative,ChatSupport,2023-06-23 13:23:00,user11231,Dubai,0.9,Gift Card,Delivery,3,170,Resolved
+Neither good nor bad.,Neutral,TripAdvisor,2023-06-03 19:58:00,user11232,Dubai,0.87,Subscription,Website Experience,2,145,Resolved
+Neither good nor bad.,Neutral,Email,2023-08-02 05:46:00,user11233,Toronto,0.76,Subscription,Usability,1,73,Resolved
+Customer support never replied.,Negative,IMDb,2023-08-17 08:17:00,user11234,Berlin,0.81,Subscription,Website Experience,5,14,Resolved
+Instructions were confusing.,Negative,Spotify,2023-07-14 18:02:00,user11235,Mumbai,0.83,Subscription,Refund,5,57,Pending
+Average performance.,Neutral,Email,2023-08-29 04:33:00,user11236,Berlin,0.85,Premium Plan,Refund,3,60,Escalated
+Loved the product!,Positive,IMDb,2023-09-07 18:48:00,user11237,Berlin,0.89,Premium Plan,Website Experience,2,149,Resolved
+Received wrong item.,Negative,Website Testimonial,2023-07-18 02:37:00,user11238,Los Angeles,0.9,Product B,Customer Support,1,119,Resolved
+Delivery took too long.,Negative,IMDb,2023-07-06 00:50:00,user11239,Dubai,0.93,Subscription,Usability,3,118,Pending
+Loved the product!,Positive,IMDb,2023-09-02 10:25:00,user11240,Dubai,0.71,Product A,Delivery,1,95,Resolved
+Not worth the money.,Negative,ChatSupport,2023-09-23 22:43:00,user11241,New York,0.74,Subscription,Usability,3,6,Escalated
+Chatbot was useless and unhelpful.,Negative,Amazon Reviews,2023-08-10 18:24:00,user11242,Toronto,0.86,Mobile App,Product Quality,4,22,Pending
+Very satisfied with the response.,Positive,Yelp,2023-06-20 09:37:00,user11243,Los Angeles,0.71,Subscription,Refund,5,104,Pending
+"It was okay, nothing special.",Neutral,Twitter,2023-09-15 03:51:00,user11244,Singapore,0.95,Gift Card,Product Quality,4,37,Resolved
+Website kept crashing.,Negative,Amazon Reviews,2023-07-15 13:54:00,user11245,London,0.71,Delivery Service,Refund,2,155,Resolved
+Experience was fair.,Neutral,Yelp,2023-08-11 00:18:00,user11246,Los Angeles,0.8,Website,Website Experience,5,55,Resolved
+Product quality is acceptable.,Neutral,TripAdvisor,2023-09-26 04:29:00,user11247,London,0.75,Delivery Service,Usability,2,122,Resolved
+Average performance.,Neutral,Spotify,2023-08-14 06:28:00,user11248,Los Angeles,0.91,Subscription,Delivery,5,105,Escalated
+"Met expectations, no issues.",Neutral,Twitter,2023-09-26 19:17:00,user11249,Toronto,0.86,Mobile App,Website Experience,1,57,Pending
+Experience was fair.,Neutral,Yelp,2023-06-20 05:20:00,user11250,Dubai,0.93,Product B,Customer Support,2,82,Pending
+Product arrived damaged.,Negative,Amazon Reviews,2023-08-08 11:29:00,user11251,Dubai,0.94,Product B,Product Quality,3,73,Resolved
+Product quality is acceptable.,Neutral,IMDb,2023-08-18 20:41:00,user11252,New York,0.77,Customer Portal,Customer Support,3,87,Resolved
+Loved the product!,Positive,Website Testimonial,2023-07-18 21:19:00,user11253,Berlin,0.91,Customer Portal,Website Experience,5,69,Pending
+Everything worked perfectly.,Positive,Amazon Reviews,2023-08-24 00:42:00,user11254,Toronto,0.72,Customer Portal,Billing,5,9,Resolved
+Very satisfied with the response.,Positive,TripAdvisor,2023-06-22 17:39:00,user11255,Dubai,0.71,Delivery Service,Technical,5,74,Resolved
+Experience was fair.,Neutral,Website Testimonial,2023-07-25 20:38:00,user11256,Dubai,0.9,Delivery Service,Website Experience,3,78,Resolved
+"Terrible experience, very disappointed.",Negative,Twitter,2023-06-02 03:03:00,user11257,Sydney,0.92,Subscription,Refund,5,26,Pending
+User experience is fantastic.,Positive,IMDb,2023-09-01 07:48:00,user11258,Paris,0.73,Delivery Service,Usability,4,108,Resolved
+Received wrong item.,Negative,Website Testimonial,2023-08-16 23:41:00,user11259,Los Angeles,0.71,Gift Card,Billing,3,19,Escalated
+"It was okay, nothing special.",Neutral,Website Testimonial,2023-06-23 20:07:00,user11260,Los Angeles,0.78,Subscription,Technical,5,175,Resolved
+Delivery took too long.,Negative,Spotify,2023-08-30 02:34:00,user11261,Singapore,0.94,Website,Billing,1,55,Escalated
+"It was okay, nothing special.",Neutral,ChatSupport,2023-08-12 23:03:00,user11262,Toronto,0.88,Website,Usability,3,136,Resolved
+"Terrible experience, very disappointed.",Negative,Spotify,2023-06-24 03:57:00,user11263,Los Angeles,0.89,Gift Card,Product Quality,5,27,Resolved
+Loved the product!,Positive,Email,2023-07-23 05:25:00,user11264,London,0.86,Product B,Customer Support,5,61,Pending
+"It was okay, nothing special.",Neutral,Spotify,2023-09-06 01:20:00,user11265,London,0.84,Gift Card,Delivery,1,116,Resolved
+Neutral feeling about the experience.,Neutral,Yelp,2023-07-13 18:38:00,user11266,Mumbai,0.89,Product A,Website Experience,5,170,Pending
+Product arrived damaged.,Negative,Amazon Reviews,2023-06-27 06:34:00,user11267,New York,0.86,Premium Plan,Delivery,2,165,Resolved
+Received wrong item.,Negative,Twitter,2023-08-19 07:59:00,user11268,Paris,0.81,Customer Portal,Customer Support,4,143,Resolved
+Customer support never replied.,Negative,Spotify,2023-09-02 18:33:00,user11269,Dubai,0.76,Product B,Technical,2,40,Escalated
+"Terrible experience, very disappointed.",Negative,Amazon Reviews,2023-09-15 19:49:00,user11270,Berlin,0.93,Product A,Billing,2,36,Resolved
+Experience was fair.,Neutral,Website Testimonial,2023-06-05 09:33:00,user11271,Sydney,0.81,Website,Website Experience,4,33,Resolved
+Received wrong item.,Negative,Email,2023-08-17 12:00:00,user11272,New York,0.78,Gift Card,Billing,2,138,Resolved
+"Met expectations, no issues.",Neutral,IMDb,2023-07-08 09:45:00,user11273,Dubai,0.81,Product A,Refund,4,125,Escalated
+Great quality and quick delivery.,Positive,Email,2023-09-14 00:25:00,user11274,Singapore,0.88,Premium Plan,Product Quality,5,149,Resolved
+Delivery took too long.,Negative,Email,2023-07-13 11:12:00,user11275,Toronto,0.71,Product B,Delivery,2,170,Resolved
+Everything worked perfectly.,Positive,IMDb,2023-07-31 15:31:00,user11276,Berlin,0.75,Delivery Service,Refund,5,75,Resolved
+Neutral feeling about the experience.,Neutral,Amazon Reviews,2023-09-17 03:46:00,user11277,Mumbai,0.72,Subscription,Refund,3,22,Resolved
+Chatbot was useless and unhelpful.,Negative,Email,2023-09-25 13:38:00,user11278,Toronto,0.7,Premium Plan,Usability,1,148,Resolved
+Fast and friendly communication.,Positive,Email,2023-07-22 14:45:00,user11279,New York,0.85,Product A,Customer Support,4,71,Resolved
+Product quality is acceptable.,Neutral,IMDb,2023-07-03 17:30:00,user11280,London,0.81,Website,Customer Support,1,33,Resolved
+Great quality and quick delivery.,Positive,Website Testimonial,2023-09-07 19:49:00,user11281,Toronto,0.76,Customer Portal,Usability,5,169,Escalated
+Excellent support team.,Positive,TripAdvisor,2023-07-18 09:48:00,user11282,Sydney,0.8,Mobile App,Website Experience,1,53,Resolved
+Amazing service!,Positive,IMDb,2023-08-06 13:35:00,user11283,Berlin,0.79,Website,Refund,5,147,Resolved
+Slow response from team.,Negative,Spotify,2023-06-06 10:16:00,user11284,Sydney,0.71,Mobile App,Billing,2,165,Resolved
+Loved the product!,Positive,Yelp,2023-06-12 15:44:00,user11285,New York,0.7,Gift Card,Billing,3,31,Resolved
+"Met expectations, no issues.",Neutral,Yelp,2023-09-14 18:05:00,user11286,Singapore,0.83,Website,Customer Support,2,87,Resolved
+Fast and friendly communication.,Positive,Website Testimonial,2023-08-13 19:37:00,user11287,London,0.77,Product B,Product Quality,1,9,Pending
+Service quality was consistent.,Neutral,Spotify,2023-07-01 02:11:00,user11288,Toronto,0.82,Customer Portal,Refund,1,70,Resolved
+Response time could be better.,Neutral,IMDb,2023-06-24 12:28:00,user11289,New York,0.74,Subscription,Technical,4,113,Resolved
+Fast and friendly communication.,Positive,TripAdvisor,2023-07-11 04:05:00,user11290,Berlin,0.92,Product A,Billing,5,65,Pending
+Average performance.,Neutral,TripAdvisor,2023-08-28 22:34:00,user11291,Berlin,0.92,Mobile App,Website Experience,4,169,Resolved
+Experience was fair.,Neutral,Email,2023-09-18 22:46:00,user11292,Mumbai,0.79,Product B,Customer Support,2,113,Resolved
+Average performance.,Neutral,Amazon Reviews,2023-08-05 05:26:00,user11293,Dubai,0.95,Premium Plan,Delivery,4,121,Resolved
+Fast and friendly communication.,Positive,ChatSupport,2023-08-03 00:24:00,user11294,Mumbai,0.77,Premium Plan,Refund,1,36,Resolved
+Not worth the money.,Negative,Email,2023-08-20 00:48:00,user11295,Los Angeles,0.85,Product A,Technical,5,53,Resolved
+Delivery took too long.,Negative,Email,2023-07-19 01:22:00,user11296,Mumbai,0.87,Customer Portal,Usability,3,143,Resolved
+Fast and friendly communication.,Positive,IMDb,2023-09-03 03:54:00,user11297,Los Angeles,0.83,Customer Portal,Website Experience,3,135,Resolved
+Product quality is acceptable.,Neutral,Twitter,2023-07-05 21:39:00,user11298,London,0.74,Customer Portal,Refund,4,161,Resolved
+Delivery took too long.,Negative,Yelp,2023-06-17 05:09:00,user11299,Singapore,0.85,Product A,Refund,4,44,Resolved
+Not worth the money.,Negative,Spotify,2023-07-08 11:20:00,user11300,Toronto,0.8,Product A,Product Quality,2,14,Resolved
+Everything worked perfectly.,Positive,Yelp,2023-08-28 18:42:00,user11301,Sydney,0.75,Premium Plan,Usability,5,134,Resolved
+User experience is fantastic.,Positive,Twitter,2023-08-24 20:36:00,user11302,Dubai,0.89,Product B,Refund,5,107,Resolved
+Instructions were confusing.,Negative,Email,2023-09-29 09:13:00,user11303,New York,0.72,Delivery Service,Customer Support,3,139,Resolved
+Average performance.,Neutral,Twitter,2023-07-11 08:19:00,user11304,London,0.94,Delivery Service,Website Experience,5,156,Resolved
+Amazing service!,Positive,TripAdvisor,2023-09-17 08:19:00,user11305,Toronto,0.76,Customer Portal,Customer Support,1,127,Resolved
+I will definitely recommend this to friends.,Positive,Spotify,2023-08-31 20:12:00,user11306,Dubai,0.87,Mobile App,Customer Support,1,65,Resolved
+Instructions were confusing.,Negative,Email,2023-08-01 18:59:00,user11307,Toronto,0.84,Customer Portal,Customer Support,1,102,Pending
+Neutral feeling about the experience.,Neutral,Yelp,2023-08-26 01:01:00,user11308,London,0.74,Customer Portal,Refund,2,170,Pending
+Not worth the money.,Negative,Website Testimonial,2023-08-09 06:30:00,user11309,Paris,0.71,Mobile App,Refund,4,74,Pending
+"Met expectations, no issues.",Neutral,ChatSupport,2023-07-23 11:31:00,user11310,Sydney,0.88,Product A,Website Experience,1,168,Escalated
+Service quality was consistent.,Neutral,IMDb,2023-09-21 12:17:00,user11311,New York,0.78,Product B,Customer Support,3,33,Pending
+"Terrible experience, very disappointed.",Negative,IMDb,2023-07-10 23:47:00,user11312,Berlin,0.94,Customer Portal,Billing,2,57,Resolved
+Experience was fair.,Neutral,Spotify,2023-06-06 10:48:00,user11313,Berlin,0.7,Mobile App,Technical,4,139,Pending
+Average performance.,Neutral,IMDb,2023-06-17 11:23:00,user11314,Dubai,0.88,Delivery Service,Website Experience,3,126,Resolved
+Great quality and quick delivery.,Positive,Email,2023-08-26 20:51:00,user11315,Mumbai,0.94,Customer Portal,Customer Support,4,58,Resolved
+I will definitely recommend this to friends.,Positive,ChatSupport,2023-06-15 12:00:00,user11316,Dubai,0.81,Premium Plan,Billing,3,141,Resolved
+Very satisfied with the response.,Positive,Yelp,2023-07-30 13:24:00,user11317,Paris,0.75,Premium Plan,Product Quality,2,40,Resolved
+Excellent support team.,Positive,IMDb,2023-07-13 12:16:00,user11318,New York,0.83,Product B,Billing,4,29,Resolved
+Product arrived damaged.,Negative,Amazon Reviews,2023-08-01 18:23:00,user11319,Toronto,0.74,Website,Usability,4,112,Escalated
+"Terrible experience, very disappointed.",Negative,ChatSupport,2023-06-28 00:16:00,user11320,Singapore,0.87,Gift Card,Billing,2,63,Escalated
+Amazing service!,Positive,ChatSupport,2023-07-05 00:48:00,user11321,Mumbai,0.94,Subscription,Delivery,2,39,Resolved
+Amazing service!,Positive,Website Testimonial,2023-09-15 04:29:00,user11322,Paris,0.84,Customer Portal,Technical,2,126,Resolved
+Great quality and quick delivery.,Positive,TripAdvisor,2023-07-18 16:42:00,user11323,Dubai,0.77,Subscription,Technical,1,96,Escalated
+I will definitely recommend this to friends.,Positive,Amazon Reviews,2023-06-06 15:28:00,user11324,Los Angeles,0.93,Mobile App,Website Experience,5,180,Resolved
+Received wrong item.,Negative,Spotify,2023-06-26 07:41:00,user11325,Sydney,0.92,Customer Portal,Customer Support,4,123,Resolved
+Very satisfied with the response.,Positive,Website Testimonial,2023-08-22 02:24:00,user11326,New York,0.85,Customer Portal,Delivery,1,58,Resolved
+Neither good nor bad.,Neutral,TripAdvisor,2023-08-23 22:33:00,user11327,Dubai,0.83,Subscription,Refund,3,133,Resolved
+Website kept crashing.,Negative,Twitter,2023-09-06 05:46:00,user11328,Dubai,0.75,Product B,Refund,4,123,Resolved
+Fast and friendly communication.,Positive,Twitter,2023-08-10 06:50:00,user11329,London,0.86,Premium Plan,Website Experience,5,125,Resolved
+Received wrong item.,Negative,ChatSupport,2023-08-18 03:04:00,user11330,New York,0.86,Subscription,Usability,3,82,Resolved
+Experience was fair.,Neutral,IMDb,2023-08-16 22:58:00,user11331,Berlin,0.8,Product B,Product Quality,5,116,Resolved
+Product quality is acceptable.,Neutral,Twitter,2023-07-25 08:34:00,user11332,London,0.82,Product A,Usability,4,98,Resolved
+Great quality and quick delivery.,Positive,Yelp,2023-09-14 15:07:00,user11333,Berlin,0.84,Delivery Service,Billing,1,166,Resolved
+Response time could be better.,Neutral,Email,2023-06-05 04:07:00,user11334,Mumbai,0.86,Customer Portal,Customer Support,1,12,Escalated
+Product quality is acceptable.,Neutral,Website Testimonial,2023-07-12 22:31:00,user11335,Dubai,0.79,Subscription,Technical,3,85,Resolved
+Neither good nor bad.,Neutral,ChatSupport,2023-06-21 18:25:00,user11336,Paris,0.85,Customer Portal,Technical,2,73,Resolved
+Service quality was consistent.,Neutral,Email,2023-09-22 05:50:00,user11337,Sydney,0.87,Product B,Usability,3,41,Resolved
+"Terrible experience, very disappointed.",Negative,Twitter,2023-06-17 09:26:00,user11338,London,0.8,Website,Product Quality,4,34,Resolved
+Not worth the money.,Negative,Email,2023-09-26 19:50:00,user11339,Dubai,0.89,Website,Usability,5,44,Resolved
+Everything worked perfectly.,Positive,TripAdvisor,2023-06-11 01:10:00,user11340,Singapore,0.87,Premium Plan,Product Quality,4,57,Resolved
+Response time could be better.,Neutral,IMDb,2023-07-31 06:56:00,user11341,London,0.91,Subscription,Customer Support,1,81,Escalated
+Great quality and quick delivery.,Positive,Twitter,2023-07-22 06:49:00,user11342,Berlin,0.89,Premium Plan,Billing,2,59,Resolved
+Product quality is acceptable.,Neutral,Twitter,2023-06-06 15:16:00,user11343,Mumbai,0.72,Website,Delivery,2,45,Resolved
+Neither good nor bad.,Neutral,TripAdvisor,2023-07-30 12:43:00,user11344,Los Angeles,0.89,Mobile App,Product Quality,3,23,Escalated
+Response time could be better.,Neutral,ChatSupport,2023-07-30 17:19:00,user11345,Dubai,0.76,Mobile App,Refund,1,130,Resolved
+Customer care was top-notch.,Positive,Amazon Reviews,2023-07-16 23:58:00,user11346,Berlin,0.77,Customer Portal,Billing,3,107,Escalated
+Loved the product!,Positive,Email,2023-08-04 15:03:00,user11347,London,0.74,Subscription,Refund,4,147,Resolved
+Instructions were confusing.,Negative,TripAdvisor,2023-06-24 21:22:00,user11348,Berlin,0.88,Subscription,Website Experience,3,70,Resolved
+Website kept crashing.,Negative,Email,2023-06-14 11:00:00,user11349,Toronto,0.71,Website,Delivery,2,125,Resolved
+Customer support never replied.,Negative,ChatSupport,2023-07-23 09:09:00,user11350,Paris,0.78,Delivery Service,Product Quality,2,172,Pending
+"Met expectations, no issues.",Neutral,Twitter,2023-08-17 19:03:00,user11351,Dubai,0.95,Product B,Technical,2,144,Resolved
+Not worth the money.,Negative,IMDb,2023-06-26 13:00:00,user11352,New York,0.78,Premium Plan,Technical,3,78,Pending
+Chat was fine but not great.,Neutral,IMDb,2023-07-18 23:14:00,user11353,New York,0.95,Website,Customer Support,4,144,Escalated
+Delivery took too long.,Negative,Website Testimonial,2023-08-31 13:06:00,user11354,New York,0.8,Premium Plan,Usability,5,70,Pending
+Everything worked perfectly.,Positive,Website Testimonial,2023-07-05 07:54:00,user11355,Toronto,0.83,Premium Plan,Product Quality,5,142,Escalated
+User experience is fantastic.,Positive,Website Testimonial,2023-06-25 02:38:00,user11356,New York,0.76,Delivery Service,Refund,4,145,Resolved
+Not worth the money.,Negative,Twitter,2023-07-12 16:56:00,user11357,Sydney,0.82,Mobile App,Refund,5,172,Pending
+Instructions were confusing.,Negative,Spotify,2023-06-20 16:29:00,user11358,Los Angeles,0.79,Customer Portal,Refund,4,81,Pending
+Excellent support team.,Positive,Amazon Reviews,2023-07-09 09:43:00,user11359,Los Angeles,0.79,Product B,Usability,3,99,Resolved
+Slow response from team.,Negative,IMDb,2023-08-14 18:53:00,user11360,Paris,0.73,Website,Refund,2,179,Resolved
+Product arrived damaged.,Negative,Email,2023-09-11 01:03:00,user11361,New York,0.94,Product A,Customer Support,2,114,Resolved
+Neither good nor bad.,Neutral,Amazon Reviews,2023-07-11 02:33:00,user11362,Sydney,0.9,Premium Plan,Product Quality,4,48,Pending
+Delivery took too long.,Negative,Yelp,2023-08-18 07:45:00,user11363,Singapore,0.94,Premium Plan,Product Quality,2,97,Pending
+Customer support never replied.,Negative,Email,2023-07-21 16:47:00,user11364,Mumbai,0.75,Mobile App,Customer Support,1,135,Resolved
+Product quality is acceptable.,Neutral,Website Testimonial,2023-08-06 01:00:00,user11365,Singapore,0.7,Premium Plan,Technical,1,162,Escalated
+Slow response from team.,Negative,Spotify,2023-08-31 00:48:00,user11366,London,0.79,Product A,Website Experience,2,130,Resolved
+Delivery took too long.,Negative,Twitter,2023-08-16 19:41:00,user11367,Los Angeles,0.79,Product B,Technical,5,155,Escalated
+Delivery took too long.,Negative,Yelp,2023-08-23 17:24:00,user11368,New York,0.78,Delivery Service,Billing,2,54,Escalated
+"It was okay, nothing special.",Neutral,Website Testimonial,2023-08-21 03:29:00,user11369,Singapore,0.94,Gift Card,Billing,1,139,Resolved
+Great quality and quick delivery.,Positive,Amazon Reviews,2023-08-15 03:13:00,user11370,London,0.79,Gift Card,Customer Support,3,17,Escalated
+Slow response from team.,Negative,Email,2023-09-29 11:00:00,user11371,Singapore,0.78,Premium Plan,Delivery,5,153,Resolved
+"Terrible experience, very disappointed.",Negative,Website Testimonial,2023-07-04 15:05:00,user11372,Paris,0.95,Delivery Service,Website Experience,4,14,Resolved
+Everything worked perfectly.,Positive,TripAdvisor,2023-08-21 17:42:00,user11373,Sydney,0.81,Delivery Service,Website Experience,2,96,Resolved
+Experience was fair.,Neutral,Spotify,2023-07-29 11:48:00,user11374,Paris,0.91,Customer Portal,Refund,1,80,Resolved
+Delivery took too long.,Negative,Yelp,2023-09-11 18:33:00,user11375,Dubai,0.89,Gift Card,Website Experience,1,143,Resolved
+Everything worked perfectly.,Positive,Yelp,2023-08-07 07:34:00,user11376,Dubai,0.83,Product B,Billing,2,31,Pending
+Response time could be better.,Neutral,Twitter,2023-08-11 12:35:00,user11377,Dubai,0.73,Gift Card,Technical,3,155,Resolved
+Very satisfied with the response.,Positive,Twitter,2023-09-06 00:56:00,user11378,Singapore,0.73,Product A,Delivery,2,27,Resolved
+User experience is fantastic.,Positive,ChatSupport,2023-06-01 05:48:00,user11379,Sydney,0.89,Gift Card,Delivery,5,155,Pending
+Customer care was top-notch.,Positive,Website Testimonial,2023-07-07 03:12:00,user11380,Singapore,0.91,Customer Portal,Product Quality,3,69,Resolved
+"It was okay, nothing special.",Neutral,Twitter,2023-06-19 06:39:00,user11381,Dubai,0.76,Gift Card,Website Experience,2,62,Resolved
+Customer care was top-notch.,Positive,IMDb,2023-08-31 11:27:00,user11382,Paris,0.71,Product A,Website Experience,3,88,Resolved
+Excellent support team.,Positive,ChatSupport,2023-06-20 11:57:00,user11383,Sydney,0.85,Gift Card,Website Experience,2,89,Resolved
+Neutral feeling about the experience.,Neutral,Twitter,2023-06-08 23:02:00,user11384,London,0.79,Subscription,Website Experience,1,58,Resolved
+"Met expectations, no issues.",Neutral,ChatSupport,2023-09-04 22:38:00,user11385,London,0.95,Subscription,Customer Support,1,40,Resolved
+Chat was fine but not great.,Neutral,TripAdvisor,2023-06-09 14:45:00,user11386,London,0.87,Premium Plan,Billing,2,24,Resolved
+Delivery took too long.,Negative,ChatSupport,2023-09-07 06:40:00,user11387,Sydney,0.72,Product B,Billing,5,122,Escalated
+Excellent support team.,Positive,TripAdvisor,2023-09-01 04:09:00,user11388,Paris,0.74,Gift Card,Website Experience,2,178,Resolved
+Service quality was consistent.,Neutral,TripAdvisor,2023-08-10 23:57:00,user11389,Dubai,0.81,Delivery Service,Customer Support,4,164,Pending
+Service quality was consistent.,Neutral,Amazon Reviews,2023-07-11 17:14:00,user11390,Mumbai,0.79,Subscription,Customer Support,1,138,Pending
+Slow response from team.,Negative,IMDb,2023-06-21 23:10:00,user11391,Los Angeles,0.82,Mobile App,Product Quality,4,86,Resolved
+Amazing service!,Positive,Amazon Reviews,2023-06-15 06:43:00,user11392,Toronto,0.92,Delivery Service,Customer Support,3,23,Pending
+Everything worked perfectly.,Positive,Spotify,2023-08-09 05:28:00,user11393,Sydney,0.74,Subscription,Billing,1,40,Escalated
+Service quality was consistent.,Neutral,Amazon Reviews,2023-08-24 19:45:00,user11394,Dubai,0.7,Product A,Usability,4,109,Resolved
+Product arrived damaged.,Negative,IMDb,2023-07-12 14:57:00,user11395,Mumbai,0.74,Product A,Usability,5,180,Escalated
+User experience is fantastic.,Positive,Amazon Reviews,2023-08-14 07:31:00,user11396,Paris,0.74,Mobile App,Website Experience,4,7,Resolved
+"It was okay, nothing special.",Neutral,Twitter,2023-08-30 22:37:00,user11397,Berlin,0.75,Delivery Service,Refund,5,55,Resolved
+Slow response from team.,Negative,Email,2023-06-03 01:53:00,user11398,Toronto,0.78,Customer Portal,Technical,1,144,Resolved
+Everything worked perfectly.,Positive,Yelp,2023-08-16 10:02:00,user11399,Sydney,0.89,Mobile App,Refund,5,132,Pending
+User experience is fantastic.,Positive,Email,2023-06-22 05:12:00,user11400,Mumbai,0.74,Product A,Product Quality,4,155,Pending
+"Met expectations, no issues.",Neutral,Yelp,2023-07-12 03:37:00,user11401,New York,0.94,Gift Card,Customer Support,3,55,Resolved
+Delivery took too long.,Negative,IMDb,2023-08-17 16:30:00,user11402,Dubai,0.88,Gift Card,Product Quality,3,112,Pending
+Experience was fair.,Neutral,Spotify,2023-07-14 16:32:00,user11403,Singapore,0.95,Product A,Billing,5,77,Resolved
+Website kept crashing.,Negative,Website Testimonial,2023-07-17 01:59:00,user11404,Dubai,0.76,Premium Plan,Customer Support,4,28,Escalated
+Very satisfied with the response.,Positive,TripAdvisor,2023-08-11 19:01:00,user11405,London,0.78,Premium Plan,Technical,2,176,Pending
+Average performance.,Neutral,Twitter,2023-09-21 08:44:00,user11406,Berlin,0.74,Delivery Service,Website Experience,3,148,Pending
+Amazing service!,Positive,TripAdvisor,2023-07-04 18:36:00,user11407,Mumbai,0.94,Customer Portal,Refund,2,51,Pending
+Fast and friendly communication.,Positive,Email,2023-06-13 22:23:00,user11408,Singapore,0.86,Customer Portal,Technical,1,11,Resolved
+Customer care was top-notch.,Positive,TripAdvisor,2023-07-05 21:16:00,user11409,London,0.94,Website,Customer Support,2,146,Resolved
+Fast and friendly communication.,Positive,Spotify,2023-06-25 07:37:00,user11410,Sydney,0.83,Product A,Customer Support,4,120,Resolved
+Instructions were confusing.,Negative,ChatSupport,2023-08-03 16:52:00,user11411,Los Angeles,0.85,Gift Card,Usability,3,104,Pending
+Neutral feeling about the experience.,Neutral,Spotify,2023-08-23 06:36:00,user11412,Toronto,0.71,Gift Card,Delivery,3,175,Resolved
+"Met expectations, no issues.",Neutral,Amazon Reviews,2023-06-25 05:22:00,user11413,Sydney,0.8,Mobile App,Delivery,5,11,Resolved
+Excellent support team.,Positive,Twitter,2023-07-16 17:46:00,user11414,Toronto,0.75,Gift Card,Technical,2,51,Escalated
+Amazing service!,Positive,IMDb,2023-09-07 09:26:00,user11415,Mumbai,0.9,Product A,Delivery,5,162,Resolved
+Customer care was top-notch.,Positive,Twitter,2023-09-22 03:59:00,user11416,Toronto,0.86,Gift Card,Delivery,2,44,Resolved
+User experience is fantastic.,Positive,Website Testimonial,2023-09-24 07:56:00,user11417,New York,0.87,Website,Usability,4,159,Resolved
+Average performance.,Neutral,Amazon Reviews,2023-07-17 14:17:00,user11418,Los Angeles,0.71,Premium Plan,Billing,5,112,Resolved
+User experience is fantastic.,Positive,TripAdvisor,2023-07-07 20:58:00,user11419,New York,0.87,Subscription,Delivery,3,68,Resolved
+Chat was fine but not great.,Neutral,Twitter,2023-07-31 12:19:00,user11420,New York,0.82,Mobile App,Delivery,5,49,Resolved
+"Met expectations, no issues.",Neutral,Website Testimonial,2023-08-15 05:11:00,user11421,Paris,0.89,Delivery Service,Usability,5,159,Resolved
+Average performance.,Neutral,Website Testimonial,2023-06-03 07:13:00,user11422,Singapore,0.75,Premium Plan,Technical,1,77,Pending
+Customer support never replied.,Negative,Twitter,2023-08-08 23:52:00,user11423,Toronto,0.72,Gift Card,Refund,4,75,Resolved
+Response time could be better.,Neutral,Spotify,2023-06-14 02:01:00,user11424,Paris,0.85,Website,Technical,1,9,Escalated
+Average performance.,Neutral,Spotify,2023-07-28 18:18:00,user11425,Mumbai,0.85,Product A,Usability,5,6,Resolved
+Very satisfied with the response.,Positive,Yelp,2023-06-10 00:06:00,user11426,Los Angeles,0.75,Product A,Product Quality,2,128,Resolved
+"It was okay, nothing special.",Neutral,Website Testimonial,2023-09-12 04:09:00,user11427,Mumbai,0.82,Mobile App,Billing,3,63,Resolved
+Experience was fair.,Neutral,ChatSupport,2023-07-15 11:49:00,user11428,Singapore,0.88,Mobile App,Billing,4,88,Pending
+"Met expectations, no issues.",Neutral,Twitter,2023-09-17 04:36:00,user11429,Paris,0.8,Premium Plan,Technical,4,51,Resolved
+Very satisfied with the response.,Positive,Yelp,2023-08-07 17:17:00,user11430,New York,0.74,Delivery Service,Usability,4,66,Resolved
+Instructions were confusing.,Negative,TripAdvisor,2023-07-03 04:42:00,user11431,Paris,0.88,Premium Plan,Usability,5,165,Pending
+"Met expectations, no issues.",Neutral,Yelp,2023-06-14 15:47:00,user11432,Dubai,0.86,Product A,Product Quality,1,10,Resolved
+Website kept crashing.,Negative,Twitter,2023-09-17 03:50:00,user11433,Dubai,0.9,Gift Card,Delivery,1,123,Pending
+Amazing service!,Positive,TripAdvisor,2023-07-17 05:14:00,user11434,Toronto,0.86,Delivery Service,Product Quality,5,172,Resolved
+Chatbot was useless and unhelpful.,Negative,Amazon Reviews,2023-09-19 02:03:00,user11435,New York,0.76,Website,Refund,4,41,Resolved
+"Met expectations, no issues.",Neutral,Twitter,2023-09-10 09:04:00,user11436,London,0.94,Mobile App,Product Quality,5,179,Pending
+Product quality is acceptable.,Neutral,Yelp,2023-07-18 09:38:00,user11437,Sydney,0.93,Premium Plan,Refund,3,19,Resolved
+Delivery took too long.,Negative,ChatSupport,2023-07-18 07:03:00,user11438,Paris,0.94,Mobile App,Billing,4,146,Resolved
+Customer support never replied.,Negative,ChatSupport,2023-06-08 21:21:00,user11439,Toronto,0.83,Subscription,Website Experience,3,6,Resolved
+Received wrong item.,Negative,Email,2023-06-23 23:14:00,user11440,New York,0.91,Customer Portal,Refund,5,25,Resolved
+Experience was fair.,Neutral,Spotify,2023-08-05 07:46:00,user11441,Sydney,0.88,Website,Billing,2,17,Resolved
+Excellent support team.,Positive,Website Testimonial,2023-09-17 20:49:00,user11442,Singapore,0.92,Product B,Product Quality,2,42,Resolved
+Fast and friendly communication.,Positive,Email,2023-08-17 14:00:00,user11443,Sydney,0.92,Customer Portal,Billing,3,140,Resolved
+Website kept crashing.,Negative,Twitter,2023-06-25 17:38:00,user11444,Berlin,0.94,Product A,Billing,5,37,Resolved
+Response time could be better.,Neutral,TripAdvisor,2023-08-04 00:17:00,user11445,Toronto,0.85,Mobile App,Product Quality,2,180,Resolved
+Neutral feeling about the experience.,Neutral,Amazon Reviews,2023-06-29 02:40:00,user11446,Sydney,0.73,Premium Plan,Website Experience,2,65,Pending
+"It was okay, nothing special.",Neutral,Yelp,2023-08-17 17:52:00,user11447,Dubai,0.8,Mobile App,Product Quality,1,68,Resolved
+Amazing service!,Positive,Twitter,2023-06-05 23:16:00,user11448,New York,0.9,Product B,Website Experience,4,38,Resolved
+Fast and friendly communication.,Positive,Twitter,2023-08-18 17:56:00,user11449,Dubai,0.88,Customer Portal,Website Experience,4,79,Resolved
+Loved the product!,Positive,Spotify,2023-08-22 19:16:00,user11450,Dubai,0.8,Mobile App,Usability,3,166,Resolved
+Chatbot was useless and unhelpful.,Negative,IMDb,2023-06-06 05:52:00,user11451,London,0.73,Subscription,Website Experience,5,14,Resolved
+Customer support never replied.,Negative,IMDb,2023-08-18 04:01:00,user11452,Dubai,0.71,Product B,Website Experience,4,131,Resolved
+Slow response from team.,Negative,Amazon Reviews,2023-09-04 03:52:00,user11453,Berlin,0.93,Premium Plan,Billing,1,171,Resolved
+Excellent support team.,Positive,Spotify,2023-06-07 08:47:00,user11454,Mumbai,0.91,Product A,Usability,4,57,Resolved
+"Met expectations, no issues.",Neutral,IMDb,2023-09-23 00:50:00,user11455,London,0.91,Gift Card,Customer Support,5,101,Resolved
+Service quality was consistent.,Neutral,ChatSupport,2023-08-25 15:26:00,user11456,New York,0.75,Website,Delivery,3,168,Pending
+Product arrived damaged.,Negative,ChatSupport,2023-06-11 00:44:00,user11457,Toronto,0.87,Gift Card,Website Experience,3,65,Resolved
+Chatbot was useless and unhelpful.,Negative,Yelp,2023-09-29 09:39:00,user11458,Los Angeles,0.89,Product A,Website Experience,3,40,Resolved
+Not worth the money.,Negative,IMDb,2023-09-04 10:21:00,user11459,New York,0.72,Premium Plan,Delivery,4,127,Pending
+Everything worked perfectly.,Positive,Yelp,2023-08-26 05:16:00,user11460,Toronto,0.88,Product B,Website Experience,1,159,Resolved
+Product arrived damaged.,Negative,IMDb,2023-09-28 07:58:00,user11461,Sydney,0.93,Mobile App,Customer Support,2,6,Resolved
+Experience was fair.,Neutral,ChatSupport,2023-07-22 09:17:00,user11462,Paris,0.73,Mobile App,Product Quality,1,94,Resolved
+Fast and friendly communication.,Positive,ChatSupport,2023-08-15 10:00:00,user11463,Singapore,0.88,Product A,Website Experience,2,75,Pending
+Neutral feeling about the experience.,Neutral,Yelp,2023-07-11 14:02:00,user11464,London,0.94,Gift Card,Usability,1,162,Escalated
+Service quality was consistent.,Neutral,Email,2023-09-15 05:03:00,user11465,Singapore,0.76,Mobile App,Customer Support,5,133,Resolved
+Instructions were confusing.,Negative,Twitter,2023-08-24 01:53:00,user11466,Dubai,0.78,Website,Website Experience,3,101,Escalated
+Service quality was consistent.,Neutral,Website Testimonial,2023-09-15 13:50:00,user11467,Los Angeles,0.84,Mobile App,Product Quality,1,116,Pending
+Customer care was top-notch.,Positive,Amazon Reviews,2023-06-27 23:44:00,user11468,Dubai,0.84,Mobile App,Delivery,3,26,Resolved
+Neutral feeling about the experience.,Neutral,ChatSupport,2023-08-10 20:39:00,user11469,Mumbai,0.87,Product A,Delivery,3,138,Resolved
+Great quality and quick delivery.,Positive,TripAdvisor,2023-09-04 02:58:00,user11470,Singapore,0.88,Subscription,Usability,3,87,Resolved
+Average performance.,Neutral,Twitter,2023-08-10 03:37:00,user11471,Toronto,0.8,Product A,Customer Support,3,8,Resolved
+Slow response from team.,Negative,Email,2023-09-06 11:42:00,user11472,New York,0.73,Website,Usability,4,170,Escalated
+Instructions were confusing.,Negative,Yelp,2023-07-07 19:38:00,user11473,Sydney,0.81,Gift Card,Technical,3,154,Resolved
+Instructions were confusing.,Negative,Yelp,2023-06-26 03:00:00,user11474,Paris,0.92,Website,Billing,1,122,Resolved
+Product quality is acceptable.,Neutral,Yelp,2023-07-14 02:27:00,user11475,Singapore,0.91,Delivery Service,Delivery,4,65,Resolved
+Service quality was consistent.,Neutral,TripAdvisor,2023-08-16 14:55:00,user11476,New York,0.91,Website,Delivery,5,155,Resolved
+Everything worked perfectly.,Positive,IMDb,2023-07-03 00:16:00,user11477,New York,0.82,Premium Plan,Refund,2,79,Escalated
+Website kept crashing.,Negative,Amazon Reviews,2023-08-22 12:14:00,user11478,Dubai,0.93,Subscription,Billing,2,43,Resolved
+Delivery took too long.,Negative,TripAdvisor,2023-08-29 17:12:00,user11479,London,0.79,Customer Portal,Customer Support,3,57,Resolved
+Chat was fine but not great.,Neutral,TripAdvisor,2023-08-01 10:23:00,user11480,Dubai,0.86,Gift Card,Delivery,2,124,Pending
+Instructions were confusing.,Negative,Spotify,2023-07-05 22:04:00,user11481,Dubai,0.92,Product B,Technical,5,81,Escalated
+Customer support never replied.,Negative,Website Testimonial,2023-09-27 03:23:00,user11482,Singapore,0.74,Subscription,Refund,2,147,Resolved
+Everything worked perfectly.,Positive,Yelp,2023-07-23 21:08:00,user11483,Sydney,0.75,Product B,Website Experience,1,146,Pending
+Loved the product!,Positive,Email,2023-07-01 19:33:00,user11484,Berlin,0.74,Customer Portal,Website Experience,1,37,Resolved
+Service quality was consistent.,Neutral,Email,2023-06-02 15:05:00,user11485,Mumbai,0.94,Premium Plan,Product Quality,5,131,Resolved
+Received wrong item.,Negative,TripAdvisor,2023-07-12 15:08:00,user11486,New York,0.74,Premium Plan,Refund,4,71,Escalated
+Response time could be better.,Neutral,Email,2023-06-11 02:57:00,user11487,Los Angeles,0.87,Product B,Product Quality,5,129,Resolved
+Product arrived damaged.,Negative,Email,2023-06-10 13:11:00,user11488,Berlin,0.93,Product B,Customer Support,2,29,Pending
+Service quality was consistent.,Neutral,TripAdvisor,2023-09-23 05:19:00,user11489,Berlin,0.94,Premium Plan,Delivery,2,60,Resolved
+Amazing service!,Positive,Email,2023-06-01 05:16:00,user11490,London,0.78,Website,Customer Support,3,56,Pending
+Loved the product!,Positive,Twitter,2023-06-10 18:00:00,user11491,Mumbai,0.91,Subscription,Billing,1,59,Pending
+Fast and friendly communication.,Positive,TripAdvisor,2023-06-26 23:44:00,user11492,Toronto,0.89,Premium Plan,Usability,1,81,Resolved
+"Terrible experience, very disappointed.",Negative,Website Testimonial,2023-08-11 10:01:00,user11493,Paris,0.92,Subscription,Customer Support,3,46,Resolved
+Very satisfied with the response.,Positive,Website Testimonial,2023-07-25 19:43:00,user11494,Paris,0.89,Premium Plan,Usability,5,81,Pending
+Everything worked perfectly.,Positive,Twitter,2023-08-21 02:45:00,user11495,Paris,0.8,Customer Portal,Website Experience,5,15,Resolved
+Website kept crashing.,Negative,TripAdvisor,2023-07-27 20:22:00,user11496,Mumbai,0.82,Product A,Product Quality,1,63,Resolved
+User experience is fantastic.,Positive,Yelp,2023-08-22 10:06:00,user11497,Los Angeles,0.81,Premium Plan,Product Quality,5,101,Resolved
+"Terrible experience, very disappointed.",Negative,Spotify,2023-08-14 04:19:00,user11498,Singapore,0.71,Gift Card,Product Quality,5,50,Escalated
+Neither good nor bad.,Neutral,Spotify,2023-07-01 23:48:00,user11499,Berlin,0.87,Website,Delivery,2,57,Pending
