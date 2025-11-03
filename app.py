@@ -11,6 +11,16 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.utils import ImageReader
 from transformers import pipeline
 
+# Try to import Prophet safely
+try:
+    from prophet import Prophet
+    import matplotlib
+    matplotlib.use("Agg")
+    prophet_available = True
+except ImportError:
+    prophet_available = False
+
+
 # -----------------------------
 # 1. Dynamic AI-like Summarizer
 # -----------------------------
@@ -78,26 +88,115 @@ def predict_sentiment(text):
 
 
 # -----------------------------
-# 3. Load Hugging Face Chatbot
+# 3. Load Hugging Face Chatbot (lightweight)
 # -----------------------------
 @st.cache_resource
 def load_chatbot():
     try:
-        chatbot = pipeline("text2text-generation", model="google/flan-t5-base")
+        chatbot = pipeline("text2text-generation", model="google/flan-t5-small")
         return chatbot
     except Exception as e:
         st.error(f"❌ Error loading Hugging Face model: {e}")
         return None
 
+
 chatbot = load_chatbot()
 
 
 # -----------------------------
-# 4. Streamlit App UI
+# 4. Streamlit App Configuration
 # -----------------------------
 st.set_page_config(page_title="AI Customer Feedback Insights", layout="wide")
-st.title("🧠 AI Customer Feedback Insights Dashboard")
+st.title("🤖 AI Customer Feedback Insights Dashboard")
 
+# -----------------------------
+# 🌤️ Light Mode Simple Styling (Sidebar toggle fixed)
+# -----------------------------
+st.markdown("""
+<style>
+/* 🌤️ Simple Light Mode + Sidebar Toggle Fixed */
+
+/* Background */
+body, [class*="stAppViewContainer"] {
+    background: linear-gradient(120deg, #f0f4ff 0%, #ffffff 100%) !important;
+    color: #333333;
+    font-family: 'Inter', sans-serif;
+}
+
+/* Main container */
+.main {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0 4px 25px rgba(0, 0, 0, 0.1);
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background: #f9fafc !important;
+    border-right: 1px solid #e0e0e0 !important;
+}
+[data-testid="stSidebar"] * {
+    color: #333 !important;
+    font-weight: 500;
+}
+
+/* Buttons */
+div.stButton > button {
+    background: linear-gradient(90deg, #00c6ff, #0072ff);
+    color: #fff;
+    border: none;
+    padding: 0.7rem 1.3rem;
+    border-radius: 10px;
+    font-weight: 600;
+    transition: all 0.25s ease-in-out;
+}
+div.stButton > button:hover {
+    transform: scale(1.05);
+    background: linear-gradient(90deg, #38ef7d, #11998e);
+}
+
+/* Inputs */
+textarea, input {
+    background: #ffffff !important;
+    color: #000 !important;
+    border-radius: 10px !important;
+    border: 1px solid #ccc !important;
+    font-size: 1rem !important;
+    padding: 12px !important;
+}
+textarea:focus, input:focus {
+    border-color: #0072ff !important;
+    box-shadow: 0 0 10px rgba(0, 114, 255, 0.3) !important;
+}
+::placeholder {
+    color: #777 !important;
+}
+
+/* Chat area larger */
+[data-testid="stTextArea"] textarea {
+    min-height: 120px !important;
+}
+
+/* Sidebar toggle visible */
+footer {visibility: hidden !important;}
+header {
+    visibility: visible !important;
+    background: transparent !important;
+}
+[data-testid="collapsedControl"] {
+    visibility: visible !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+</style>
+""", unsafe_allow_html=True)
+
+
+# -----------------------------
+# 5. Sidebar & Main App Logic
+# -----------------------------
 st.sidebar.header("📂 Upload or Input Data")
 option = st.sidebar.radio("Choose input type:", ["Single Feedback", "CSV File"])
 
@@ -131,11 +230,6 @@ else:
 
             st.dataframe(df.head())
 
-            # -----------------------------
-            # Visualization: Sentiment Trend
-            # -----------------------------
-            st.subheader("📊 Sentiment Trend Visualization")
-
             if "Date" not in df.columns:
                 start_date = datetime.now() - timedelta(days=len(df))
                 df["Date"] = [start_date + timedelta(days=i) for i in range(len(df))]
@@ -143,44 +237,50 @@ else:
             sentiment_map = {"Positive": 1, "Neutral": 0, "Negative": -1}
             df["SentimentScore"] = df["Sentiment"].map(sentiment_map)
 
-            plt.figure(figsize=(8, 3))
-            plt.plot(df["Date"], df["SentimentScore"], label="Historical", color="blue")
-            forecast_dates = [df["Date"].iloc[-1] + timedelta(days=i) for i in range(1, 31)]
-            forecast_scores = [np.mean(df["SentimentScore"])] * 30
-            plt.plot(forecast_dates, forecast_scores, "--", label="Forecast", color="orange")
-            plt.legend()
-            plt.xlabel("Date")
-            plt.ylabel("Sentiment")
-            plt.title("Sentiment Trend Forecast")
-            plt.tight_layout()
-            buf = io.BytesIO()
-            plt.savefig(buf, format="png")
-            buf.seek(0)
-            st.image(buf)
+            st.subheader("📊 Sentiment Analysis Visualization")
+            col1, col2 = st.columns(2)
 
-            # -----------------------------
-            # Pie Chart
-            # -----------------------------
-            st.subheader("📈 Sentiment Distribution")
-            pie_buf = io.BytesIO()
-            sentiment_counts = df["Sentiment"].value_counts()
-            plt.figure(figsize=(4, 4))
-            plt.pie(
-                sentiment_counts,
-                labels=sentiment_counts.index,
-                autopct="%1.1f%%",
-                startangle=90,
-                shadow=True,
-            )
-            plt.title("Sentiment Distribution")
-            plt.tight_layout()
-            plt.savefig(pie_buf, format="png")
-            pie_buf.seek(0)
-            st.image(pie_buf)
+            with col1:
+                if prophet_available:
+                    try:
+                        df_prophet = df[["Date", "SentimentScore"]].rename(columns={"Date": "ds", "SentimentScore": "y"})
+                        model = Prophet()
+                        model.fit(df_prophet)
+                        future = model.make_future_dataframe(periods=30)
+                        forecast = model.predict(future)
+                        fig1 = model.plot(forecast)
+                        plt.title("Sentiment Trend Forecast (Prophet)")
+                        st.pyplot(fig1)
+                    except Exception as e:
+                        st.warning(f"⚠️ Prophet forecast error: {e}")
+                else:
+                    plt.figure(figsize=(8, 3))
+                    plt.plot(df["Date"], df["SentimentScore"], label="Historical", color="blue")
+                    forecast_dates = [df["Date"].iloc[-1] + timedelta(days=i) for i in range(1, 31)]
+                    forecast_scores = [np.mean(df["SentimentScore"])] * 30
+                    plt.plot(forecast_dates, forecast_scores, "--", label="Forecast", color="orange")
+                    plt.legend()
+                    plt.xlabel("Date")
+                    plt.ylabel("Sentiment")
+                    plt.title("Sentiment Trend Forecast")
+                    plt.tight_layout()
+                    buf = io.BytesIO()
+                    plt.savefig(buf, format="png")
+                    buf.seek(0)
+                    st.image(buf)
 
-            # -----------------------------
-            # Insights
-            # -----------------------------
+            with col2:
+                st.subheader("📈 Sentiment Distribution")
+                pie_buf = io.BytesIO()
+                sentiment_counts = df["Sentiment"].value_counts()
+                plt.figure(figsize=(4, 4))
+                plt.pie(sentiment_counts, labels=sentiment_counts.index, autopct="%1.1f%%", startangle=90, shadow=True)
+                plt.title("Sentiment Distribution")
+                plt.tight_layout()
+                plt.savefig(pie_buf, format="png")
+                pie_buf.seek(0)
+                st.image(pie_buf)
+
             st.subheader("🧾 Insights Summary")
             avg_sent = np.mean(df["SentimentScore"])
             pos_ratio = sentiment_counts.get("Positive", 0) / len(df)
@@ -209,12 +309,9 @@ else:
             for line in insight_lines:
                 st.markdown(line)
 
-            # -----------------------------
-            # PDF Report
-            # -----------------------------
             st.subheader("📘 Generate Visualization & Insight Report")
 
-            def create_pdf_report(df, line_chart_buf, pie_chart_buf):
+            def create_pdf_report(df, pie_chart_buf):
                 pdf_buffer = io.BytesIO()
                 c = canvas.Canvas(pdf_buffer, pagesize=letter)
                 c.setFont("Helvetica-Bold", 16)
@@ -222,31 +319,25 @@ else:
                 c.setFont("Helvetica", 12)
                 c.drawString(50, 735, f"Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
                 c.line(50, 730, 550, 730)
-
-                img1 = ImageReader(line_chart_buf)
-                c.drawImage(img1, 50, 460, width=500, height=200)
-                img2 = ImageReader(pie_chart_buf)
-                c.drawImage(img2, 180, 240, width=250, height=200)
-
+                img1 = ImageReader(pie_chart_buf)
+                c.drawImage(img1, 180, 240, width=250, height=200)
                 c.setFont("Helvetica", 11)
                 text = c.beginText(50, 210)
                 text.textLines("\n".join(insight_lines))
                 c.drawText(text)
-
                 c.showPage()
                 c.save()
                 pdf_buffer.seek(0)
                 return pdf_buffer
 
             if st.button("📄 Create AI Insights PDF Report"):
-                pdf_data = create_pdf_report(df, buf, pie_buf)
+                pdf_data = create_pdf_report(df, pie_buf)
                 st.download_button(
                     label="⬇️ Download PDF Report",
                     data=pdf_data,
                     file_name="AI_Customer_Feedback_Insights.pdf",
                     mime="application/pdf",
                 )
-
 
 # -----------------------------
 # 9. AI Chatbot Section (Bonus)
